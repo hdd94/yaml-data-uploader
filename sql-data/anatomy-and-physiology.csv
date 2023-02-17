@@ -1,0 +1,297 @@
+1,Welche Bestandteile gehören zur Zelle?,Zellleib,1
+1,Welche Bestandteile gehören zur Zelle?,Zellkern,1
+1,Welche Bestandteile gehören zur Zelle?,Zellmembran,1
+1,Welche Bestandteile gehören zur Zelle?,Zellstamm,0
+2,In welchem Bereich der Zelle befindet sich die DNS (Desoxyribonukleinsäure)?,Zellleib ,0
+2,In welchem Bereich der Zelle befindet sich die DNS (Desoxyribonukleinsäure)?,Zellkern,1
+2,In welchem Bereich der Zelle befindet sich die DNS (Desoxyribonukleinsäure)?,Zellmembran,0
+2,In welchem Bereich der Zelle befindet sich die DNS (Desoxyribonukleinsäure)?,Zellstamm,0
+3,Welche Zelltypen sind dir bekannt?,Graue Zellen,0
+3,Welche Zelltypen sind dir bekannt?,Nervenzellen,1
+3,Welche Zelltypen sind dir bekannt?,Hautzellen,1
+3,Welche Zelltypen sind dir bekannt?,Knochenzellen,1
+4,Was ist ein Mitochondrium?,Eine Gewebeart,0
+4,Was ist ein Mitochondrium?,Ein Nervengewebe,0
+4,Was ist ein Mitochondrium?,Die Brennkammer der Zelle,1
+4,Was ist ein Mitochondrium?,Eine Zellorganelle,1
+5,Wo kommen Mitochondrien vor?,In der Muskulatur,1
+5,Wo kommen Mitochondrien vor?,In roten Blutkörperchen,0
+6,Welche Gewebearten sind dir bekannt?,Epithelgewebe,1
+6,Welche Gewebearten sind dir bekannt?,Binde- und Stützgewebe,1
+6,Welche Gewebearten sind dir bekannt?,Muskelgewebe ,1
+6,Welche Gewebearten sind dir bekannt?,Nervengewebe,1
+7,Was ist charakteristisch für Fasziengewebe?,Es ist schmerzempfindlich.,1
+7,Was ist charakteristisch für Fasziengewebe?,Es verbindet Muskeln und Knochen.,1
+7,Was ist charakteristisch für Fasziengewebe?,Es sorgt für Stabilität.,1
+7,Was ist charakteristisch für Fasziengewebe?,Es umhüllt Muskelfasern.,1
+8,Aus welchen funktionellen Einheiten besteht das Nervensystem?,Reflektorisches Nervensystem RNS,0
+8,Aus welchen funktionellen Einheiten besteht das Nervensystem?,Vegetatives Nervensystem VNS ,1
+8,Aus welchen funktionellen Einheiten besteht das Nervensystem?,Peripheres Nervensystem PNS,1
+8,Aus welchen funktionellen Einheiten besteht das Nervensystem?,Zentrales Nervensystem ZNS,1
+9,Das Vegetative Nervensystem (VNS) unterteilt sich in …,„Sympathisches“ und „Parasympathisches“ NS,1
+9,Das Vegetative Nervensystem (VNS) unterteilt sich in …,„Autonomes“ und „Nicht Autonomes“ NS,0
+10,Welche Aufgabe hat das zentrale Nervensystem?,koordiniert sämtliche motorische Aufgaben ,1
+10,Welche Aufgabe hat das zentrale Nervensystem?,reguliert die Körpertemperatur ,0
+10,Welche Aufgabe hat das zentrale Nervensystem?,sendet Signale über die Blutbahn an bestimmte Zielorgane ,0
+11,Welche Aufgabe hat das vegetative Nervensystem?,reguliert den motorischen Einsatz der Muskeln,0
+11,Welche Aufgabe hat das vegetative Nervensystem?,steuert lebenswichtige Funktionen der inneren Organe  ,1
+11,Welche Aufgabe hat das vegetative Nervensystem?,sendet Signale über die Blutbahn an bestimmte Zielorgane ,0
+12,Das parasympathische Nervensystem steht für …,"Hemmung, Drosslung, Erholung",1
+12,Das parasympathische Nervensystem steht für …,"Aktivierung, Leistung, Aggressivität",0
+13,Was wird unter Homöostase verstanden?,Aufrechterhaltung des inneren Gleichgewichts,1
+13,Was wird unter Homöostase verstanden?,Selbstregulation eines offenen Systems,1
+13,Was wird unter Homöostase verstanden?,Steuerung der Muskelaktivität,0
+14,Das sympathische Nervensystem steht für ...,"Hemmung, Drosslung, Erholung ",0
+14,Das sympathische Nervensystem steht für ...,"Aktivierung, Leistung, Aggressivität",1
+15,In welchen Bereich des Körpers befindet sich das sympathische Nervensystem?,Rückenmark der Brust- und Lendenwirbelsäule,1
+15,In welchen Bereich des Körpers befindet sich das sympathische Nervensystem?,"Gehirn, Rückenmark des Sakralbereichs ",0
+16,In welchen Bereich des Körpers befindet sich das parasympathische Nervensystem?,Rückenmark der Brust- und Lendenwirbelsäule,0
+16,In welchen Bereich des Körpers befindet sich das parasympathische Nervensystem?,"Gehirn, Rückenmark des Sakralbereichs ",1
+17,Eine Verengung der Blutgefäße und Erweiterung der Pupillen ist bezeichnend für den … ,Sympathikus ,1
+17,Eine Verengung der Blutgefäße und Erweiterung der Pupillen ist bezeichnend für den … ,Parasympathikus,0
+18,Welcher Ablauf bezüglich des Reflexbogens stimmt?,Störgröße -> Rezeptor -> Reflexzentrum -> Effektor -> Reflexhandlung,1
+18,Welcher Ablauf bezüglich des Reflexbogens stimmt?,Störgröße -> Effektor -> Reflexzentrum -> Rezeptor -> Reflexhandlung ,0
+19,Was sind Beispiele autonomer (unbewusster) Reflexe?,Saugreflex ,1
+19,Was sind Beispiele autonomer (unbewusster) Reflexe?,Würgereflex,1
+19,Was sind Beispiele autonomer (unbewusster) Reflexe?,Pupillenlichtreflex,1
+20,Was sind Beispiele erworbener Reflexe?,Ein Boxer pariert einen Faustschlag. ,1
+20,Was sind Beispiele erworbener Reflexe?,Ein Torwart hält einen Elfmeter.,1
+20,Was sind Beispiele erworbener Reflexe?,Ein Sprinter hört den Startschuss.,0
+21,Was sind Bestandteile des passiven Bewegungsapparats?,Schleimbeutel,0
+21,Was sind Bestandteile des passiven Bewegungsapparats?,Knochen,1
+21,Was sind Bestandteile des passiven Bewegungsapparats?,Knorpel,1
+21,Was sind Bestandteile des passiven Bewegungsapparats?,Bänder,1
+21,Was sind Bestandteile des passiven Bewegungsapparats?,Sehnen,0
+22,Was sind Bestandteile des aktiven Bewegungsapparats?,Schleimbeutel und Sehnenscheiden,1
+22,Was sind Bestandteile des aktiven Bewegungsapparats?,Muskeln,1
+22,Was sind Bestandteile des aktiven Bewegungsapparats?,Knorpel,0
+22,Was sind Bestandteile des aktiven Bewegungsapparats?,Bänder,0
+22,Was sind Bestandteile des aktiven Bewegungsapparats?,Sehnen,1
+23,Welche Arten der Muskulatur sind dir bekannt?,quergestreifte Skelettmuskulatur,1
+23,Welche Arten der Muskulatur sind dir bekannt?,glatte Muskulatur ,1
+23,Welche Arten der Muskulatur sind dir bekannt?,quergestreifte Herzmuskulatur,1
+23,Welche Arten der Muskulatur sind dir bekannt?,längsgestreifte Muskulatur,0
+24,Der lateinische Name bezeichnet den „Muskulus triceps brachii“ als einen …,… platten Muskel.,0
+24,Der lateinische Name bezeichnet den „Muskulus triceps brachii“ als einen …,… Ringmuskel.,0
+24,Der lateinische Name bezeichnet den „Muskulus triceps brachii“ als einen …,… zweiköpfigen Muskel.,0
+24,Der lateinische Name bezeichnet den „Muskulus triceps brachii“ als einen …,… dreiköpfigen Muskel.  ,1
+25,Welcher Muskel ist dir als ein „eingelenkiger Muskel“ bekannt?,der Brustmuskel (Pectoralis),0
+25,Welcher Muskel ist dir als ein „eingelenkiger Muskel“ bekannt?,der Hüftbeuger (Psoas),0
+25,Welcher Muskel ist dir als ein „eingelenkiger Muskel“ bekannt?,der Armbeuger (Brachialis) ,1
+26,Welches Muskelgewebe ist fähig zur Dauerkontraktion?,das Quergestreifte,0
+26,Welches Muskelgewebe ist fähig zur Dauerkontraktion?,das Glatte ,1
+26,Welches Muskelgewebe ist fähig zur Dauerkontraktion?,das Längsgestreifte,0
+27,Welche Arbeitsweisen der Muskulatur sind dir bekannt?,Konzentrisch ,1
+27,Welche Arbeitsweisen der Muskulatur sind dir bekannt?,Exzentrisch ,1
+27,Welche Arbeitsweisen der Muskulatur sind dir bekannt?,Statisch ,1
+27,Welche Arbeitsweisen der Muskulatur sind dir bekannt?,Isometrisch,0
+28,Bestimme die Arbeitsweise der Muskulatur beim Klimmzug.,Den Körper nach oben ziehen = Konzentrisch ,1
+28,Bestimme die Arbeitsweise der Muskulatur beim Klimmzug.,Den Körper nach oben ziehen = Exzentrisch ,0
+29,Bestimme die Arbeitsweise der Muskulatur bei der Kniebeuge.,Körper nach unten bewegen = Konzentrisch,0
+29,Bestimme die Arbeitsweise der Muskulatur bei der Kniebeuge.,Körper nach unten bewegen = Exzentrisch ,1
+30,Bestimme einen möglichen Synergisten beim Trizepstraining.,Vordere Schulteranteile,0
+30,Bestimme einen möglichen Synergisten beim Trizepstraining.,Hintere Schulteranteile,1
+30,Bestimme einen möglichen Synergisten beim Trizepstraining.,Seitliche Schulteranteile,0
+31,Bestimme einen möglichen Antagonisten beim Rudertraining.,Latissimus,0
+31,Bestimme einen möglichen Antagonisten beim Rudertraining.,Brustmuskel,1
+31,Bestimme einen möglichen Antagonisten beim Rudertraining.,Hintere Schulteranteile,0
+31,Bestimme einen möglichen Antagonisten beim Rudertraining.,Biceps,0
+32,Bestimme einen möglichen Synergisten beim Bizepstraining.,Vordere Schulteranteile,1
+32,Bestimme einen möglichen Synergisten beim Bizepstraining.,Hintere Schulteranteile,0
+32,Bestimme einen möglichen Synergisten beim Bizepstraining.,Seitliche Schulteranteile,0
+33,Was ist unter einer Flexion zu verstehen?,Die Beugung eines Gelenks,1
+33,Was ist unter einer Flexion zu verstehen?,Die Streckung eines Gelenks,0
+33,Was ist unter einer Flexion zu verstehen?,Die Drehung eines Gelenks,0
+34,Was ist unter einer Extension zu verstehen?,Die Beugung eines Gelenks,0
+34,Was ist unter einer Extension zu verstehen?,Die Streckung eines Gelenks ,1
+34,Was ist unter einer Extension zu verstehen?,Die Drehung eines Gelenks,0
+34,Was ist unter einer Extension zu verstehen?,Seitliches Heben der Extremitäten ,0
+35,Was ist unter einer Adduktion zu verstehen?,Die Beugung eines Gelenks,0
+35,Was ist unter einer Adduktion zu verstehen?,Vorbeugung des Rumpfes,0
+35,Was ist unter einer Adduktion zu verstehen?,Heranziehen der Extremitäten,1
+35,Was ist unter einer Adduktion zu verstehen?,Seitliches Heben der Extremitäten ,0
+36,Was ist unter einer Abduktion zu verstehen?,Seitbeugung des Rumpfes,0
+36,Was ist unter einer Abduktion zu verstehen?,Die Streckung eines Gelenks,0
+36,Was ist unter einer Abduktion zu verstehen?,Heranziehen der Extremitäten,0
+36,Was ist unter einer Abduktion zu verstehen?,Seitliches Heben der Extremitäten,1
+37,Welche Gelenkaktionen sind dem M. biceps brachii (zweiköpfigen Armbeuger) zuzuordnen?,Flexion und Supination im Ellenbogen,1
+37,Welche Gelenkaktionen sind dem M. biceps brachii (zweiköpfigen Armbeuger) zuzuordnen?,Retroversion in der Schulter,0
+37,Welche Gelenkaktionen sind dem M. biceps brachii (zweiköpfigen Armbeuger) zuzuordnen?,Anteversion in der Schulter,1
+37,Welche Gelenkaktionen sind dem M. biceps brachii (zweiköpfigen Armbeuger) zuzuordnen?,Extension im Ellenbogen,0
+38,Welche Gelenkaktionen sind dem M. triceps brachii (Armstrecker) zuzuordnen?,Flexion und Supination im Ellenbogen,0
+38,Welche Gelenkaktionen sind dem M. triceps brachii (Armstrecker) zuzuordnen?,Retroversion in der Schulter,1
+38,Welche Gelenkaktionen sind dem M. triceps brachii (Armstrecker) zuzuordnen?,Anteversion in der Schulter,0
+38,Welche Gelenkaktionen sind dem M. triceps brachii (Armstrecker) zuzuordnen?,Extension im Ellenbogen,1
+39,Welche Gelenkaktionen sind dem M. gluteus maximus (großen Gesäßmuskel) zuzuordnen?,Innenrotation im Hüftgelenk,0
+39,Welche Gelenkaktionen sind dem M. gluteus maximus (großen Gesäßmuskel) zuzuordnen?,Extension im Hüftgelenk ,1
+39,Welche Gelenkaktionen sind dem M. gluteus maximus (großen Gesäßmuskel) zuzuordnen?,Flexion im Hüftgelenk,0
+39,Welche Gelenkaktionen sind dem M. gluteus maximus (großen Gesäßmuskel) zuzuordnen?,Außenrotation im Hüftgelenk,1
+40,Welche Gelenkaktionen sind dem M. biceps femoris (Beinbeuger) zuzuordnen?,Flexion in der Hüfte,0
+40,Welche Gelenkaktionen sind dem M. biceps femoris (Beinbeuger) zuzuordnen?,Extension in der Hüfte,1
+40,Welche Gelenkaktionen sind dem M. biceps femoris (Beinbeuger) zuzuordnen?,Flexion im Knie,1
+40,Welche Gelenkaktionen sind dem M. biceps femoris (Beinbeuger) zuzuordnen?,Extension im Knie,0
+41,Welche Gelenkaktionen sind dem M. quadrizeps femoris (Beinstrecker) zuzuordnen?,Flexion in der Hüfte,1
+41,Welche Gelenkaktionen sind dem M. quadrizeps femoris (Beinstrecker) zuzuordnen?,Extension in der Hüfte,0
+41,Welche Gelenkaktionen sind dem M. quadrizeps femoris (Beinstrecker) zuzuordnen?,Flexion im Knie,0
+41,Welche Gelenkaktionen sind dem M. quadrizeps femoris (Beinstrecker) zuzuordnen?,Extension im Knie,1
+42,Welche Gelenkaktion ist dem M. iliopsoas (Lendendarmbeinmuskel) zuzuordnen?,Flexion in der Hüfte,1
+42,Welche Gelenkaktion ist dem M. iliopsoas (Lendendarmbeinmuskel) zuzuordnen?,Extension in der Hüfte,0
+42,Welche Gelenkaktion ist dem M. iliopsoas (Lendendarmbeinmuskel) zuzuordnen?,Flexion im Knie,0
+42,Welche Gelenkaktion ist dem M. iliopsoas (Lendendarmbeinmuskel) zuzuordnen?,Extension im Knie,0
+43,Welche Gelenkaktionen sind dem M. rectus abdominis (geraden Bauchmuskel) zuzuordnen?,Flexion der BWS ,1
+43,Welche Gelenkaktionen sind dem M. rectus abdominis (geraden Bauchmuskel) zuzuordnen?,Flexion der LWS,1
+43,Welche Gelenkaktionen sind dem M. rectus abdominis (geraden Bauchmuskel) zuzuordnen?,Flexion der HWS,0
+43,Welche Gelenkaktionen sind dem M. rectus abdominis (geraden Bauchmuskel) zuzuordnen?,Extension von BWS und LWS,0
+44,Welche Gelenkaktionen sind dem M. latissimus dorsi (breiten Rückenmuskel) zuzuordnen?,Adduktion in der Schulter,1
+44,Welche Gelenkaktionen sind dem M. latissimus dorsi (breiten Rückenmuskel) zuzuordnen?,Abduktion in der Schulter,0
+44,Welche Gelenkaktionen sind dem M. latissimus dorsi (breiten Rückenmuskel) zuzuordnen?,Retroversion in der Schulter,1
+44,Welche Gelenkaktionen sind dem M. latissimus dorsi (breiten Rückenmuskel) zuzuordnen?,Anteversion in der Schulter,0
+45,Welche Gelenkaktionen sind dem M. pectoralis major (großen Brustmuskel) zuzuordnen?,Adduktion des Oberarms im Schultergelenk,1
+45,Welche Gelenkaktionen sind dem M. pectoralis major (großen Brustmuskel) zuzuordnen?,Innenrotation des Oberarms im Schultergelenk ,1
+45,Welche Gelenkaktionen sind dem M. pectoralis major (großen Brustmuskel) zuzuordnen?,Anteversion in der Schulter ,1
+45,Welche Gelenkaktionen sind dem M. pectoralis major (großen Brustmuskel) zuzuordnen?,Retroversion in der Schulter,0
+46,Welche Funktionen erfüllen Knochen im Körper?,Stützfunktion,1
+46,Welche Funktionen erfüllen Knochen im Körper?,Gerüstfunktion,1
+46,Welche Funktionen erfüllen Knochen im Körper?,Gelenkfunktion,0
+46,Welche Funktionen erfüllen Knochen im Körper?,Hebelfunktion,1
+47,Was verstehst du unter dem Begriff Arthrose?,Eine Gelenkerkrankung,1
+47,Was verstehst du unter dem Begriff Arthrose?,Eine Knochenerkrankung,0
+47,Was verstehst du unter dem Begriff Arthrose?,Knorpelabrieb der Gelenke,1
+47,Was verstehst du unter dem Begriff Arthrose?,Eine Meniskuserkrankung,0
+48,Was zeichnet ein „echtes Gelenk“ aus?,der Gelenkspalt ,1
+48,Was zeichnet ein „echtes Gelenk“ aus?,die Gelenkkapsel,1
+48,Was zeichnet ein „echtes Gelenk“ aus?,die Gelenkflächen,1
+49,Was sind Bestandteile eines Gelenks?,der Gelenkspalt ,1
+49,Was sind Bestandteile eines Gelenks?,die Gelenkkapsel,1
+49,Was sind Bestandteile eines Gelenks?,die Gelenkknorpel,1
+49,Was sind Bestandteile eines Gelenks?,Synovia,2
+49,Was sind Bestandteile eines Gelenks?,Schleimbeutel,0
+50,Was ist ein typisches Kugelgelenk?,Das Humeroradialgelenk (Ellenbogen),0
+50,Was ist ein typisches Kugelgelenk?,Das proximale Handgelenk,0
+50,Was ist ein typisches Kugelgelenk?,Das Daumenwurzelgelenk,0
+50,Was ist ein typisches Kugelgelenk?,Das Hüftgelenk ,1
+50,Was ist ein typisches Kugelgelenk?,Das obere Radioulnargelenk (Ellenbogen),0
+51,Was ist ein typisches Scharniergelenk?,Das Humeroradialgelenk (Ellenbogen) ,1
+51,Was ist ein typisches Scharniergelenk?,Das proximale Handgelenk,0
+51,Was ist ein typisches Scharniergelenk?,Das Daumenwurzelgelenk,0
+51,Was ist ein typisches Scharniergelenk?,Das Hüftgelenk ,0
+51,Was ist ein typisches Scharniergelenk?,Das obere Radioulnargelenk (Ellenbogen),0
+52,Welche Muskeln gehören zur Rotatorenmanschette?,M. supraspinatus,1
+52,Welche Muskeln gehören zur Rotatorenmanschette?,M. deltoideus ,0
+52,Welche Muskeln gehören zur Rotatorenmanschette?,M. trapezius,0
+52,Welche Muskeln gehören zur Rotatorenmanschette?,M. infraspinatus,1
+53,Welche wichtigen Funktionen erfüllt die Wirbelsäule?,"Stützfunktion, als Puffer und Stoßdämpfer ",1
+53,Welche wichtigen Funktionen erfüllt die Wirbelsäule?,Bewegungsfunktion,1
+53,Welche wichtigen Funktionen erfüllt die Wirbelsäule?,Schutz des Rückenmarks ,1
+54,"Gib die Anzahl der Hals-, Brust und Lendenwirbel in die leeren Felder ein.",Anzahl Wirbel der Halswirbelsäule:  ,0
+54,"Gib die Anzahl der Hals-, Brust und Lendenwirbel in die leeren Felder ein.",Anzahl Wirbel der Brustwirbelsäule: ,0
+54,"Gib die Anzahl der Hals-, Brust und Lendenwirbel in die leeren Felder ein.",Anzahl Wirbel der Lendenwirbelsäule: ,0
+55,Wieviel Muskeln und Knochen hat ein gesunder Mensch?,600 Muskeln und ca. 106 Knochen,0
+55,Wieviel Muskeln und Knochen hat ein gesunder Mensch?,656 Muskeln und ca. 206 Knochen,1
+56,Welcher Körperebenen sind dir bekannt?,Frontalebene,1
+56,Welcher Körperebenen sind dir bekannt?,Sagittalebene,1
+56,Welcher Körperebenen sind dir bekannt?,Transversalebene,1
+56,Welcher Körperebenen sind dir bekannt?,Lateralebene ,0
+57,Welcher Zusammenhang zwischen Körperachse und Bewegungsrichtung der Wirbelsäule stimmt?,"Transversalachse -> Extension, Flexion",1
+57,Welcher Zusammenhang zwischen Körperachse und Bewegungsrichtung der Wirbelsäule stimmt?,Sagittalachse -> Rotation,0
+57,Welcher Zusammenhang zwischen Körperachse und Bewegungsrichtung der Wirbelsäule stimmt?,Längsachse -> Lateralflexion ,0
+58,Was verstehst du unter einer „Lateralflexion“?,eine seitliche Beugung,1
+58,Was verstehst du unter einer „Lateralflexion“?,eine Beugung nach vorn,0
+58,Was verstehst du unter einer „Lateralflexion“?,eine Beugung nach hinten,0
+58,Was verstehst du unter einer „Lateralflexion“?,eine Streckung nach außen ,0
+59,Was verstehst du unter einer „Dorsalextension“?,eine Beugung nach hinten,0
+59,Was verstehst du unter einer „Dorsalextension“?,eine Streckung nach vorn,0
+59,Was verstehst du unter einer „Dorsalextension“?,eine Beugung nach vorn,0
+59,Was verstehst du unter einer „Dorsalextension“?,eine Streckung nach hinten ,1
+60,Für was steht der Buchstabe „L“ bei der Wirbelbezeichnung?,L steht für Lateral,0
+60,Für was steht der Buchstabe „L“ bei der Wirbelbezeichnung?,L steht für Lendenwirbel,0
+60,Für was steht der Buchstabe „L“ bei der Wirbelbezeichnung?,L steht für Lumbal ,1
+61,Was ist bezeichnend für einen Bandscheibenvorfall (Prolaps)?,Erkrankung der Wirbelsäule,1
+61,Was ist bezeichnend für einen Bandscheibenvorfall (Prolaps)?,eingeklemmte Nerven im Wirbelkanal ,1
+61,Was ist bezeichnend für einen Bandscheibenvorfall (Prolaps)?,häufig ausstrahlende Schmerzen in die Beine,1
+61,Was ist bezeichnend für einen Bandscheibenvorfall (Prolaps)?,wird durch Überlastung oder Inaktivität hervorgerufen,1
+61,Was ist bezeichnend für einen Bandscheibenvorfall (Prolaps)?,gerissener Faserknorpelring,1
+62,Welche Körperfehlhaltungen werden unterschieden?,flacher Rücken ,1
+62,Welche Körperfehlhaltungen werden unterschieden?,hohlrunder Rücken ,1
+62,Welche Körperfehlhaltungen werden unterschieden?,runder Rücken ,1
+62,Welche Körperfehlhaltungen werden unterschieden?,steifer Rücken,0
+62,Welche Körperfehlhaltungen werden unterschieden?,Skoliose ,1
+63,Was verstehst du unter einer kyphotischen Körperfehlhaltung?,Buckel (Runder Rücken) ,1
+63,Was verstehst du unter einer kyphotischen Körperfehlhaltung?,steifer Rücken,0
+63,Was verstehst du unter einer kyphotischen Körperfehlhaltung?,Skoliose,0
+64,Was verstehst du unter einer lordotischen Körperfehlhaltung?,Buckel (Runder Rücken),0
+64,Was verstehst du unter einer lordotischen Körperfehlhaltung?,Steifer Rücken,0
+64,Was verstehst du unter einer lordotischen Körperfehlhaltung?,Skoliose,0
+64,Was verstehst du unter einer lordotischen Körperfehlhaltung?,Hohlkreuz,1
+65,Welche Muskeln sollten zur Stabilisierung der Wirbelsäule unbedingt trainiert werden?,M. erector spinae ,1
+65,Welche Muskeln sollten zur Stabilisierung der Wirbelsäule unbedingt trainiert werden?,M. latissimus dorsi ,1
+65,Welche Muskeln sollten zur Stabilisierung der Wirbelsäule unbedingt trainiert werden?,M. glutaeus maximus ,1
+65,Welche Muskeln sollten zur Stabilisierung der Wirbelsäule unbedingt trainiert werden?,M. transversus abdominis,1
+65,Welche Muskeln sollten zur Stabilisierung der Wirbelsäule unbedingt trainiert werden?,M. iliopsoas,1
+66,Was ist unter einer Skoliose zu verstehen?,mehrdimensionale Verkrümmung der Wirbelsäule,1
+66,Was ist unter einer Skoliose zu verstehen?,untrainierte Muskulatur im Bereich der Wirbelsäule,0
+67,Vervollständige bitte den nachfolgenden Satz. Menschen mit Osteoporose leider unter … ?,… einer erhöhten Knochenbruchanfälligkeit. ,1
+67,Vervollständige bitte den nachfolgenden Satz. Menschen mit Osteoporose leider unter … ?,… einer besonders untrainierten Muskulatur. ,0
+68,Was sind Bestandteile des Herz-Kreislauf-Systems?,Blut,1
+68,Was sind Bestandteile des Herz-Kreislauf-Systems?,Gefäße,1
+68,Was sind Bestandteile des Herz-Kreislauf-Systems?,Herz,1
+68,Was sind Bestandteile des Herz-Kreislauf-Systems?,Nerven ,0
+69,Welche Funktionen erfüllt das Blut?,Transport von Gasen,1
+69,Welche Funktionen erfüllt das Blut?,Abwehr von Infektionen,1
+69,Welche Funktionen erfüllt das Blut?,Konstanthaltung des pH-Wertes ,1
+69,Welche Funktionen erfüllt das Blut?,Transport von Hormonen ,1
+70,Was zeichnet ein „Sportlerherz“ aus?,Es hat ein übernormales Volumen,1
+70,Was zeichnet ein „Sportlerherz“ aus?,Es schlägt schneller,0
+70,Was zeichnet ein „Sportlerherz“ aus?,Es ist leistungsfähiger,1
+71,Welche Aussage über Vene und Arterie stimmt?,Arterie = Blutgefäß welches das Blut zum Herzen zurückführt. ,0
+71,Welche Aussage über Vene und Arterie stimmt?,Vene = Blutgefäß welches Blut zum Herzen zurückführt. ,1
+71,Welche Aussage über Vene und Arterie stimmt?,Arterie = Blutgefäß welches das Blut vom Herzen wegführt. ,1
+72,Welche Aussagen stehen bei der Blutdruckmessung für den systolischen Wert?,„maximaler Druck auf die Gefäße“,1
+72,Welche Aussagen stehen bei der Blutdruckmessung für den systolischen Wert?,„Zusammenziehen der linken Herzkammer“,1
+72,Welche Aussagen stehen bei der Blutdruckmessung für den systolischen Wert?,„das Füllen der linken Herzkammer“,0
+72,Welche Aussagen stehen bei der Blutdruckmessung für den systolischen Wert?,„niedriger Druck auf die Gefäße“,0
+73,"Was sorgt in den Gefäßen dafür, das Blut nur in eine Richtung fließen kann?",die Schlagader,0
+73,"Was sorgt in den Gefäßen dafür, das Blut nur in eine Richtung fließen kann?",die Bindegewebsscheiden,0
+73,"Was sorgt in den Gefäßen dafür, das Blut nur in eine Richtung fließen kann?",die Venenklappen,1
+74,Welche Aussagen stehen bei der Blutdruckmessung für den diasystolischen Wert?,„maximaler Druck auf die Gefäße“ ,0
+74,Welche Aussagen stehen bei der Blutdruckmessung für den diasystolischen Wert?,„Zusammenziehen der linken Herzkammer“ ,0
+74,Welche Aussagen stehen bei der Blutdruckmessung für den diasystolischen Wert?,„das Füllen der linken Herzkammer“ ,1
+74,Welche Aussagen stehen bei der Blutdruckmessung für den diasystolischen Wert?,„niedriger Druck auf die Gefäße“ ,1
+75,Welche Funktion hat das Lymphgefäßsystem im Körper?,Immunabwehr,1
+75,Welche Funktion hat das Lymphgefäßsystem im Körper?,Transport von Körperflüssigkeiten,1
+75,Welche Funktion hat das Lymphgefäßsystem im Körper?,unterstützt den Pumpvorgang des Herzens ,0
+76,Welche Arten der Energiebereitstellung sind dir bekannt?,Betaoxidation,1
+76,Welche Arten der Energiebereitstellung sind dir bekannt?,aerobe Glykolyse,1
+76,Welche Arten der Energiebereitstellung sind dir bekannt?,energiereiche Phosphate,1
+76,Welche Arten der Energiebereitstellung sind dir bekannt?,anaerobe Glykolyse,1
+77,Wie laufen die Mechanismen der Energiebereitstellung im Körper ab?,geordnet und nacheinander,0
+77,Wie laufen die Mechanismen der Energiebereitstellung im Körper ab?,gleichzeitig in fließenden Übergängen,1
+78,Stimmt die Aussage „Fett wird erst nach 20 min Ausdauertraining verbrannt!“?,Ja,0
+78,Stimmt die Aussage „Fett wird erst nach 20 min Ausdauertraining verbrannt!“?,Nein,1
+79,Bei welcher Belastungsdauer wird ca. zu 80 % Fett verbrannt?,Marathonlauf,0
+79,Bei welcher Belastungsdauer wird ca. zu 80 % Fett verbrannt?,Doppelmarathon,0
+79,Bei welcher Belastungsdauer wird ca. zu 80 % Fett verbrannt?,24 Stunden – Lauf,1
+79,Bei welcher Belastungsdauer wird ca. zu 80 % Fett verbrannt?,Halbmarathon,0
+80,Bei welcher Belastungsdauer wird ca. zu 20 % Fett verbrannt?,Marathonlauf,1
+80,Bei welcher Belastungsdauer wird ca. zu 20 % Fett verbrannt?,Doppelmarathon,0
+80,Bei welcher Belastungsdauer wird ca. zu 20 % Fett verbrannt?,24 Stunden – Lauf,0
+80,Bei welcher Belastungsdauer wird ca. zu 20 % Fett verbrannt?,Halbmarathon,0
+81,Bei welcher Belastungsdauer wird ca. zu 70 % Kreatinphosphat verbrannt?,200 m Lauf,0
+81,Bei welcher Belastungsdauer wird ca. zu 70 % Kreatinphosphat verbrannt?,400 m Lauf,0
+81,Bei welcher Belastungsdauer wird ca. zu 70 % Kreatinphosphat verbrannt?,100 m Lauf,1
+81,Bei welcher Belastungsdauer wird ca. zu 70 % Kreatinphosphat verbrannt?,800 m Lauf,0
+82,Bitte den Satz vervollständigen: Beim Training wird chemische Energie (ATP) in …,… mechanische Energie und Wasser umgewandelt.,0
+82,Bitte den Satz vervollständigen: Beim Training wird chemische Energie (ATP) in …,… physikalische Kraft umgewandelt.,0
+82,Bitte den Satz vervollständigen: Beim Training wird chemische Energie (ATP) in …,… mechanische Energie und Wärme umgewandelt. ,1
+83,Bitte den Satz vervollständigen: Je höher die Energieflussrate (ATP-Bildung/Zeit) desto … ,… höher die Leistung. ,1
+83,Bitte den Satz vervollständigen: Je höher die Energieflussrate (ATP-Bildung/Zeit) desto … ,… höher die Schnelligkeit.,0
+83,Bitte den Satz vervollständigen: Je höher die Energieflussrate (ATP-Bildung/Zeit) desto … ,… größer die Ausdauer.,0
+84,Bitte den Satz vervollständigen: Dauer und Intensität der möglichen Maximalleistung verhalten sich … ,… proportional zueinander.,0
+84,Bitte den Satz vervollständigen: Dauer und Intensität der möglichen Maximalleistung verhalten sich … ,… gegenläufig. ,1
+84,Bitte den Satz vervollständigen: Dauer und Intensität der möglichen Maximalleistung verhalten sich … ,… konstant zueinander.,0
+85,"Bitte den Satz vervollständigen: Je trainierter der Fettstoffwechsel ist, desto besser lassen sich die …",… Zuckerreserven des Muskels schonen.   ,1
+85,"Bitte den Satz vervollständigen: Je trainierter der Fettstoffwechsel ist, desto besser lassen sich die …",… Eiweißreserven des Muskels schonen.,0
+85,"Bitte den Satz vervollständigen: Je trainierter der Fettstoffwechsel ist, desto besser lassen sich die …",… Fettreserven des Muskels schonen.  ,0
+86,Bitte den Satz vervollständigen: Die Energiebereitstellung hängt ab von … ,… dem Trainingszustand.   ,1
+86,Bitte den Satz vervollständigen: Die Energiebereitstellung hängt ab von … ,… der Ernährung.,1
+86,Bitte den Satz vervollständigen: Die Energiebereitstellung hängt ab von … ,… dem individuellen Muskelfasertyp.   ,1
