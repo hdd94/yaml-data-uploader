@@ -1,0 +1,13 @@
+id;title;text;type;favorite;picture;video;correct;value;
+anatomy-and-physiology;Anatomy and Physiology;Welche Bestandteile gehören zur Zelle?;1;0;1;0;true;Zellleib;1
+;;;;;;;true;Zellkern;1
+;;;;;;;true;Zellmembran;1
+;;;;;;;false;Zellstamm;1
+;;In welchem Bereich der Zelle befindet sich die DNS (Desoxyribonukleinsäure);2;0;1;0;false;Zellleib ;2
+;;;;;;;true;Zellkern;2
+;;;;;;;false;Zellmembran;2
+;;;;;;;false;Zellstamm;2
+;;Welche Zelltypen sind dir bekannt?;1;0;1;0;false;Graue Zellen;3
+;;;;;;;true;Nervenzellen;3
+;;;;;;;true;Hautzellen;3
+;;;;;;;true;Knochenzellen;3

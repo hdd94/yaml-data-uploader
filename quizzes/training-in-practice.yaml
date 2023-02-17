@@ -1,0 +1,65 @@
+id: training-in-practice
+title: 'Anatomy and Physiology'
+questions:
+    -
+        text: 'Which of the following are parts of a cell?'
+        options:
+            -
+                correct: true
+                value: 'cell body'
+            -
+                correct: true
+                value: 'cell nucleus'
+            -
+                correct: true
+                value: 'cell membrane'
+            -
+                correct: false
+                value: 'cell stem'
+
+    -
+        text: 'In which part of the cell can you find the DNA (deoxyribonucleic acid)?'
+        options:
+            -
+                correct: false
+                value: 'cell body'
+            -
+                correct: true
+                value: 'cell nucleus'
+            -
+                correct: false
+                value: 'cell membrane'
+            -
+                correct: false
+                value: 'cell stem'
+    -
+        text: 'Which of the following are parts of a cell?'
+        options:
+            -
+                correct: true
+                value: 'cell body'
+            -
+                correct: true
+                value: 'cell nucleus'
+            -
+                correct: true
+                value: 'cell membrane'
+            -
+                correct: false
+                value: 'cell stem'
+
+    -
+        text: 'In which part of the cell can you find the DNA (deoxyribonucleic acid)?'
+        options:
+            -
+                correct: false
+                value: 'cell body'
+            -
+                correct: true
+                value: 'cell nucleus'
+            -
+                correct: false
+                value: 'cell membrane'
+            -
+                correct: false
+                value: 'cell stem'

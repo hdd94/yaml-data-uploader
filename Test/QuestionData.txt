@@ -1,0 +1,865 @@
+1,Welche Bestandteile gehören zur Zelle?,Zellleib,1
+1,Welche Bestandteile gehören zur Zelle?,Zellkern,1
+1,Welche Bestandteile gehören zur Zelle?,Zellmembran,1
+1,Welche Bestandteile gehören zur Zelle?,Zellstamm,0
+2,In welchem Bereich der Zelle befindet sich die DNS (Desoxyribonukleinsäure)?,Zellleib ,0
+2,In welchem Bereich der Zelle befindet sich die DNS (Desoxyribonukleinsäure)?,Zellkern,1
+2,In welchem Bereich der Zelle befindet sich die DNS (Desoxyribonukleinsäure)?,Zellmembran,0
+2,In welchem Bereich der Zelle befindet sich die DNS (Desoxyribonukleinsäure)?,Zellstamm,0
+3,Welche Zelltypen sind dir bekannt?,Graue Zellen,0
+3,Welche Zelltypen sind dir bekannt?,Nervenzellen,1
+3,Welche Zelltypen sind dir bekannt?,Hautzellen,1
+3,Welche Zelltypen sind dir bekannt?,Knochenzellen,1
+4,Was ist ein Mitochondrium?,Eine Gewebeart,0
+4,Was ist ein Mitochondrium?,Ein Nervengewebe,0
+4,Was ist ein Mitochondrium?,Die Brennkammer der Zelle,1
+4,Was ist ein Mitochondrium?,Eine Zellorganelle,1
+5,Wo kommen Mitochondrien vor?,In der Muskulatur,1
+5,Wo kommen Mitochondrien vor?,In roten Blutkörperchen,0
+6,Welche Gewebearten sind dir bekannt?,Epithelgewebe,1
+6,Welche Gewebearten sind dir bekannt?,Binde- und Stützgewebe,1
+6,Welche Gewebearten sind dir bekannt?,Muskelgewebe ,1
+6,Welche Gewebearten sind dir bekannt?,Nervengewebe,1
+7,Was ist charakteristisch für Fasziengewebe?,Es ist schmerzempfindlich.,1
+7,Was ist charakteristisch für Fasziengewebe?,Es verbindet Muskeln und Knochen.,1
+7,Was ist charakteristisch für Fasziengewebe?,Es sorgt für Stabilität.,1
+7,Was ist charakteristisch für Fasziengewebe?,Es umhüllt Muskelfasern.,1
+8,Aus welchen funktionellen Einheiten besteht das Nervensystem?,Reflektorisches Nervensystem RNS,0
+8,Aus welchen funktionellen Einheiten besteht das Nervensystem?,Vegetatives Nervensystem VNS ,1
+8,Aus welchen funktionellen Einheiten besteht das Nervensystem?,Peripheres Nervensystem PNS,1
+8,Aus welchen funktionellen Einheiten besteht das Nervensystem?,Zentrales Nervensystem ZNS,1
+9,Das Vegetative Nervensystem (VNS) unterteilt sich in …,„Sympathisches“ und „Parasympathisches“ NS,1
+9,Das Vegetative Nervensystem (VNS) unterteilt sich in …,„Autonomes“ und „Nicht Autonomes“ NS,0
+10,Welche Aufgabe hat das zentrale Nervensystem?,koordiniert sämtliche motorische Aufgaben ,1
+10,Welche Aufgabe hat das zentrale Nervensystem?,reguliert die Körpertemperatur ,0
+10,Welche Aufgabe hat das zentrale Nervensystem?,sendet Signale über die Blutbahn an bestimmte Zielorgane ,0
+11,Welche Aufgabe hat das vegetative Nervensystem?,reguliert den motorischen Einsatz der Muskeln,0
+11,Welche Aufgabe hat das vegetative Nervensystem?,steuert lebenswichtige Funktionen der inneren Organe  ,1
+11,Welche Aufgabe hat das vegetative Nervensystem?,sendet Signale über die Blutbahn an bestimmte Zielorgane ,0
+12,Das parasympathische Nervensystem steht für …,"Hemmung, Drosslung, Erholung",1
+12,Das parasympathische Nervensystem steht für …,"Aktivierung, Leistung, Aggressivität",0
+13,Was wird unter Homöostase verstanden?,Aufrechterhaltung des inneren Gleichgewichts,1
+13,Was wird unter Homöostase verstanden?,Selbstregulation eines offenen Systems,1
+13,Was wird unter Homöostase verstanden?,Steuerung der Muskelaktivität,0
+14,Das sympathische Nervensystem steht für ...,"Hemmung, Drosslung, Erholung ",0
+14,Das sympathische Nervensystem steht für ...,"Aktivierung, Leistung, Aggressivität",1
+15,In welchen Bereich des Körpers befindet sich das sympathische Nervensystem?,Rückenmark der Brust- und Lendenwirbelsäule,1
+15,In welchen Bereich des Körpers befindet sich das sympathische Nervensystem?,"Gehirn, Rückenmark des Sakralbereichs ",0
+16,In welchen Bereich des Körpers befindet sich das parasympathische Nervensystem?,Rückenmark der Brust- und Lendenwirbelsäule,0
+16,In welchen Bereich des Körpers befindet sich das parasympathische Nervensystem?,"Gehirn, Rückenmark des Sakralbereichs ",1
+17,Eine Verengung der Blutgefäße und Erweiterung der Pupillen ist bezeichnend für den … ,Sympathikus ,1
+17,Eine Verengung der Blutgefäße und Erweiterung der Pupillen ist bezeichnend für den … ,Parasympathikus,0
+18,Welcher Ablauf bezüglich des Reflexbogens stimmt?,Störgröße -> Rezeptor -> Reflexzentrum -> Effektor -> Reflexhandlung,1
+18,Welcher Ablauf bezüglich des Reflexbogens stimmt?,Störgröße -> Effektor -> Reflexzentrum -> Rezeptor -> Reflexhandlung ,0
+19,Was sind Beispiele autonomer (unbewusster) Reflexe?,Saugreflex ,1
+19,Was sind Beispiele autonomer (unbewusster) Reflexe?,Würgereflex,1
+19,Was sind Beispiele autonomer (unbewusster) Reflexe?,Pupillenlichtreflex,1
+20,Was sind Beispiele erworbener Reflexe?,Ein Boxer pariert einen Faustschlag. ,1
+20,Was sind Beispiele erworbener Reflexe?,Ein Torwart hält einen Elfmeter.,1
+20,Was sind Beispiele erworbener Reflexe?,Ein Sprinter hört den Startschuss.,0
+21,Was sind Bestandteile des passiven Bewegungsapparats?,Schleimbeutel,0
+21,Was sind Bestandteile des passiven Bewegungsapparats?,Knochen,1
+21,Was sind Bestandteile des passiven Bewegungsapparats?,Knorpel,1
+21,Was sind Bestandteile des passiven Bewegungsapparats?,Bänder,1
+21,Was sind Bestandteile des passiven Bewegungsapparats?,Sehnen,0
+22,Was sind Bestandteile des aktiven Bewegungsapparats?,Schleimbeutel und Sehnenscheiden,1
+22,Was sind Bestandteile des aktiven Bewegungsapparats?,Muskeln,1
+22,Was sind Bestandteile des aktiven Bewegungsapparats?,Knorpel,0
+22,Was sind Bestandteile des aktiven Bewegungsapparats?,Bänder,0
+22,Was sind Bestandteile des aktiven Bewegungsapparats?,Sehnen,1
+23,Welche Arten der Muskulatur sind dir bekannt?,quergestreifte Skelettmuskulatur,1
+23,Welche Arten der Muskulatur sind dir bekannt?,glatte Muskulatur ,1
+23,Welche Arten der Muskulatur sind dir bekannt?,quergestreifte Herzmuskulatur,1
+23,Welche Arten der Muskulatur sind dir bekannt?,längsgestreifte Muskulatur,0
+24,Der lateinische Name bezeichnet den „Muskulus triceps brachii“ als einen …,… platten Muskel.,0
+24,Der lateinische Name bezeichnet den „Muskulus triceps brachii“ als einen …,… Ringmuskel.,0
+24,Der lateinische Name bezeichnet den „Muskulus triceps brachii“ als einen …,… zweiköpfigen Muskel.,0
+24,Der lateinische Name bezeichnet den „Muskulus triceps brachii“ als einen …,… dreiköpfigen Muskel.  ,1
+25,Welcher Muskel ist dir als ein „eingelenkiger Muskel“ bekannt?,der Brustmuskel (Pectoralis),0
+25,Welcher Muskel ist dir als ein „eingelenkiger Muskel“ bekannt?,der Hüftbeuger (Psoas),0
+25,Welcher Muskel ist dir als ein „eingelenkiger Muskel“ bekannt?,der Armbeuger (Brachialis) ,1
+26,Welches Muskelgewebe ist fähig zur Dauerkontraktion?,das Quergestreifte,0
+26,Welches Muskelgewebe ist fähig zur Dauerkontraktion?,das Glatte ,1
+26,Welches Muskelgewebe ist fähig zur Dauerkontraktion?,das Längsgestreifte,0
+27,Welche Arbeitsweisen der Muskulatur sind dir bekannt?,Konzentrisch ,1
+27,Welche Arbeitsweisen der Muskulatur sind dir bekannt?,Exzentrisch ,1
+27,Welche Arbeitsweisen der Muskulatur sind dir bekannt?,Statisch ,1
+27,Welche Arbeitsweisen der Muskulatur sind dir bekannt?,Isometrisch,0
+28,Bestimme die Arbeitsweise der Muskulatur beim Klimmzug.,Den Körper nach oben ziehen = Konzentrisch ,1
+28,Bestimme die Arbeitsweise der Muskulatur beim Klimmzug.,Den Körper nach oben ziehen = Exzentrisch ,0
+29,Bestimme die Arbeitsweise der Muskulatur bei der Kniebeuge.,Körper nach unten bewegen = Konzentrisch,0
+29,Bestimme die Arbeitsweise der Muskulatur bei der Kniebeuge.,Körper nach unten bewegen = Exzentrisch ,1
+30,Bestimme einen möglichen Synergisten beim Trizepstraining.,Vordere Schulteranteile,0
+30,Bestimme einen möglichen Synergisten beim Trizepstraining.,Hintere Schulteranteile,1
+30,Bestimme einen möglichen Synergisten beim Trizepstraining.,Seitliche Schulteranteile,0
+31,Bestimme einen möglichen Antagonisten beim Rudertraining.,Latissimus,0
+31,Bestimme einen möglichen Antagonisten beim Rudertraining.,Brustmuskel,1
+31,Bestimme einen möglichen Antagonisten beim Rudertraining.,Hintere Schulteranteile,0
+31,Bestimme einen möglichen Antagonisten beim Rudertraining.,Biceps,0
+32,Bestimme einen möglichen Synergisten beim Bizepstraining.,Vordere Schulteranteile,1
+32,Bestimme einen möglichen Synergisten beim Bizepstraining.,Hintere Schulteranteile,0
+32,Bestimme einen möglichen Synergisten beim Bizepstraining.,Seitliche Schulteranteile,0
+33,Was ist unter einer Flexion zu verstehen?,Die Beugung eines Gelenks,1
+33,Was ist unter einer Flexion zu verstehen?,Die Streckung eines Gelenks,0
+33,Was ist unter einer Flexion zu verstehen?,Die Drehung eines Gelenks,0
+34,Was ist unter einer Extension zu verstehen?,Die Beugung eines Gelenks,0
+34,Was ist unter einer Extension zu verstehen?,Die Streckung eines Gelenks ,1
+34,Was ist unter einer Extension zu verstehen?,Die Drehung eines Gelenks,0
+34,Was ist unter einer Extension zu verstehen?,Seitliches Heben der Extremitäten ,0
+35,Was ist unter einer Adduktion zu verstehen?,Die Beugung eines Gelenks,0
+35,Was ist unter einer Adduktion zu verstehen?,Vorbeugung des Rumpfes,0
+35,Was ist unter einer Adduktion zu verstehen?,Heranziehen der Extremitäten,1
+35,Was ist unter einer Adduktion zu verstehen?,Seitliches Heben der Extremitäten ,0
+36,Was ist unter einer Abduktion zu verstehen?,Seitbeugung des Rumpfes,0
+36,Was ist unter einer Abduktion zu verstehen?,Die Streckung eines Gelenks,0
+36,Was ist unter einer Abduktion zu verstehen?,Heranziehen der Extremitäten,0
+36,Was ist unter einer Abduktion zu verstehen?,Seitliches Heben der Extremitäten,1
+37,Welche Gelenkaktionen sind dem M. biceps brachii (zweiköpfigen Armbeuger) zuzuordnen?,Flexion und Supination im Ellenbogen,1
+37,Welche Gelenkaktionen sind dem M. biceps brachii (zweiköpfigen Armbeuger) zuzuordnen?,Retroversion in der Schulter,0
+37,Welche Gelenkaktionen sind dem M. biceps brachii (zweiköpfigen Armbeuger) zuzuordnen?,Anteversion in der Schulter,1
+37,Welche Gelenkaktionen sind dem M. biceps brachii (zweiköpfigen Armbeuger) zuzuordnen?,Extension im Ellenbogen,0
+38,Welche Gelenkaktionen sind dem M. triceps brachii (Armstrecker) zuzuordnen?,Flexion und Supination im Ellenbogen,0
+38,Welche Gelenkaktionen sind dem M. triceps brachii (Armstrecker) zuzuordnen?,Retroversion in der Schulter,1
+38,Welche Gelenkaktionen sind dem M. triceps brachii (Armstrecker) zuzuordnen?,Anteversion in der Schulter,0
+38,Welche Gelenkaktionen sind dem M. triceps brachii (Armstrecker) zuzuordnen?,Extension im Ellenbogen,1
+39,Welche Gelenkaktionen sind dem M. gluteus maximus (großen Gesäßmuskel) zuzuordnen?,Innenrotation im Hüftgelenk,0
+39,Welche Gelenkaktionen sind dem M. gluteus maximus (großen Gesäßmuskel) zuzuordnen?,Extension im Hüftgelenk ,1
+39,Welche Gelenkaktionen sind dem M. gluteus maximus (großen Gesäßmuskel) zuzuordnen?,Flexion im Hüftgelenk,0
+39,Welche Gelenkaktionen sind dem M. gluteus maximus (großen Gesäßmuskel) zuzuordnen?,Außenrotation im Hüftgelenk,1
+40,Welche Gelenkaktionen sind dem M. biceps femoris (Beinbeuger) zuzuordnen?,Flexion in der Hüfte,0
+40,Welche Gelenkaktionen sind dem M. biceps femoris (Beinbeuger) zuzuordnen?,Extension in der Hüfte,1
+40,Welche Gelenkaktionen sind dem M. biceps femoris (Beinbeuger) zuzuordnen?,Flexion im Knie,1
+40,Welche Gelenkaktionen sind dem M. biceps femoris (Beinbeuger) zuzuordnen?,Extension im Knie,0
+41,Welche Gelenkaktionen sind dem M. quadrizeps femoris (Beinstrecker) zuzuordnen?,Flexion in der Hüfte,1
+41,Welche Gelenkaktionen sind dem M. quadrizeps femoris (Beinstrecker) zuzuordnen?,Extension in der Hüfte,0
+41,Welche Gelenkaktionen sind dem M. quadrizeps femoris (Beinstrecker) zuzuordnen?,Flexion im Knie,0
+41,Welche Gelenkaktionen sind dem M. quadrizeps femoris (Beinstrecker) zuzuordnen?,Extension im Knie,1
+42,Welche Gelenkaktion ist dem M. iliopsoas (Lendendarmbeinmuskel) zuzuordnen?,Flexion in der Hüfte,1
+42,Welche Gelenkaktion ist dem M. iliopsoas (Lendendarmbeinmuskel) zuzuordnen?,Extension in der Hüfte,0
+42,Welche Gelenkaktion ist dem M. iliopsoas (Lendendarmbeinmuskel) zuzuordnen?,Flexion im Knie,0
+42,Welche Gelenkaktion ist dem M. iliopsoas (Lendendarmbeinmuskel) zuzuordnen?,Extension im Knie,0
+43,Welche Gelenkaktionen sind dem M. rectus abdominis (geraden Bauchmuskel) zuzuordnen?,Flexion der BWS ,1
+43,Welche Gelenkaktionen sind dem M. rectus abdominis (geraden Bauchmuskel) zuzuordnen?,Flexion der LWS,1
+43,Welche Gelenkaktionen sind dem M. rectus abdominis (geraden Bauchmuskel) zuzuordnen?,Flexion der HWS,0
+43,Welche Gelenkaktionen sind dem M. rectus abdominis (geraden Bauchmuskel) zuzuordnen?,Extension von BWS und LWS,0
+44,Welche Gelenkaktionen sind dem M. latissimus dorsi (breiten Rückenmuskel) zuzuordnen?,Adduktion in der Schulter,1
+44,Welche Gelenkaktionen sind dem M. latissimus dorsi (breiten Rückenmuskel) zuzuordnen?,Abduktion in der Schulter,0
+44,Welche Gelenkaktionen sind dem M. latissimus dorsi (breiten Rückenmuskel) zuzuordnen?,Retroversion in der Schulter,1
+44,Welche Gelenkaktionen sind dem M. latissimus dorsi (breiten Rückenmuskel) zuzuordnen?,Anteversion in der Schulter,0
+45,Welche Gelenkaktionen sind dem M. pectoralis major (großen Brustmuskel) zuzuordnen?,Adduktion des Oberarms im Schultergelenk,1
+45,Welche Gelenkaktionen sind dem M. pectoralis major (großen Brustmuskel) zuzuordnen?,Innenrotation des Oberarms im Schultergelenk ,1
+45,Welche Gelenkaktionen sind dem M. pectoralis major (großen Brustmuskel) zuzuordnen?,Anteversion in der Schulter ,1
+45,Welche Gelenkaktionen sind dem M. pectoralis major (großen Brustmuskel) zuzuordnen?,Retroversion in der Schulter,0
+46,Welche Funktionen erfüllen Knochen im Körper?,Stützfunktion,1
+46,Welche Funktionen erfüllen Knochen im Körper?,Gerüstfunktion,1
+46,Welche Funktionen erfüllen Knochen im Körper?,Gelenkfunktion,0
+46,Welche Funktionen erfüllen Knochen im Körper?,Hebelfunktion,1
+47,Was verstehst du unter dem Begriff Arthrose?,Eine Gelenkerkrankung,1
+47,Was verstehst du unter dem Begriff Arthrose?,Eine Knochenerkrankung,0
+47,Was verstehst du unter dem Begriff Arthrose?,Knorpelabrieb der Gelenke,1
+47,Was verstehst du unter dem Begriff Arthrose?,Eine Meniskuserkrankung,0
+48,Was zeichnet ein „echtes Gelenk“ aus?,der Gelenkspalt ,1
+48,Was zeichnet ein „echtes Gelenk“ aus?,die Gelenkkapsel,1
+48,Was zeichnet ein „echtes Gelenk“ aus?,die Gelenkflächen,1
+49,Was sind Bestandteile eines Gelenks?,der Gelenkspalt ,1
+49,Was sind Bestandteile eines Gelenks?,die Gelenkkapsel,1
+49,Was sind Bestandteile eines Gelenks?,die Gelenkknorpel,1
+49,Was sind Bestandteile eines Gelenks?,Synovia,2
+49,Was sind Bestandteile eines Gelenks?,Schleimbeutel,0
+50,Was ist ein typisches Kugelgelenk?,Das Humeroradialgelenk (Ellenbogen),0
+50,Was ist ein typisches Kugelgelenk?,Das proximale Handgelenk,0
+50,Was ist ein typisches Kugelgelenk?,Das Daumenwurzelgelenk,0
+50,Was ist ein typisches Kugelgelenk?,Das Hüftgelenk ,1
+50,Was ist ein typisches Kugelgelenk?,Das obere Radioulnargelenk (Ellenbogen),0
+51,Was ist ein typisches Scharniergelenk?,Das Humeroradialgelenk (Ellenbogen) ,1
+51,Was ist ein typisches Scharniergelenk?,Das proximale Handgelenk,0
+51,Was ist ein typisches Scharniergelenk?,Das Daumenwurzelgelenk,0
+51,Was ist ein typisches Scharniergelenk?,Das Hüftgelenk ,0
+51,Was ist ein typisches Scharniergelenk?,Das obere Radioulnargelenk (Ellenbogen),0
+52,Welche Muskeln gehören zur Rotatorenmanschette?,M. supraspinatus,1
+52,Welche Muskeln gehören zur Rotatorenmanschette?,M. deltoideus ,0
+52,Welche Muskeln gehören zur Rotatorenmanschette?,M. trapezius,0
+52,Welche Muskeln gehören zur Rotatorenmanschette?,M. infraspinatus,1
+53,Welche wichtigen Funktionen erfüllt die Wirbelsäule?,"Stützfunktion, als Puffer und Stoßdämpfer ",1
+53,Welche wichtigen Funktionen erfüllt die Wirbelsäule?,Bewegungsfunktion,1
+53,Welche wichtigen Funktionen erfüllt die Wirbelsäule?,Schutz des Rückenmarks ,1
+54,"Gib die Anzahl der Hals-, Brust und Lendenwirbel in die leeren Felder ein.",Anzahl Wirbel der Halswirbelsäule:  ,0
+54,"Gib die Anzahl der Hals-, Brust und Lendenwirbel in die leeren Felder ein.",Anzahl Wirbel der Brustwirbelsäule: ,0
+54,"Gib die Anzahl der Hals-, Brust und Lendenwirbel in die leeren Felder ein.",Anzahl Wirbel der Lendenwirbelsäule: ,0
+55,Wieviel Muskeln und Knochen hat ein gesunder Mensch?,600 Muskeln und ca. 106 Knochen,0
+55,Wieviel Muskeln und Knochen hat ein gesunder Mensch?,656 Muskeln und ca. 206 Knochen,1
+56,Welcher Körperebenen sind dir bekannt?,Frontalebene,1
+56,Welcher Körperebenen sind dir bekannt?,Sagittalebene,1
+56,Welcher Körperebenen sind dir bekannt?,Transversalebene,1
+56,Welcher Körperebenen sind dir bekannt?,Lateralebene ,0
+57,Welcher Zusammenhang zwischen Körperachse und Bewegungsrichtung der Wirbelsäule stimmt?,"Transversalachse -> Extension, Flexion",1
+57,Welcher Zusammenhang zwischen Körperachse und Bewegungsrichtung der Wirbelsäule stimmt?,Sagittalachse -> Rotation,0
+57,Welcher Zusammenhang zwischen Körperachse und Bewegungsrichtung der Wirbelsäule stimmt?,Längsachse -> Lateralflexion ,0
+58,Was verstehst du unter einer „Lateralflexion“?,eine seitliche Beugung,1
+58,Was verstehst du unter einer „Lateralflexion“?,eine Beugung nach vorn,0
+58,Was verstehst du unter einer „Lateralflexion“?,eine Beugung nach hinten,0
+58,Was verstehst du unter einer „Lateralflexion“?,eine Streckung nach außen ,0
+59,Was verstehst du unter einer „Dorsalextension“?,eine Beugung nach hinten,0
+59,Was verstehst du unter einer „Dorsalextension“?,eine Streckung nach vorn,0
+59,Was verstehst du unter einer „Dorsalextension“?,eine Beugung nach vorn,0
+59,Was verstehst du unter einer „Dorsalextension“?,eine Streckung nach hinten ,1
+60,Für was steht der Buchstabe „L“ bei der Wirbelbezeichnung?,L steht für Lateral,0
+60,Für was steht der Buchstabe „L“ bei der Wirbelbezeichnung?,L steht für Lendenwirbel,0
+60,Für was steht der Buchstabe „L“ bei der Wirbelbezeichnung?,L steht für Lumbal ,1
+61,Was ist bezeichnend für einen Bandscheibenvorfall (Prolaps)?,Erkrankung der Wirbelsäule,1
+61,Was ist bezeichnend für einen Bandscheibenvorfall (Prolaps)?,eingeklemmte Nerven im Wirbelkanal ,1
+61,Was ist bezeichnend für einen Bandscheibenvorfall (Prolaps)?,häufig ausstrahlende Schmerzen in die Beine,1
+61,Was ist bezeichnend für einen Bandscheibenvorfall (Prolaps)?,wird durch Überlastung oder Inaktivität hervorgerufen,1
+61,Was ist bezeichnend für einen Bandscheibenvorfall (Prolaps)?,gerissener Faserknorpelring,1
+62,Welche Körperfehlhaltungen werden unterschieden?,flacher Rücken ,1
+62,Welche Körperfehlhaltungen werden unterschieden?,hohlrunder Rücken ,1
+62,Welche Körperfehlhaltungen werden unterschieden?,runder Rücken ,1
+62,Welche Körperfehlhaltungen werden unterschieden?,steifer Rücken,0
+62,Welche Körperfehlhaltungen werden unterschieden?,Skoliose ,1
+63,Was verstehst du unter einer kyphotischen Körperfehlhaltung?,Buckel (Runder Rücken) ,1
+63,Was verstehst du unter einer kyphotischen Körperfehlhaltung?,steifer Rücken,0
+63,Was verstehst du unter einer kyphotischen Körperfehlhaltung?,Skoliose,0
+64,Was verstehst du unter einer lordotischen Körperfehlhaltung?,Buckel (Runder Rücken),0
+64,Was verstehst du unter einer lordotischen Körperfehlhaltung?,Steifer Rücken,0
+64,Was verstehst du unter einer lordotischen Körperfehlhaltung?,Skoliose,0
+64,Was verstehst du unter einer lordotischen Körperfehlhaltung?,Hohlkreuz,1
+65,Welche Muskeln sollten zur Stabilisierung der Wirbelsäule unbedingt trainiert werden?,M. erector spinae ,1
+65,Welche Muskeln sollten zur Stabilisierung der Wirbelsäule unbedingt trainiert werden?,M. latissimus dorsi ,1
+65,Welche Muskeln sollten zur Stabilisierung der Wirbelsäule unbedingt trainiert werden?,M. glutaeus maximus ,1
+65,Welche Muskeln sollten zur Stabilisierung der Wirbelsäule unbedingt trainiert werden?,M. transversus abdominis,1
+65,Welche Muskeln sollten zur Stabilisierung der Wirbelsäule unbedingt trainiert werden?,M. iliopsoas,1
+66,Was ist unter einer Skoliose zu verstehen?,mehrdimensionale Verkrümmung der Wirbelsäule,1
+66,Was ist unter einer Skoliose zu verstehen?,untrainierte Muskulatur im Bereich der Wirbelsäule,0
+67,Vervollständige bitte den nachfolgenden Satz. Menschen mit Osteoporose leider unter … ?,… einer erhöhten Knochenbruchanfälligkeit. ,1
+67,Vervollständige bitte den nachfolgenden Satz. Menschen mit Osteoporose leider unter … ?,… einer besonders untrainierten Muskulatur. ,0
+68,Was sind Bestandteile des Herz-Kreislauf-Systems?,Blut,1
+68,Was sind Bestandteile des Herz-Kreislauf-Systems?,Gefäße,1
+68,Was sind Bestandteile des Herz-Kreislauf-Systems?,Herz,1
+68,Was sind Bestandteile des Herz-Kreislauf-Systems?,Nerven ,0
+69,Welche Funktionen erfüllt das Blut?,Transport von Gasen,1
+69,Welche Funktionen erfüllt das Blut?,Abwehr von Infektionen,1
+69,Welche Funktionen erfüllt das Blut?,Konstanthaltung des pH-Wertes ,1
+69,Welche Funktionen erfüllt das Blut?,Transport von Hormonen ,1
+70,Was zeichnet ein „Sportlerherz“ aus?,Es hat ein übernormales Volumen,1
+70,Was zeichnet ein „Sportlerherz“ aus?,Es schlägt schneller,0
+70,Was zeichnet ein „Sportlerherz“ aus?,Es ist leistungsfähiger,1
+71,Welche Aussage über Vene und Arterie stimmt?,Arterie = Blutgefäß welches das Blut zum Herzen zurückführt. ,0
+71,Welche Aussage über Vene und Arterie stimmt?,Vene = Blutgefäß welches Blut zum Herzen zurückführt. ,1
+71,Welche Aussage über Vene und Arterie stimmt?,Arterie = Blutgefäß welches das Blut vom Herzen wegführt. ,1
+72,Welche Aussagen stehen bei der Blutdruckmessung für den systolischen Wert?,„maximaler Druck auf die Gefäße“,1
+72,Welche Aussagen stehen bei der Blutdruckmessung für den systolischen Wert?,„Zusammenziehen der linken Herzkammer“,1
+72,Welche Aussagen stehen bei der Blutdruckmessung für den systolischen Wert?,„das Füllen der linken Herzkammer“,0
+72,Welche Aussagen stehen bei der Blutdruckmessung für den systolischen Wert?,„niedriger Druck auf die Gefäße“,0
+73,"Was sorgt in den Gefäßen dafür, das Blut nur in eine Richtung fließen kann?",die Schlagader,0
+73,"Was sorgt in den Gefäßen dafür, das Blut nur in eine Richtung fließen kann?",die Bindegewebsscheiden,0
+73,"Was sorgt in den Gefäßen dafür, das Blut nur in eine Richtung fließen kann?",die Venenklappen,1
+74,Welche Aussagen stehen bei der Blutdruckmessung für den diasystolischen Wert?,„maximaler Druck auf die Gefäße“ ,0
+74,Welche Aussagen stehen bei der Blutdruckmessung für den diasystolischen Wert?,„Zusammenziehen der linken Herzkammer“ ,0
+74,Welche Aussagen stehen bei der Blutdruckmessung für den diasystolischen Wert?,„das Füllen der linken Herzkammer“ ,1
+74,Welche Aussagen stehen bei der Blutdruckmessung für den diasystolischen Wert?,„niedriger Druck auf die Gefäße“ ,1
+75,Welche Funktion hat das Lymphgefäßsystem im Körper?,Immunabwehr,1
+75,Welche Funktion hat das Lymphgefäßsystem im Körper?,Transport von Körperflüssigkeiten,1
+75,Welche Funktion hat das Lymphgefäßsystem im Körper?,unterstützt den Pumpvorgang des Herzens ,0
+76,Welche Arten der Energiebereitstellung sind dir bekannt?,Betaoxidation,1
+76,Welche Arten der Energiebereitstellung sind dir bekannt?,aerobe Glykolyse,1
+76,Welche Arten der Energiebereitstellung sind dir bekannt?,energiereiche Phosphate,1
+76,Welche Arten der Energiebereitstellung sind dir bekannt?,anaerobe Glykolyse,1
+77,Wie laufen die Mechanismen der Energiebereitstellung im Körper ab?,geordnet und nacheinander,0
+77,Wie laufen die Mechanismen der Energiebereitstellung im Körper ab?,gleichzeitig in fließenden Übergängen,1
+78,Stimmt die Aussage „Fett wird erst nach 20 min Ausdauertraining verbrannt!“?,Ja,0
+78,Stimmt die Aussage „Fett wird erst nach 20 min Ausdauertraining verbrannt!“?,Nein,1
+79,Bei welcher Belastungsdauer wird ca. zu 80 % Fett verbrannt?,Marathonlauf,0
+79,Bei welcher Belastungsdauer wird ca. zu 80 % Fett verbrannt?,Doppelmarathon,0
+79,Bei welcher Belastungsdauer wird ca. zu 80 % Fett verbrannt?,24 Stunden – Lauf,1
+79,Bei welcher Belastungsdauer wird ca. zu 80 % Fett verbrannt?,Halbmarathon,0
+80,Bei welcher Belastungsdauer wird ca. zu 20 % Fett verbrannt?,Marathonlauf,1
+80,Bei welcher Belastungsdauer wird ca. zu 20 % Fett verbrannt?,Doppelmarathon,0
+80,Bei welcher Belastungsdauer wird ca. zu 20 % Fett verbrannt?,24 Stunden – Lauf,0
+80,Bei welcher Belastungsdauer wird ca. zu 20 % Fett verbrannt?,Halbmarathon,0
+81,Bei welcher Belastungsdauer wird ca. zu 70 % Kreatinphosphat verbrannt?,200 m Lauf,0
+81,Bei welcher Belastungsdauer wird ca. zu 70 % Kreatinphosphat verbrannt?,400 m Lauf,0
+81,Bei welcher Belastungsdauer wird ca. zu 70 % Kreatinphosphat verbrannt?,100 m Lauf,1
+81,Bei welcher Belastungsdauer wird ca. zu 70 % Kreatinphosphat verbrannt?,800 m Lauf,0
+82,Bitte den Satz vervollständigen: Beim Training wird chemische Energie (ATP) in …,… mechanische Energie und Wasser umgewandelt.,0
+82,Bitte den Satz vervollständigen: Beim Training wird chemische Energie (ATP) in …,… physikalische Kraft umgewandelt.,0
+82,Bitte den Satz vervollständigen: Beim Training wird chemische Energie (ATP) in …,… mechanische Energie und Wärme umgewandelt. ,1
+83,Bitte den Satz vervollständigen: Je höher die Energieflussrate (ATP-Bildung/Zeit) desto … ,… höher die Leistung. ,1
+83,Bitte den Satz vervollständigen: Je höher die Energieflussrate (ATP-Bildung/Zeit) desto … ,… höher die Schnelligkeit.,0
+83,Bitte den Satz vervollständigen: Je höher die Energieflussrate (ATP-Bildung/Zeit) desto … ,… größer die Ausdauer.,0
+84,Bitte den Satz vervollständigen: Dauer und Intensität der möglichen Maximalleistung verhalten sich … ,… proportional zueinander.,0
+84,Bitte den Satz vervollständigen: Dauer und Intensität der möglichen Maximalleistung verhalten sich … ,… gegenläufig. ,1
+84,Bitte den Satz vervollständigen: Dauer und Intensität der möglichen Maximalleistung verhalten sich … ,… konstant zueinander.,0
+85,"Bitte den Satz vervollständigen: Je trainierter der Fettstoffwechsel ist, desto besser lassen sich die …",… Zuckerreserven des Muskels schonen.   ,1
+85,"Bitte den Satz vervollständigen: Je trainierter der Fettstoffwechsel ist, desto besser lassen sich die …",… Eiweißreserven des Muskels schonen.,0
+85,"Bitte den Satz vervollständigen: Je trainierter der Fettstoffwechsel ist, desto besser lassen sich die …",… Fettreserven des Muskels schonen.  ,0
+86,Bitte den Satz vervollständigen: Die Energiebereitstellung hängt ab von … ,… dem Trainingszustand.   ,1
+86,Bitte den Satz vervollständigen: Die Energiebereitstellung hängt ab von … ,… der Ernährung.,1
+86,Bitte den Satz vervollständigen: Die Energiebereitstellung hängt ab von … ,… dem individuellen Muskelfasertyp.   ,1
+87,Welche Komponenten beeinflussen die sportliche Leistungsfähigkeit?,konditionelle und koordinative,1
+87,Welche Komponenten beeinflussen die sportliche Leistungsfähigkeit?,technisch-taktische,1
+87,Welche Komponenten beeinflussen die sportliche Leistungsfähigkeit?,gesundheitliche,1
+87,Welche Komponenten beeinflussen die sportliche Leistungsfähigkeit?,psychische ,1
+87,Welche Komponenten beeinflussen die sportliche Leistungsfähigkeit?,intellektuelle,1
+88,Motorische Fähigkeiten gliedern sich in …  ,Konditionelle ,1
+88,Motorische Fähigkeiten gliedern sich in …  ,Koordinative,1
+88,Motorische Fähigkeiten gliedern sich in …  ,Sensible,0
+89,Was sind motorische Lernfähigkeiten?,Umstellungsfähigkeit,1
+89,Was sind motorische Lernfähigkeiten?,Reaktionsfähigkeit ,1
+89,Was sind motorische Lernfähigkeiten?,Kopplungsfähigkeit,1
+89,Was sind motorische Lernfähigkeiten?,Gleichgewichtsfähigkeit,1
+89,Was sind motorische Lernfähigkeiten?,Orientierungsfähigkeit,1
+90,Bitte den Satz vervollständigen: Superkompensation bezeichnet das Prinzip … ,… der ansteigenden Belastung. ,0
+90,Bitte den Satz vervollständigen: Superkompensation bezeichnet das Prinzip … ,… des trainingswirksamen Reizes. ,0
+90,Bitte den Satz vervollständigen: Superkompensation bezeichnet das Prinzip … ,… der optimalen Relation von Belastung und Erholung.,1
+91,Bitte den Satz vervollständigen: Die Dauer der Regeneration ist abhängig von …,… der Größe der beanspruchten Muskulatur.,1
+91,Bitte den Satz vervollständigen: Die Dauer der Regeneration ist abhängig von …,… des Alters.,1
+91,Bitte den Satz vervollständigen: Die Dauer der Regeneration ist abhängig von …,… der Intensität.,1
+91,Bitte den Satz vervollständigen: Die Dauer der Regeneration ist abhängig von …,… der Bewegungsamplitude.,1
+91,Bitte den Satz vervollständigen: Die Dauer der Regeneration ist abhängig von …,… des Geschlechts.,0
+92,Welche Muskelgruppen benötigen die längsten Regenerationszeiten?,Bauch und Waden,0
+92,Welche Muskelgruppen benötigen die längsten Regenerationszeiten?,Arme und Schultern,0
+92,Welche Muskelgruppen benötigen die längsten Regenerationszeiten?,Rücken und Oberschenkel,1
+93,Was sind bekannte Trainingsprinzipien?,Prinzip der individualisierten Belastung,1
+93,Was sind bekannte Trainingsprinzipien?,Prinzip des trainingswirksamen Reizes ,1
+93,Was sind bekannte Trainingsprinzipien?,Prinzip der ansteigenden Belastung ,1
+93,Was sind bekannte Trainingsprinzipien?,Prinzip der variierenden Belastung,1
+94,Was unterscheidet die allgemeine und lokale Ausdauer?,Der Anteil der eingesetzten Muskulatur,1
+94,Was unterscheidet die allgemeine und lokale Ausdauer?,Die Höhe der Pulsfrequenz,0
+95,Bitte den Satz vervollständigen: Eine Kraft löst stets eine … ,… gleichgroße entgegengerichtete Kraft aus. ,1
+95,Bitte den Satz vervollständigen: Eine Kraft löst stets eine … ,… hohe Beschleunigung aus.,0
+96,Bitte den Satz vervollständigen: Widerstandskurven sind abhängig von… ,… der Art des Widerstands,1
+96,Bitte den Satz vervollständigen: Widerstandskurven sind abhängig von… ,… der Richtung des Widerstands,1
+96,Bitte den Satz vervollständigen: Widerstandskurven sind abhängig von… ,… der Beschleunigung ,0
+97,Bitte den Satz vervollständigen: Kraftkurven sind … ,… abhängig von der Geschwindigkeit.,1
+97,Bitte den Satz vervollständigen: Kraftkurven sind … ,… bewegungsspezifisch.,1
+97,Bitte den Satz vervollständigen: Kraftkurven sind … ,… bei vielen Sportlern ähnlich.,1
+98,Würdest du einem Kraftsportler ein Ausdauertraining empfehlen?,"Ja, um die Mitochondrien zu vergrößern",1
+98,Würdest du einem Kraftsportler ein Ausdauertraining empfehlen?,"Nein, weil dadurch Muskulatur abgebaut wird",0
+99,Ist ein gezieltes Ausdauertraining auch im Gesundheitssport sinnvoll?,"Ja, um das Immunsystem zu stärken",1
+99,Ist ein gezieltes Ausdauertraining auch im Gesundheitssport sinnvoll?,"Nein, weil der Blutdruck zu stark ansteigt",0
+100,Wovon hängt die „optimale Trainingspulsfrequenz“ ab.,Alter,1
+100,Wovon hängt die „optimale Trainingspulsfrequenz“ ab.,Geschlecht,1
+100,Wovon hängt die „optimale Trainingspulsfrequenz“ ab.,Trainingszustand,1
+100,Wovon hängt die „optimale Trainingspulsfrequenz“ ab.,Medikamenteneinnahme,1
+100,Wovon hängt die „optimale Trainingspulsfrequenz“ ab.,Vorerkrankungen,1
+101,Welche Formeln zur Berechnung der theoretisch maximalen Herzfrequenz sind bekannt?,Die ACSM-Formel,1
+101,Welche Formeln zur Berechnung der theoretisch maximalen Herzfrequenz sind bekannt?,Die Karvonen-Formel,1
+101,Welche Formeln zur Berechnung der theoretisch maximalen Herzfrequenz sind bekannt?,Die VO2max-Formel,0
+102,Was ist bezeichnend für ein Grundlagenausdauertraining?,eine intervallartige Belastung,0
+102,Was ist bezeichnend für ein Grundlagenausdauertraining?,eine konstante Belastung,1
+102,Was ist bezeichnend für ein Grundlagenausdauertraining?,Hauptwirkung über die Dauer,1
+102,Was ist bezeichnend für ein Grundlagenausdauertraining?,Hauptwirkung über die Intensität,0
+103,Was ist bezeichnend für ein Intervalltraining?,eine nicht konstante Belastung,1
+103,Was ist bezeichnend für ein Intervalltraining?,eine konstante Belastung,0
+103,Was ist bezeichnend für ein Intervalltraining?,Hauptwirkung über die Dauer,0
+103,Was ist bezeichnend für ein Intervalltraining?,Hauptwirkung über die Intensität,1
+104,Welche Kraftfähigkeiten kennst du?,Maximalkraft,1
+104,Welche Kraftfähigkeiten kennst du?,Minimalkraft,0
+104,Welche Kraftfähigkeiten kennst du?,Schnellkraft,1
+104,Welche Kraftfähigkeiten kennst du?,Kraftausdauer,1
+105,"Bitte den Satz vervollständigen: Maximalkraft, ist die Fähigkeit des Nerv-Muskelsystems …",… die größtmögliche Kraft gegen einen Widerstand auszuüben. ,1
+105,"Bitte den Satz vervollständigen: Maximalkraft, ist die Fähigkeit des Nerv-Muskelsystems …",… den größtmöglichen Widerstand statisch zu halten.,0
+106,Wodurch wird eine Steigerung der Reaktivkraft erreicht?,durch Hypertrophie Training ,0
+106,Wodurch wird eine Steigerung der Reaktivkraft erreicht?,durch plyometrisches Training,1
+106,Wodurch wird eine Steigerung der Reaktivkraft erreicht?,durch Kraftausdauer Training,0
+107,Was bedeutet der Begriff „Hypertrophie“?,eine Vermehrung von Muskelzellen,0
+107,Was bedeutet der Begriff „Hypertrophie“?,eine Verdickung von Muskelzellen,1
+108,Wodurch entsteht Muskelkater?,Wasseransammlungen (Ödeme) ,1
+108,Wodurch entsteht Muskelkater?,Milchsäureansammlung,0
+108,Wodurch entsteht Muskelkater?,Laktatüberschuss  ,0
+109,Was sind Merkmale von Muskelfasern?,können mehrere Zentimeter lang sein ,1
+109,Was sind Merkmale von Muskelfasern?,enthalten viele Mitochondrien,1
+109,Was sind Merkmale von Muskelfasern?,Kontraktion durch Nervenimpulse,1
+110,Was hilft gegen „Muskelkater“?,kräftige Massagen,0
+110,Was hilft gegen „Muskelkater“?,Wärmebehandlungen,1
+110,Was hilft gegen „Muskelkater“?,Saunagänge,1
+111,Worin liegt der Unterschied zwischen einer konzentrischen und exzentrischen Bewegung?,Konzentrisch = Überwindend,1
+111,Worin liegt der Unterschied zwischen einer konzentrischen und exzentrischen Bewegung?,Konzentrisch = Nachgebend,0
+111,Worin liegt der Unterschied zwischen einer konzentrischen und exzentrischen Bewegung?,Exzentrisch = Überwindend,0
+111,Worin liegt der Unterschied zwischen einer konzentrischen und exzentrischen Bewegung?,Exzentrisch = Nachgebend,1
+112,Bitte den Satz vervollständigen: Schnellkraft ist die Fähigkeit in kürzester Zeit einen möglichst … ,… großen Widerstand zu überwinden.,0
+112,Bitte den Satz vervollständigen: Schnellkraft ist die Fähigkeit in kürzester Zeit einen möglichst … ,… hohen Kraftstoß zu realisieren.,1
+113,Bitte den Satz vervollständigen: ST-Fasern sind im Vergleich zu FT-Fasern …,… in der Kontraktion schneller.,0
+113,Bitte den Satz vervollständigen: ST-Fasern sind im Vergleich zu FT-Fasern …,… in der Kontraktion langsamer. ,1
+113,Bitte den Satz vervollständigen: ST-Fasern sind im Vergleich zu FT-Fasern …,… im Durchmesser kleiner. ,1
+113,Bitte den Satz vervollständigen: ST-Fasern sind im Vergleich zu FT-Fasern …,… ausdauernder.,1
+114,Was sind mögliche Ziele eines Krafttrainings?,Prävention und Rehabilitation,1
+114,Was sind mögliche Ziele eines Krafttrainings?,Körperstabilisierung,1
+114,Was sind mögliche Ziele eines Krafttrainings?,verbesserte Reaktivkraft,1
+114,Was sind mögliche Ziele eines Krafttrainings?,intramuskuläre Koordination,1
+115,Welche Organisationsformen des Krafttrainings sind dir bekannt?,Zirkeltraining,1
+115,Welche Organisationsformen des Krafttrainings sind dir bekannt?,Stationstraining,1
+115,Welche Organisationsformen des Krafttrainings sind dir bekannt?,Split-Training,1
+115,Welche Organisationsformen des Krafttrainings sind dir bekannt?,Antagonisten-Training,1
+115,Welche Organisationsformen des Krafttrainings sind dir bekannt?,Sequenztraining,1
+116,Bitte den Satz vervollständigen: Eine Wiederholung entspricht …,… einem Satz der gleichen Übung.,0
+116,Bitte den Satz vervollständigen: Eine Wiederholung entspricht …,… einer Ausführung innerhalb eines festgelegten Bewegungsablaufs.,1
+117,Bitte den Satz vervollständigen: Eine Station entspricht mehreren … ,… Sätzen/Serien der gleichen Übung. ,1
+117,Bitte den Satz vervollständigen: Eine Station entspricht mehreren … ,… Sätzen/Serien mit unterschiedlicher Wiederholungszahl. ,0
+118,Bitte den Satz vervollständigen: Ein Satz/eine Serie entspricht mehreren …,... nacheinander ausgeführten Übungen.,0
+118,Bitte den Satz vervollständigen: Ein Satz/eine Serie entspricht mehreren …,... nacheinander ausgeführten Wiederholungen.,1
+119,In welchem Wiederholungsbereich trainiert man in der Regel beim Maximalkraft Training?,3 – 6,0
+119,In welchem Wiederholungsbereich trainiert man in der Regel beim Maximalkraft Training?,5 – 8,0
+119,In welchem Wiederholungsbereich trainiert man in der Regel beim Maximalkraft Training?,1 – 5,1
+120,In welchem Wiederholungsbereich trainiert man in der Regel beim Hypertrophie Training?,6 – 12,1
+120,In welchem Wiederholungsbereich trainiert man in der Regel beim Hypertrophie Training?,3 – 8,0
+120,In welchem Wiederholungsbereich trainiert man in der Regel beim Hypertrophie Training?,8 – 20,0
+121,In welchem Wiederholungsbereich trainiert man in der Regel bei einem Kraftausdauer Training?,20 – 35,0
+121,In welchem Wiederholungsbereich trainiert man in der Regel bei einem Kraftausdauer Training?,13 – 25,1
+121,In welchem Wiederholungsbereich trainiert man in der Regel bei einem Kraftausdauer Training?,6 – 12,0
+122,Wann sollte bei der Durchführung einer Wiederholung ausgeatmet werden?,in der konzentrischen Phase,1
+122,Wann sollte bei der Durchführung einer Wiederholung ausgeatmet werden?,in der exzentrischen Phase,0
+122,Wann sollte bei der Durchführung einer Wiederholung ausgeatmet werden?,in der überwindenden Phase,1
+122,Wann sollte bei der Durchführung einer Wiederholung ausgeatmet werden?,in der nachgebenden Phase,0
+123,Welche Folgen kann Pressatmung im Krafttraining haben?,Verminderte Durchblutung des Herzmuskels,1
+123,Welche Folgen kann Pressatmung im Krafttraining haben?,Druckerhöhung im Brustraum,1
+123,Welche Folgen kann Pressatmung im Krafttraining haben?,Schädigungen der Blutgefäße,1
+124,Was begünstigt Seitenstechen?,eine schlechte Körperhaltung,1
+124,Was begünstigt Seitenstechen?,ein voller Magen,1
+124,Was begünstigt Seitenstechen?,ungenügendes Aufwärmen,1
+125,Was hilft gegen Seitenstechen?,kontrolliertes und tiefes Einatmen ,1
+125,Was hilft gegen Seitenstechen?,die Intensität zurückfahren,1
+125,Was hilft gegen Seitenstechen?,die Arme über den Kopf heben ,0
+126,Was ist unter Kadenz zu verstehen?,Bewegungsdauer der Trainingsphasen,0
+126,Was ist unter Kadenz zu verstehen?,Dauer der Intensität,1
+126,Was ist unter Kadenz zu verstehen?,Geschwindigkeit,0
+127,Wie lang sollte die Pause zwischen zwei Sätzen dauern?,10-20 Sekunden,0
+127,Wie lang sollte die Pause zwischen zwei Sätzen dauern?,30 Sekunden bis 1 Minute,1
+127,Wie lang sollte die Pause zwischen zwei Sätzen dauern?,"immer 2,5 Minuten",0
+128,Welche Vorteile hat ein „Mehr-Satz-Training“ gegenüber einem „Ein-Satz-Training“?,kürzere Trainingszeit,0
+128,Welche Vorteile hat ein „Mehr-Satz-Training“ gegenüber einem „Ein-Satz-Training“?,Steigerung von Kraft und Ausdauer,1
+128,Welche Vorteile hat ein „Mehr-Satz-Training“ gegenüber einem „Ein-Satz-Training“?,höhere Muskelquerschnittszunahme,1
+128,Welche Vorteile hat ein „Mehr-Satz-Training“ gegenüber einem „Ein-Satz-Training“?,verbesserte Beweglichkeit,1
+128,Welche Vorteile hat ein „Mehr-Satz-Training“ gegenüber einem „Ein-Satz-Training“?,verbesserte Koordination,1
+129,Wie wird Kraftausdauer differenziert?,in dynamisch und statisch ,1
+129,Wie wird Kraftausdauer differenziert?,in positiv und negativ,0
+129,Wie wird Kraftausdauer differenziert?,in konzentrisch und exzentrisch,0
+130,Was verbessert intermuskuläres Koordinationstraining?,das Zusammenspiel zwischen Nervensystem und Muskeln ,1
+130,Was verbessert intermuskuläres Koordinationstraining?,die Erhöhung des Kraftniveaus ,0
+131,Was sollte bei einarmigen Kurzhantelübungen (z. B. Schulterdrücken stehend) beachtet werden?,ein Gegengewicht als Lastausgleich aufzunehmen,1
+131,Was sollte bei einarmigen Kurzhantelübungen (z. B. Schulterdrücken stehend) beachtet werden?,sich dabei hinzusetzen ,0
+132,Warum wird ein propriozeptives Training durchgeführt?,zur Wiederherstellung koordinativer Fähigkeiten,1
+132,Warum wird ein propriozeptives Training durchgeführt?,die Erhöhung des Kraftniveaus,0
+132,Warum wird ein propriozeptives Training durchgeführt?,zur Verbesserung der Tiefensensibilität,1
+133,Was verbessert intramuskuläres Koordinationstraining?,das Zusammenspiel zwischen Nervensystem und Muskeln,0
+133,Was verbessert intramuskuläres Koordinationstraining?,die Erhöhung des Kraftniveaus ,1
+134,Welche Nachteile hat ein intramuskuläres Koordinationstraining?,hohe psychische Belastung,1
+134,Welche Nachteile hat ein intramuskuläres Koordinationstraining?,hohe Verletzungsgefahr,1
+134,Welche Nachteile hat ein intramuskuläres Koordinationstraining?,hoher Zeitaufwand,0
+135,Welche Begriffe stehen im Zusammenhang mit Schnelligkeitstraining?,Reaktionsschnelligkeit,1
+135,Welche Begriffe stehen im Zusammenhang mit Schnelligkeitstraining?,Bewegungsschnelligkeit ,1
+135,Welche Begriffe stehen im Zusammenhang mit Schnelligkeitstraining?,Frequenzschnelligkeit,0
+135,Welche Begriffe stehen im Zusammenhang mit Schnelligkeitstraining?,Intervallschnelligkeit,0
+136,Bitte den Satz vervollständigen: Die Beweglichkeit definiert sich über …,… die Gelenkigkeit.,1
+136,Bitte den Satz vervollständigen: Die Beweglichkeit definiert sich über …,… das Gleichgewicht.,0
+136,Bitte den Satz vervollständigen: Die Beweglichkeit definiert sich über …,… die Dehnfähigkeit.,1
+136,Bitte den Satz vervollständigen: Die Beweglichkeit definiert sich über …,… die Ausdauer.,0
+137,Unter aktiver Beweglichkeit versteht man die Bewegungsweite die …,… von selbst erreicht werden kann.,1
+137,Unter aktiver Beweglichkeit versteht man die Bewegungsweite die …,… mit Hilfe von außen erreicht werden kann.,0
+138,Unter passiver Beweglichkeit versteht man die Bewegungsweite die …,… von selbst erreicht werden kann.,0
+138,Unter passiver Beweglichkeit versteht man die Bewegungsweite die …,… mit Hilfe von außen erreicht werden kann.,1
+139,Schritte der Trainingssteuerung. Was ist hier die richtige Reihenfolge?,"Analyse, Zielsetzung, Trainingsplanung, Durchführung, Diagnose/Anamnese",0
+139,Schritte der Trainingssteuerung. Was ist hier die richtige Reihenfolge?,"Diagnose/Anamnese, Zielsetzung, Trainingsplanung, Durchführung, Analyse",1
+139,Schritte der Trainingssteuerung. Was ist hier die richtige Reihenfolge?,"Diagnose/Anamnese, Trainingsplanung, Zielsetzung, Durchführung, Analyse",0
+140,Was sollte der Trainer im Eingangsgespräch mit dem Kunden in Erfahrung bringen?,Bestehen aktuelle Beschwerden oder eine Vorerkrankung?,1
+140,Was sollte der Trainer im Eingangsgespräch mit dem Kunden in Erfahrung bringen?,Erfolgt eine (regelmäßige) Medikamenteneinnahme?,1
+140,Was sollte der Trainer im Eingangsgespräch mit dem Kunden in Erfahrung bringen?,Wird beruflich eine körperlich anstrengende Tätigkeit ausgeübt?,1
+140,Was sollte der Trainer im Eingangsgespräch mit dem Kunden in Erfahrung bringen?,Was sind die persönlichen Trainingsziele?,1
+140,Was sollte der Trainer im Eingangsgespräch mit dem Kunden in Erfahrung bringen?,Werden sonstige sportliche Tätigkeiten ausgeübt?,1
+141,Welche biometrischen Daten können im Rahmen des Eingangsgesprächs aufgenommen werden?,Körpergewicht,1
+141,Welche biometrischen Daten können im Rahmen des Eingangsgesprächs aufgenommen werden?,Körpergröße,1
+141,Welche biometrischen Daten können im Rahmen des Eingangsgesprächs aufgenommen werden?,Taille-Hüft-Umfang,1
+141,Welche biometrischen Daten können im Rahmen des Eingangsgesprächs aufgenommen werden?,Ruheherzfrequenz,1
+141,Welche biometrischen Daten können im Rahmen des Eingangsgesprächs aufgenommen werden?,Blutdruck,1
+142,Was sind bekannte motorische Tests?,Ausdauertest,1
+142,Was sind bekannte motorische Tests?,Beweglichkeitstest ,1
+142,Was sind bekannte motorische Tests?,Koordinationstest,1
+142,Was sind bekannte motorische Tests?,Krafttest,1
+142,Was sind bekannte motorische Tests?,Stresstest,0
+143,Welche Faktoren sind bei der individuellen Trainingsplanung zu beachten?,das Zeitmanagement,1
+143,Welche Faktoren sind bei der individuellen Trainingsplanung zu beachten?,die körperliche Konstitution ,1
+143,Welche Faktoren sind bei der individuellen Trainingsplanung zu beachten?,der Arbeitsweg,0
+143,Welche Faktoren sind bei der individuellen Trainingsplanung zu beachten?,die Ernährungssituation,1
+143,Welche Faktoren sind bei der individuellen Trainingsplanung zu beachten?,die sportlichen Vorerfahrungen,1
+144,Warum ist eine individuelle Trainingsplanung sinnvoll?,um mehr Kunden zu gewinnen,0
+144,Warum ist eine individuelle Trainingsplanung sinnvoll?,um die Motivation zu erhöhen,1
+144,Warum ist eine individuelle Trainingsplanung sinnvoll?,um Verletzungen zu reduzieren,1
+144,Warum ist eine individuelle Trainingsplanung sinnvoll?,um den Trainingserfolg zu optimieren,1
+145,Was muss im Rahmen der Trainingsplanung erfolgen?,eine Methodenauswahl,1
+145,Was muss im Rahmen der Trainingsplanung erfolgen?,eine Übungsauswahl,1
+145,Was muss im Rahmen der Trainingsplanung erfolgen?,eine Festlegung der Periodisierung,1
+145,Was muss im Rahmen der Trainingsplanung erfolgen?,eine Zielsetzung,0
+145,Was muss im Rahmen der Trainingsplanung erfolgen?,eine Kontrolle,0
+146,Was sind wichtige Parameter eines Trainingsplanes?,Trainingsschwerpunkte,1
+146,Was sind wichtige Parameter eines Trainingsplanes?,Trainingshäufigkeit,1
+146,Was sind wichtige Parameter eines Trainingsplanes?,Übungsauswahl,1
+146,Was sind wichtige Parameter eines Trainingsplanes?,Wiederholungszahl,1
+146,Was sind wichtige Parameter eines Trainingsplanes?,Organisationsform,1
+147,Wie lange dauert ein Mikrozyklus?,eine Übung,0
+147,Wie lange dauert ein Mikrozyklus?,einen Tag,0
+147,Wie lange dauert ein Mikrozyklus?,eine Trainingseinheit,1
+148,Wie lange dauert ein Mesozyklus?,4-8 Wochen,1
+148,Wie lange dauert ein Mesozyklus?,2-3 Monate,0
+148,Wie lange dauert ein Mesozyklus?,1 Woche,0
+149,Wie lange dauert ein Makrozyklus?,4-8 Wochen,0
+149,Wie lange dauert ein Makrozyklus?,ca. 6 Monate,1
+149,Wie lange dauert ein Makrozyklus?,ca. 1 Jahr,0
+150,Kriterien bei der Übungsauswahl. Welche Zuordnung stimmt?,von einfach -> zu kompliziert,0
+150,Kriterien bei der Übungsauswahl. Welche Zuordnung stimmt?,von einfach -> zu schwer,0
+150,Kriterien bei der Übungsauswahl. Welche Zuordnung stimmt?,von einfach -> zu komplex,1
+151,Was ist bei der Trainingsplanung mit älteren Menschen zu beachten?,einen medizinischer Check empfehlen,1
+151,Was ist bei der Trainingsplanung mit älteren Menschen zu beachten?,längere Aufwärmphasen berücksichtigen,1
+151,Was ist bei der Trainingsplanung mit älteren Menschen zu beachten?,sofort mit Hanteltraining beginnen,0
+151,Was ist bei der Trainingsplanung mit älteren Menschen zu beachten?,längere Regenerationszeiten planen,1
+152,Was gehört zu einer Trainingsdurchführung?,die Übungsauswahl,0
+152,Was gehört zu einer Trainingsdurchführung?,die Einweisung,1
+152,Was gehört zu einer Trainingsdurchführung?,die Kontrolle,1
+152,Was gehört zu einer Trainingsdurchführung?,das Feedback,1
+152,Was gehört zu einer Trainingsdurchführung?,die Analyse,0
+153,Bitte den Satz vervollständigen: Das muskuläre Gleichgewicht kann gestört werden durch …,… Fehl- und Überbelastungen.,1
+153,Bitte den Satz vervollständigen: Das muskuläre Gleichgewicht kann gestört werden durch …,… zu geringe Erholungspausen.,1
+153,Bitte den Satz vervollständigen: Das muskuläre Gleichgewicht kann gestört werden durch …,… fehlende Ausgleichsgymnastik.,1
+153,Bitte den Satz vervollständigen: Das muskuläre Gleichgewicht kann gestört werden durch …,… Sauerstoffmangel.,1
+153,Bitte den Satz vervollständigen: Das muskuläre Gleichgewicht kann gestört werden durch …,… zu einseitiges Training.,1
+154,"Was sind wichtige Belastungsmerkmale, um eine erwünschte Wirkung zu erzielen?",Belastungsintensität,1
+154,"Was sind wichtige Belastungsmerkmale, um eine erwünschte Wirkung zu erzielen?",Belastungsdauer,1
+154,"Was sind wichtige Belastungsmerkmale, um eine erwünschte Wirkung zu erzielen?",Belastungsumfang,1
+154,"Was sind wichtige Belastungsmerkmale, um eine erwünschte Wirkung zu erzielen?",Belastungsdichte,1
+154,"Was sind wichtige Belastungsmerkmale, um eine erwünschte Wirkung zu erzielen?",Belastungshäufigkeit,1
+155,Du möchtest im Rahmen der Trainingsplanung die Belastung steigern. Was ist dabei zu beachten?,zuerst den Trainingsumfang erhöhen,1
+155,Du möchtest im Rahmen der Trainingsplanung die Belastung steigern. Was ist dabei zu beachten?,zuerst die Trainingsintensität erhöhen,0
+156,Für welche Zielgruppe ist ein Training im submaximalen Intensitätsbereich sinnvoll?,Gesundheitsorientierte,0
+156,Für welche Zielgruppe ist ein Training im submaximalen Intensitätsbereich sinnvoll?,Fitnessorientierte,1
+156,Für welche Zielgruppe ist ein Training im submaximalen Intensitätsbereich sinnvoll?,Leistungssportler,1
+157,Für welche Zielgruppe ist ein Training im mittleren Intensitätsbereich sinnvoll?,Gesundheitsorientierte,1
+157,Für welche Zielgruppe ist ein Training im mittleren Intensitätsbereich sinnvoll?,Fitnessorientierte,1
+157,Für welche Zielgruppe ist ein Training im mittleren Intensitätsbereich sinnvoll?,Leistungssportler,0
+158,Wie sieht der allgemeine Ablauf einer Trainingseinheit aus?,Aufwärmen->Hauptteil->Abwärmen,1
+158,Wie sieht der allgemeine Ablauf einer Trainingseinheit aus?,Aufwärmen->Training->Dehnung,0
+158,Wie sieht der allgemeine Ablauf einer Trainingseinheit aus?,Vorermüdung->Hauptteil->Abwärmen,0
+159,Warum sollte ein Aufwärmen vor jedem Training erfolgen?,Verringerung der Verletzungsgefahr,1
+159,Warum sollte ein Aufwärmen vor jedem Training erfolgen?,Steigerung der Koordination,1
+159,Warum sollte ein Aufwärmen vor jedem Training erfolgen?,um soziale Kontakte zu pflegen,0
+159,Warum sollte ein Aufwärmen vor jedem Training erfolgen?,Verbesserung der Gelenkbeweglichkeit,1
+160,Was ist eine Besonderheit der ILB-Methode?,Die Belastungsintensität wird spätestens alle vier Wochen gesteigert.,0
+160,Was ist eine Besonderheit der ILB-Methode?,Die Wiederholungszahl wird für jede einzelne Übung im Rahmen des Trainingsziels festgelegt. ,1
+161,Warum ist im Gesundheitssport ein ILB-Test sinnvoller als ein Maximalkraft-Test?,er ist gelenkschonender,1
+161,Warum ist im Gesundheitssport ein ILB-Test sinnvoller als ein Maximalkraft-Test?,er ist genauer,0
+161,Warum ist im Gesundheitssport ein ILB-Test sinnvoller als ein Maximalkraft-Test?,es besteht eine geringere Gefahr der Überforderung,1
+162,Wie wird beim ILB-Test die Belastungsintensität bestimmt?,mit Hilfe der jeweiligen Leistungsstufe,1
+162,Wie wird beim ILB-Test die Belastungsintensität bestimmt?,mit Hilfe des ILB-Grobrasters,1
+162,Wie wird beim ILB-Test die Belastungsintensität bestimmt?,mit Hilfe eines Maximalkraft-Tests,0
+163,Welche Maßnahmen des Abwärmens sind dir bekannt?,Statische,0
+163,Welche Maßnahmen des Abwärmens sind dir bekannt?,Aktive,1
+163,Welche Maßnahmen des Abwärmens sind dir bekannt?,Passive,1
+164,Womit wird die Trainingssteuerung abgeschlossen?,durch einen Re-Test,1
+164,Womit wird die Trainingssteuerung abgeschlossen?,durch eine Analyse,1
+164,Womit wird die Trainingssteuerung abgeschlossen?,durch eine Dokumentation,1
+164,Womit wird die Trainingssteuerung abgeschlossen?,durch eine Evaluierung,1
+165,Welche Varianten eines Ausdauertests sind dir bekannt?,Stufentest,1
+165,Welche Varianten eines Ausdauertests sind dir bekannt?,Dauerlauftest,0
+165,Welche Varianten eines Ausdauertests sind dir bekannt?,Dauertest,1
+165,Welche Varianten eines Ausdauertests sind dir bekannt?,Intervalltest,0
+166,Welche Möglichkeiten der Leistungsdiagnostik sind dir bekannt?,Spiroergometrie,1
+166,Welche Möglichkeiten der Leistungsdiagnostik sind dir bekannt?,Lactatleistungstest,1
+166,Welche Möglichkeiten der Leistungsdiagnostik sind dir bekannt?,Nervenbelastungstest,0
+166,Welche Möglichkeiten der Leistungsdiagnostik sind dir bekannt?,Schmerzrezeptorentest,0
+167,Wodurch kann die Effektivität eines Trainingsmodells geprüft werden?,durch einen ILB-Test,0
+167,Wodurch kann die Effektivität eines Trainingsmodells geprüft werden?,durch eine Leistungsdiagnostik,1
+167,Wodurch kann die Effektivität eines Trainingsmodells geprüft werden?,durch einen max. Krafttest,0
+167,Wodurch kann die Effektivität eines Trainingsmodells geprüft werden?,durch einen max. Ausdauertest,0
+168,Was sagt die Bezeichnung „VO2max“ aus?,Wert der maximalen Sauerstoffaufnahme,1
+168,Was sagt die Bezeichnung „VO2max“ aus?,Indikator des Trainingszustands,1
+168,Was sagt die Bezeichnung „VO2max“ aus?,Wert der maximalen Sauerstoffsättigung,0
+168,Was sagt die Bezeichnung „VO2max“ aus?,Angabe des maximalen Sauerstoffverbrauchs,0
+169,Woher stammt der Ausdruck „Übersäuert“?,durch die Milchsäure,1
+169,Woher stammt der Ausdruck „Übersäuert“?,durch die Harnsäure ,0
+169,Woher stammt der Ausdruck „Übersäuert“?,durch die Magensäure,0
+170,Durch welches Testverfahren wird die individuelle anaerobe Schwelle (IANS) bestimmt?,Spiroergometrie,0
+170,Durch welches Testverfahren wird die individuelle anaerobe Schwelle (IANS) bestimmt?,Lactatstufentest ,1
+170,Durch welches Testverfahren wird die individuelle anaerobe Schwelle (IANS) bestimmt?,Belastungs-EKG,0
+171,"Bitte den Satz vervollständigen: Je höher die Belastung über der IANS liegt, desto … ",höher ist die Lactatkonzentration im Blut.  ,1
+171,"Bitte den Satz vervollständigen: Je höher die Belastung über der IANS liegt, desto … ",desto schneller ermüdet die Muskulatur. ,1
+171,"Bitte den Satz vervollständigen: Je höher die Belastung über der IANS liegt, desto … ",desto langsamer ermüdet die Muskulatur.,0
+172,Wann sollten keine Belastungstests durchgeführt werden?,bei Entzündungen,1
+172,Wann sollten keine Belastungstests durchgeführt werden?,bei Infektionen ,1
+172,Wann sollten keine Belastungstests durchgeführt werden?,bei Herzrhythmusstörungen,1
+172,Wann sollten keine Belastungstests durchgeführt werden?,bei fieberhaften Erkrankungen,1
+173,Wann sollte ein Belastungstest unbedingt abgebrochen werden?,bei starkem Hustenreiz ,1
+173,Wann sollte ein Belastungstest unbedingt abgebrochen werden?,bei Schmerzen,1
+173,Wann sollte ein Belastungstest unbedingt abgebrochen werden?,bei Schwindel,1
+173,Wann sollte ein Belastungstest unbedingt abgebrochen werden?,bei Blässe und Schweißausbrüchen,1
+174,Was bedeutet die Abkürzung „TUT“ im Kraftsport?,Zeit der Anpassung,0
+174,Was bedeutet die Abkürzung „TUT“ im Kraftsport?,Zeit der Erholung,0
+174,Was bedeutet die Abkürzung „TUT“ im Kraftsport?,Zeit unter Anspannung,1
+175,Auf was sollte ein Trainer im Umgang mit Kunden achten?,respektvolles Verhalten,1
+175,Auf was sollte ein Trainer im Umgang mit Kunden achten?,Glaubwürdigkeit,1
+175,Auf was sollte ein Trainer im Umgang mit Kunden achten?,Freundlichkeit,1
+175,Auf was sollte ein Trainer im Umgang mit Kunden achten?,übertriebene Distanz,0
+175,Auf was sollte ein Trainer im Umgang mit Kunden achten?,gepflegtes Erscheinungsbild,1
+176,Nach welchem Schema sollte eine Übungsunterweisung erfolgen?,didaktisch - methodisch,1
+176,Nach welchem Schema sollte eine Übungsunterweisung erfolgen?,theoretisch,0
+176,Nach welchem Schema sollte eine Übungsunterweisung erfolgen?,praktisch,0
+176,Nach welchem Schema sollte eine Übungsunterweisung erfolgen?,genau,0
+177,Sollte man bei einer Übungsdemonstration auch zeigen wie man es nicht macht?,Nein,1
+177,Sollte man bei einer Übungsdemonstration auch zeigen wie man es nicht macht?,Ja,0
+177,Sollte man bei einer Übungsdemonstration auch zeigen wie man es nicht macht?,Manchmal,0
+178,Welche Sicherheitsaspekte müssen bei einer Trainingseinweisung beachtet werden?,Sind Seil- und Gummizüge evtl. eingerissen?  ,1
+178,Welche Sicherheitsaspekte müssen bei einer Trainingseinweisung beachtet werden?,Sind Steckstifte bis zum Anschlag eingesteckt? ,1
+178,Welche Sicherheitsaspekte müssen bei einer Trainingseinweisung beachtet werden?,Sind Karabinerhaken geschlossen? ,1
+178,Welche Sicherheitsaspekte müssen bei einer Trainingseinweisung beachtet werden?,Ist das Gewicht (freien Hanteln) gleichmäßig verteilt? ,1
+178,Welche Sicherheitsaspekte müssen bei einer Trainingseinweisung beachtet werden?,Sind die Hantelscheiben auf jeder Seite gesichert? ,1
+179,Was ist bei der Fehlerkorrektur eines Kunden zu beachten?,respektvoll und ruhig auf den Fehler hinweisen,1
+179,Was ist bei der Fehlerkorrektur eines Kunden zu beachten?,den Kunden ohne ihn zu fragen anzufassen,0
+179,Was ist bei der Fehlerkorrektur eines Kunden zu beachten?,den Kunden während seiner Übung unterbrechen,0
+179,Was ist bei der Fehlerkorrektur eines Kunden zu beachten?,den Kunden hörbar auf seine Fehler hinweisen,0
+179,Was ist bei der Fehlerkorrektur eines Kunden zu beachten?,evtl. eine „noch effektivere Variante“ empfehlen,1
+180,Was ist ein wichtiger Hinweis beim Training mit der Beinpresse?,Stabilen Stand einnehmen!,0
+180,Was ist ein wichtiger Hinweis beim Training mit der Beinpresse?,Die Knie in der Endposition nicht durchstrecken!,1
+180,Was ist ein wichtiger Hinweis beim Training mit der Beinpresse?,Gesäßmuskulatur anspannen (zur ISG-Stabilisierung)!,0
+180,Was ist ein wichtiger Hinweis beim Training mit der Beinpresse?,Aufrechte symmetrische Haltung einnehmen!,0
+180,Was ist ein wichtiger Hinweis beim Training mit der Beinpresse?,Den Kopf an das Poster anlegen!,0
+181,Welche Stabilisierungshinweise sind bei aufrecht stehenden Krafttrainingsübungen sinnvoll?,Stabilen Stand einnehmen! ,1
+181,Welche Stabilisierungshinweise sind bei aufrecht stehenden Krafttrainingsübungen sinnvoll?,Die Knie leicht gebeugt halten! ,1
+181,Welche Stabilisierungshinweise sind bei aufrecht stehenden Krafttrainingsübungen sinnvoll?,Gesäßmuskulatur anspannen (zur ISG-Stabilisierung)! ,1
+181,Welche Stabilisierungshinweise sind bei aufrecht stehenden Krafttrainingsübungen sinnvoll?,Aufrechte symmetrische Haltung einnehmen! ,1
+181,Welche Stabilisierungshinweise sind bei aufrecht stehenden Krafttrainingsübungen sinnvoll?,Den Kopf nicht bewegen!,0
+182,Wie könntest du einen Kunden im Studio langfristig motivieren?,Animation,0
+182,Wie könntest du einen Kunden im Studio langfristig motivieren?,Small Talk,0
+182,Wie könntest du einen Kunden im Studio langfristig motivieren?,echtes Interesse ,1
+182,Wie könntest du einen Kunden im Studio langfristig motivieren?,Anerkennung der Kundenleistung,1
+183,Wofür benötigt ein Trainer biomechanische Kenntnisse?,Um Bewegungsabläufe richtig zu analysieren.,1
+183,Wofür benötigt ein Trainer biomechanische Kenntnisse?,Um evtl. Zwangslagen zu erkennen.,1
+183,Wofür benötigt ein Trainer biomechanische Kenntnisse?,Um die optimale Sitzposition einzustellen.,1
+183,Wofür benötigt ein Trainer biomechanische Kenntnisse?,Um Maschinendrehachsen richtig einzustellen.,1
+183,Wofür benötigt ein Trainer biomechanische Kenntnisse?,Um biometrische Daten auswerten zu können.,0
+184,In „vollständigem ROM“ zu trainieren bedeutet?,unter maximaler Belastung,0
+184,In „vollständigem ROM“ zu trainieren bedeutet?,unter maximaler Konzentration,0
+184,In „vollständigem ROM“ zu trainieren bedeutet?,mit der maximalen Bewegungsamplitude ,1
+185,Welche Vorteile hat ROM-Training?,verbesserte Koordination ,1
+185,Welche Vorteile hat ROM-Training?,verbesserte Beweglichkeit ,1
+185,Welche Vorteile hat ROM-Training?,verbesserte Schnellkraft,0
+185,Welche Vorteile hat ROM-Training?,verbesserter Gelenkschutz ,1
+186,Welchen Aussagen bzgl. „Ristgriff“ und „Kammgriff“ stimmst du zu?,beim Ristgriff zeigen die Daumen nach innen,1
+186,Welchen Aussagen bzgl. „Ristgriff“ und „Kammgriff“ stimmst du zu?,beim Kammgriff zeigen die Daumen nach innen,0
+186,Welchen Aussagen bzgl. „Ristgriff“ und „Kammgriff“ stimmst du zu?,beim Ristgriff wird „supiniert“ gegriffen,0
+186,Welchen Aussagen bzgl. „Ristgriff“ und „Kammgriff“ stimmst du zu?,bei Kammgriff zeigen die Daumen nach außen,1
+187,Welcher Buchstabe gehört zum passenden Trainingsequipment? Bitte in das jeweilige Feld eingeben!,Latzug-Griffe: ,1
+187,Welcher Buchstabe gehört zum passenden Trainingsequipment? Bitte in das jeweilige Feld eingeben!,SZ-Stange: ,2
+187,Welcher Buchstabe gehört zum passenden Trainingsequipment? Bitte in das jeweilige Feld eingeben!,Tube: ,3
+187,Welcher Buchstabe gehört zum passenden Trainingsequipment? Bitte in das jeweilige Feld eingeben!,Kopfmanschette: ,4
+188,Was sind gängige Übungsformen?,freie Seilzugmaschinen,1
+188,Was sind gängige Übungsformen?,Maschinen mit Einzelaufhängungen,1
+188,Was sind gängige Übungsformen?,maschinenunabhängige Übungen ,1
+188,Was sind gängige Übungsformen?,Stationstraining,0
+188,Was sind gängige Übungsformen?,Zirkeltraining,0
+189,Was zählt zu einer zwangsgekoppelten Maschine?,Hüftpendel,0
+189,Was zählt zu einer zwangsgekoppelten Maschine?,Butterfly Maschine,0
+189,Was zählt zu einer zwangsgekoppelten Maschine?,Beinpresse,1
+189,Was zählt zu einer zwangsgekoppelten Maschine?,Beinstrecker,1
+189,Was zählt zu einer zwangsgekoppelten Maschine?,sitzende Wadenmaschine,1
+190,Zu welcher Übungsform gehören das Hüftpendel und die Butterflymaschine?,zwangsgekoppelte Maschinen,0
+190,Zu welcher Übungsform gehören das Hüftpendel und die Butterflymaschine?,Maschinen mit Einzelaufhängungen ,1
+190,Zu welcher Übungsform gehören das Hüftpendel und die Butterflymaschine?,zwangsgekoppelte freie Seilzugmaschinen,0
+191,Welches der Beispiele bezeichnet eine Isolationsübung?,Bizepscurls an der Maschine,1
+191,Welches der Beispiele bezeichnet eine Isolationsübung?,Beinpresse,0
+191,Welches der Beispiele bezeichnet eine Isolationsübung?,Beinstrecker,1
+191,Welches der Beispiele bezeichnet eine Isolationsübung?,Beinbeuger sitzend,1
+192,Welches Beispiel ist eine komplexe (mehrgelenkige) Übung?,Beinbeugen sitzend,0
+192,Welches Beispiel ist eine komplexe (mehrgelenkige) Übung?,Klimmzüge,1
+192,Welches Beispiel ist eine komplexe (mehrgelenkige) Übung?,Kniebeugen,1
+192,Welches Beispiel ist eine komplexe (mehrgelenkige) Übung?,Kreuzheben,1
+192,Welches Beispiel ist eine komplexe (mehrgelenkige) Übung?,Beinheben hängend,1
+193,Welche Vorteile haben „Übungen an Maschinen“ gegenüber „freien Übungen“?,geringere Verletzungsgefahr,1
+193,Welche Vorteile haben „Übungen an Maschinen“ gegenüber „freien Übungen“?,schneller erlernbar,1
+193,Welche Vorteile haben „Übungen an Maschinen“ gegenüber „freien Übungen“?,alltagsnahe Bewegungen möglich,0
+193,Welche Vorteile haben „Übungen an Maschinen“ gegenüber „freien Übungen“?,zur Verbesserung der intermuskulären Koordination,0
+194,Welche Vorteile haben „freie Übungen“ gegenüber „Übungen an Maschinen“?,mehrdimensionale Bewegungen möglich,1
+194,Welche Vorteile haben „freie Übungen“ gegenüber „Übungen an Maschinen“?,keine Begrenzung von Bewegungsradien möglich ,0
+194,Welche Vorteile haben „freie Übungen“ gegenüber „Übungen an Maschinen“?,Verbesserung der Eigenstabilisierung,1
+194,Welche Vorteile haben „freie Übungen“ gegenüber „Übungen an Maschinen“?,großer Betreuungsaufwand ,0
+195,Welche Vorteile haben „Isolationsübungen“ im Vergleich zu „Mehrgelenkigen Übungen“?,geringere Belastung für das Herz-Kreislauf-System,1
+195,Welche Vorteile haben „Isolationsübungen“ im Vergleich zu „Mehrgelenkigen Übungen“?,Muskelketten/-schlingen können besser aktiviert werden,0
+195,Welche Vorteile haben „Isolationsübungen“ im Vergleich zu „Mehrgelenkigen Übungen“?,intensivere Muskelbelastung,1
+196,Wann können Dehnungsübungen hilfreich sein?,bei eingeschränkter muskulärer Flexibilität ,1
+196,Wann können Dehnungsübungen hilfreich sein?,bei körperlichen Dysbalancen,1
+196,Wann können Dehnungsübungen hilfreich sein?,als Warm-up für z. B. Tanzsportarten,1
+196,Wann können Dehnungsübungen hilfreich sein?,vor Kraftübungen wie z. B. Kniebeugen ,0
+197,Wann ist von Dehnungsübungen abzuraten?,vor Kraftübungen wie z. B. Kniebeugen,1
+197,Wann ist von Dehnungsübungen abzuraten?,vor Schnelligkeitsübungen wie z. B. Tempoläufen,1
+197,Wann ist von Dehnungsübungen abzuraten?,bei muskulären Entzündungen,1
+197,Wann ist von Dehnungsübungen abzuraten?,bei körperlichen Fehlhaltungen,0
+198,Welche Makronährstoffe sind dir bekannt?,"Fette, Kohlenhydrate, Vitamine",0
+198,Welche Makronährstoffe sind dir bekannt?,"Eiweiße, Mineralstoffe, Fette",0
+198,Welche Makronährstoffe sind dir bekannt?,"Kohlenhydrate, Eiweiße, Fette",1
+199,Welche Mikronährstoffe sind dir bekannt?,"Fette, Mineralstoffe, Kohlenhydrate",0
+199,Welche Mikronährstoffe sind dir bekannt?,"Vitamine, Mineralstoffe, Spurenelemente",1
+199,Welche Mikronährstoffe sind dir bekannt?,"Spurenelemente, Eiweiße, Mineralstoffe",0
+200,Welche physikalischen Kalorienangaben stimmen?,"1g Fett = 9,3 kcal",1
+200,Welche physikalischen Kalorienangaben stimmen?,"1g Eiweiß = 5,7 kcal",0
+200,Welche physikalischen Kalorienangaben stimmen?,"1g Kohlenhydrate = 4,1 kcal",1
+200,Welche physikalischen Kalorienangaben stimmen?,"1g Eiweiß = 4,1 kcal",1
+200,Welche physikalischen Kalorienangaben stimmen?,"1g Kohlenhydrate = 5,3 kcal",0
+201,Von welchen Faktoren ist der Energiebedarf abhängig?,vom Grundumsatz,1
+201,Von welchen Faktoren ist der Energiebedarf abhängig?,vom Arbeitsumsatz,1
+201,Von welchen Faktoren ist der Energiebedarf abhängig?,vom Freizeitumsatz,1
+201,Von welchen Faktoren ist der Energiebedarf abhängig?,vom Haushaltsumsatz,0
+202,Von welchen Faktoren ist der Grundumsatz abhängig?,Alter,1
+202,Von welchen Faktoren ist der Grundumsatz abhängig?,Körpergröße,1
+202,Von welchen Faktoren ist der Grundumsatz abhängig?,Körpergewicht,1
+202,Von welchen Faktoren ist der Grundumsatz abhängig?,Anteil der Muskelmasse,1
+202,Von welchen Faktoren ist der Grundumsatz abhängig?,sportliche Aktivität,0
+203,Der Weg der Nahrung. Welche Reihenfolge stimmt?,"Mund, Speiseröhre, Magen, Dünndarm, Mastdarm, Dickdarm",0
+203,Der Weg der Nahrung. Welche Reihenfolge stimmt?,"Mund, Speiseröhre, Magen, Dünndarm, Dickdarm, Mastdarm",1
+203,Der Weg der Nahrung. Welche Reihenfolge stimmt?,"Mund, Speiseröhre, Magen, Mastdarm, Dünndarm, Dickdarm",0
+204,Was sind Ursachen für Übergewicht?,Fehl- und Überernährung,1
+204,Was sind Ursachen für Übergewicht?,körperliche Inaktivität,1
+204,Was sind Ursachen für Übergewicht?,regelmäßiger Nikotin- und Alkoholkonsum ,1
+204,Was sind Ursachen für Übergewicht?,Vererbung,1
+204,Was sind Ursachen für Übergewicht?,Hormonelle Faktoren,1
+205,Was sind Symptome des Metabolischen Syndroms?,starkes Übergewicht,1
+205,Was sind Symptome des Metabolischen Syndroms?,Bluthochdruck,1
+205,Was sind Symptome des Metabolischen Syndroms?,erhöhter Blutzuckerspiegel,1
+205,Was sind Symptome des Metabolischen Syndroms?,erhöhte Reizbarkeit,0
+206,Hier bitte die richtigen Werte für den Body-Mass-Index (BMI) eingeben!,Übergewicht ist definiert als > BMI ,
+206,Hier bitte die richtigen Werte für den Body-Mass-Index (BMI) eingeben!,Adipositas ist definiert als > BMI ,
+207,Mit Hilfe welcher Methode kann das Ausmaß des viszeralen Fetts beurteilt werden?,Taille-Hüft-Quotient,1
+207,Mit Hilfe welcher Methode kann das Ausmaß des viszeralen Fetts beurteilt werden?,Body-Mass-Index,0
+208,Durch welche Empfehlungen kann einer Insulinresistenz vorgebeugt werden?,Lebensmittel mit niedriger glykämischer Last wählen,1
+208,Durch welche Empfehlungen kann einer Insulinresistenz vorgebeugt werden?,weniger Weißmehlprodukte,1
+208,Durch welche Empfehlungen kann einer Insulinresistenz vorgebeugt werden?,weniger gesättigte Fette und Transfette,1
+209,Welche Lebensmittel haben eine „niedrige glykämische Last“?,Müsli und Cornflakes,0
+209,Welche Lebensmittel haben eine „niedrige glykämische Last“?,Eier und Milchprodukte,1
+209,Welche Lebensmittel haben eine „niedrige glykämische Last“?,Obst und Gemüse,1
+209,Welche Lebensmittel haben eine „niedrige glykämische Last“?,Fleisch und Fisch,1
+209,Welche Lebensmittel haben eine „niedrige glykämische Last“?,Reiswaffeln,0
+210,Was kann „dauerhaft zu viel Insulin im Blut“ bewirken?,Fettspeicherung,1
+210,Was kann „dauerhaft zu viel Insulin im Blut“ bewirken?,"zu viel, zu süß und zu fettiges Essen",1
+210,Was kann „dauerhaft zu viel Insulin im Blut“ bewirken?,Insulinresistenz,1
+210,Was kann „dauerhaft zu viel Insulin im Blut“ bewirken?,Zuckerschock,0
+211,Was gehört zu den 10 Regeln einer ausgewogenen Ernährung?,zweimal in der Woche Fisch ,1
+211,Was gehört zu den 10 Regeln einer ausgewogenen Ernährung?,sich zum Essen Zeit nehmen,1
+211,Was gehört zu den 10 Regeln einer ausgewogenen Ernährung?,fünf Mal am Tag Obst und Gemüse,1
+211,Was gehört zu den 10 Regeln einer ausgewogenen Ernährung?,sich nach einem deftigen Essen bewegen ,1
+211,Was gehört zu den 10 Regeln einer ausgewogenen Ernährung?,viel Fleisch und Wurst,0
+212,Für welche Personengruppen können Nahrungsergänzungen sinnvoll sein?,Hochleistungssportler ,1
+212,Für welche Personengruppen können Nahrungsergänzungen sinnvoll sein?,Senioren ,1
+212,Für welche Personengruppen können Nahrungsergänzungen sinnvoll sein?,Schwangere und Stillende ,1
+212,Für welche Personengruppen können Nahrungsergänzungen sinnvoll sein?,Veganer ,1
+212,Für welche Personengruppen können Nahrungsergänzungen sinnvoll sein?,Fitness- und Freizeitsportler,0
+213,Was passiert durch reinen Nahrungsentzug?,"die Muskulatur verringert sich, der Grundumsatz und die Fettverbrennung gehen zurück",1
+213,Was passiert durch reinen Nahrungsentzug?,das Fett wird weniger und der Leistungsumsatz erhöht sich,0
+214,"Ist es möglich, durch Training nur an einer bestimmten Stelle die Fettschicht zu verringern?",nein ,1
+214,"Ist es möglich, durch Training nur an einer bestimmten Stelle die Fettschicht zu verringern?",ja,0
+215,Welche Körperfettanteilreduktion pro Woche ist realistisch?,250 - 550g,1
+215,Welche Körperfettanteilreduktion pro Woche ist realistisch?,800 - 1000g,0
+215,Welche Körperfettanteilreduktion pro Woche ist realistisch?,1000 - 1200g,0
+216,Wofür benötigt der Körper Eiweiß?,für das Krafttraining,0
+216,Wofür benötigt der Körper Eiweiß?,für die Zellregeneration,1
+216,Wofür benötigt der Körper Eiweiß?,für das Immunsystem,1
+217,Welche Eiweiße sind für eine gesunde Ernährung wichtig?,Tierische,0
+217,Welche Eiweiße sind für eine gesunde Ernährung wichtig?,Pflanzliche,0
+217,Welche Eiweiße sind für eine gesunde Ernährung wichtig?,Tierische und pflanzliche,1
+218,Welche Fette sind für eine gesunde Ernährung wichtig?,Hochungesättigte Fettsäuren,1
+218,Welche Fette sind für eine gesunde Ernährung wichtig?,gesättigte Fette,0
+218,Welche Fette sind für eine gesunde Ernährung wichtig?,Transfette,0
+218,Welche Fette sind für eine gesunde Ernährung wichtig?,keine Fette,0
+219,Warum ist Fett für den Körper lebensnotwendig?,Isolier- und Schutzschicht,1
+219,Warum ist Fett für den Körper lebensnotwendig?,Strukturfett im Gehirn,1
+219,Warum ist Fett für den Körper lebensnotwendig?,Aufnahmebeschleuniger für bestimmte Vitamine,1
+219,Warum ist Fett für den Körper lebensnotwendig?,Geschmacksträger,0
+220,Was sind Lieferanten hochungesättigter Fette?,Milchprodukte,0
+220,Was sind Lieferanten hochungesättigter Fette?,Tiefseefische,1
+220,Was sind Lieferanten hochungesättigter Fette?,Wallnüsse,1
+220,Was sind Lieferanten hochungesättigter Fette?,Reis,0
+220,Was sind Lieferanten hochungesättigter Fette?,Leinsamen,1
+221,In welcher Phase sollte der Kunde hier ausatmen?,beim nach unten gehen,0
+221,In welcher Phase sollte der Kunde hier ausatmen?,beim nach oben drücken,1
+221,In welcher Phase sollte der Kunde hier ausatmen?,ist egal,0
+222,Warum sollten die Fußspitzen höher als die Knie sein?,um eine Überbelastung in den Knien zu vermeiden ,1
+222,Warum sollten die Fußspitzen höher als die Knie sein?,damit die Beine nicht zu sehr auf den Oberkörper drücken,0
+223,"Für welche Zielgruppe ist ""Abduktion stehend"" besonders zu empfehlen?",für Kunden mit leichten Kniebeschwerden,1
+223,"Für welche Zielgruppe ist ""Abduktion stehend"" besonders zu empfehlen?",für Kunden mit schweren Hüftbeschwerden,0
+224,Worauf ist bei dieser Übung zu achten?,die Knie- und die Maschinendrehachse stimmt überein,1
+224,Worauf ist bei dieser Übung zu achten?,das Becken hebt sich nicht vom Polster ab,1
+224,Worauf ist bei dieser Übung zu achten?,Die Kniegelenke werden komplett gestreckt,0
+225,Durch welche Möglichkeiten kann die Knieachse ausgerichtet werden?,Mit der Einstellung des Rückenpolsters,1
+225,Durch welche Möglichkeiten kann die Knieachse ausgerichtet werden?,Mit der Einstellung der Beinfixierung,0
+225,Durch welche Möglichkeiten kann die Knieachse ausgerichtet werden?,Mit der Einstellung der Sitzhöhe,1
+226,Warum sollte die seitliche Bauchmuskulatur gezielt trainiert werden?,um die Wirbelsäule muskulär zu sichern,1
+226,Warum sollte die seitliche Bauchmuskulatur gezielt trainiert werden?,um den Bauch besser zu definieren ,0
+227,Eignet sich die dargestellte Übung zur Stabilisierung der LWS?,nein,0
+227,Eignet sich die dargestellte Übung zur Stabilisierung der LWS?,ja,1
+228,Worauf ist bei der Beinstreckmaschine zu achten?,Knie- und Maschinendrehachse stimmen überein,1
+228,Worauf ist bei der Beinstreckmaschine zu achten?,Eine maximale Beugung ist bei Kniebeschwerden zu begrenzen,1
+228,Worauf ist bei der Beinstreckmaschine zu achten?,Keine maximale Streckung durchführen,0
+229,Wie können hier unterschiedliche Wirbelsäulensegmente trainiert werden?,Indem man die Sitzhöhe variiert,1
+229,Wie können hier unterschiedliche Wirbelsäulensegmente trainiert werden?,Indem man den Körper mit bewegt,0
+230,"Was unterscheidet Hyperextensionen frei, von einer sitzenden Rückenstreckmaschine?",überall praktizierbar,1
+230,"Was unterscheidet Hyperextensionen frei, von einer sitzenden Rückenstreckmaschine?",Schwierigkeitsgrad ist geringer,0
+230,"Was unterscheidet Hyperextensionen frei, von einer sitzenden Rückenstreckmaschine?",Koordinationsaufwand ist höher,1
+231,"Ist es wichtig, während dieser Übung die Schulterblätter „hinten unter Spannung“ zu halten?","Ja, um eine evtl. Verletzung zu vermeiden",1
+231,"Ist es wichtig, während dieser Übung die Schulterblätter „hinten unter Spannung“ zu halten?","Ja, damit bei großem Gewicht keine Zwangslage entsteht",1
+231,"Ist es wichtig, während dieser Übung die Schulterblätter „hinten unter Spannung“ zu halten?","Nein, wenn gezielt die Scapulamuskulatur trainiert werden möchte",1
+232,Was ist beim Lat-Ziehen zu beachten?,die Handgelenke in der vollständigen Zugbewegung nicht abknicken,1
+232,Was ist beim Lat-Ziehen zu beachten?,die Schulterblätter in der rückführenden Bewegung nicht aushängen,1
+232,Was ist beim Lat-Ziehen zu beachten?,den Körper mit Schwung bewegen,0
+233,"Warum sollte die Brust bei der Übung ""Butterfly reverse"" am Brustpolster bleiben?",Um ein Abfälschen bei dieser Übung zu vermeiden,1
+233,"Warum sollte die Brust bei der Übung ""Butterfly reverse"" am Brustpolster bleiben?",Um evtl. Rückenverletzungen vorzubeugen,1
+233,"Warum sollte die Brust bei der Übung ""Butterfly reverse"" am Brustpolster bleiben?",Um den Bauch zu stabilisieren,0
+234,Warum ist Langhantel-Rudern für einen Anfänger eher ungeeignet?,hohe Fehleranfälligkeit,1
+234,Warum ist Langhantel-Rudern für einen Anfänger eher ungeeignet?,hoher Schwierigkeitsgrad ,1
+234,Warum ist Langhantel-Rudern für einen Anfänger eher ungeeignet?,geringer Koordinationsaufwand ,0
+235,Pull Over Maschine: Was ist bei der Einstellung der Sitzhöhe zu beachten?,Die Schultergelenke und die Maschinendrehachse müssen übereinstimmen.,1
+235,Pull Over Maschine: Was ist bei der Einstellung der Sitzhöhe zu beachten?,Der Hüftwinkel muss 45 Grad betragen.,0
+236,Für welche Zielgruppe ist die Übung HWS-Extension besonders geeignet? Für Personen die …,… mehrere Stunden täglich am Computer sitzen. ,1
+236,Für welche Zielgruppe ist die Übung HWS-Extension besonders geeignet? Für Personen die …,… mehrere Stunden täglich im Auto sitzen. ,1
+236,Für welche Zielgruppe ist die Übung HWS-Extension besonders geeignet? Für Personen die …,… ein Schleudertrauma haben.,0
+237,Was ist beim Abstand der Griffbreite zu beachten?,"Je breiter der Griff, desto höher die Belastung der Deltamuskulatur.",1
+237,Was ist beim Abstand der Griffbreite zu beachten?,"Je breiter der Griff, desto geringer die Belastung der Deltamuskulatur.",0
+238,Warum sollte beim freien Kniebeugen die Aufwärtsbewegung mit dem Kopf beginnen?,Um den Rücken zu entlasten,0
+238,Warum sollte beim freien Kniebeugen die Aufwärtsbewegung mit dem Kopf beginnen?,Um „Bogenspannung“ des Körpers zu erhalten,1
+238,Warum sollte beim freien Kniebeugen die Aufwärtsbewegung mit dem Kopf beginnen?,Um nicht ins „Hohlkreuz“ zu gelangen,0
+239,Wann ist es sinnvoll die Langhantel beim Kreuzheben versetzt zu greifen?,Bei vielen Wiederholungen,0
+239,Wann ist es sinnvoll die Langhantel beim Kreuzheben versetzt zu greifen?,Bei vielen Sätzen ,0
+239,Wann ist es sinnvoll die Langhantel beim Kreuzheben versetzt zu greifen?,Bei hohem Gewicht,1
+240,Welcher Aussage stimmst du zu?,Je breiter der Stand desto stärker die Gesäßbeanspruchung.,1
+240,Welcher Aussage stimmst du zu?,"Je breiter der Stand, desto höher die Kniebelastung.",0
+241,Was ist bei der Einstellung der Sitzhöhe zu beachten?,Die Griffe befinden sich auf Brusthöhe. ,1
+241,Was ist bei der Einstellung der Sitzhöhe zu beachten?,Der Körper liegt am Rückenpolster an. ,1
+241,Was ist bei der Einstellung der Sitzhöhe zu beachten?,Die Beine können ausgestreckt werden.,0
+242,Warum sollte sich die Griffposition nicht über der Brusthöhe befinden?,Damit die Ellenbogen über der Hand positioniert werden können. ,1
+242,Warum sollte sich die Griffposition nicht über der Brusthöhe befinden?,Geringere Gelenkbelastung von Ellenbogen und Schulter. ,1
+242,Warum sollte sich die Griffposition nicht über der Brusthöhe befinden?,Weil dann der Brustmuskel nicht mehr trainiert wird.,0
+243,Warum sollte die Langhantel bei der Übungsausführung die Brust berühren?,Um eine größtmögliche Bewegungsamplitude auszunutzen.,1
+243,Warum sollte die Langhantel bei der Übungsausführung die Brust berühren?,Um die größtmögliche Muskelkontraktion zu erreichen. ,1
+243,Warum sollte die Langhantel bei der Übungsausführung die Brust berühren?,Um eine Verletzung auszuschließen.,0
+244,Warum sollten die Schultergelenke mit den Maschinendrehachsen übereinstimmen?,Um ungünstige Gelenkbelastungen zu vermeiden.,1
+244,Warum sollten die Schultergelenke mit den Maschinendrehachsen übereinstimmen?,Um ein „Körperschwingen“ zu vermeiden.,0
+244,Warum sollten die Schultergelenke mit den Maschinendrehachsen übereinstimmen?,Um eine vollständige Bewegungsamplitude zu ermöglichen.,1
+245,"Was ist zu beachten, um den seitlichen Schulterkopf isoliert zu trainieren?",Die Höhe der Ellenbogen sollte sich nicht über den Händen befinden.,0
+245,"Was ist zu beachten, um den seitlichen Schulterkopf isoliert zu trainieren?",Die Höhe der Ellenbogen sollte sich nicht unter den Händen befinden.,1
+246,Warum sollten hier die Achseln einen ständigen Kontakt zur Auflage haben?,Um ein Mitschwingen des Schultergürtels zu vermeiden. ,1
+246,Warum sollten hier die Achseln einen ständigen Kontakt zur Auflage haben?,Um die komplette Amplitude auszunutzen.,0
+247,Warum sollte der Ellenbogen während der Bewegung frei fixiert bleiben?,Um ein Mithelfen der Schultermuskeln zu reduzieren.,1
+247,Warum sollte der Ellenbogen während der Bewegung frei fixiert bleiben?,Um eine gleichmäßige Muskelbelastung zu erreichen.,0
+248,Durch welche Maßnahme könnte ein Abfälschen des Oberkörpers vermieden werden?,Durch eine Brust- oder Rücken-Fixierung.,1
+248,Durch welche Maßnahme könnte ein Abfälschen des Oberkörpers vermieden werden?,Durch eine Fixierung an Schulter oder Ellenbogen.,0
+249,Warum sollten bei der Ausführung die Ellenbogen am Körper fixiert bleiben?,Um ein Mitschwingen der Oberarme zu vermeiden.,1
+249,Warum sollten bei der Ausführung die Ellenbogen am Körper fixiert bleiben?,Um die Körperspannung aufrecht zu erhalten.,0
+250,Aus welchem Grund ist es sinnvoller die Stange hinter den Kopf und nicht zur Stirn zu führen?,Weil sonst der Muskel an Spannung verliert.,0
+250,Aus welchem Grund ist es sinnvoller die Stange hinter den Kopf und nicht zur Stirn zu führen?,Um mit einer größeren Bewegungsamplitude trainieren zu können. ,1
+251,Was unterscheidet diese Übung von der Ausführung mit einer Kurzhantel?,Kein Spannungsverlust in der exzentrischen Phase möglich,1
+251,Was unterscheidet diese Übung von der Ausführung mit einer Kurzhantel?,Ein höherer körperlicher und koordinativer Aufwand,0
+251,Was unterscheidet diese Übung von der Ausführung mit einer Kurzhantel?,Unterschiedliche Kraft- und Widerstandskurven,1
+252,Warum sollten bei der Ausführung die Schultern nicht komplett abgelegt werden?,Um die Körperspannung besser zu halten. ,1
+252,Warum sollten bei der Ausführung die Schultern nicht komplett abgelegt werden?,Um intensiver zu trainieren.,1
+252,Warum sollten bei der Ausführung die Schultern nicht komplett abgelegt werden?,Um den Muskel schneller zu ermüden.,1
+253,In welcher Bewegungsphase werden hier die unteren Bauchmuskeln dynamisch aktiviert?,Im ersten Drittel der konzentrischen Phase,0
+253,In welcher Bewegungsphase werden hier die unteren Bauchmuskeln dynamisch aktiviert?,Im letzten Drittel der konzentrischen Phase,1
+254,"Warum ist bei der Ausführung darauf zu achten, nicht in ein ""Hohlkreuz"" zu fallen?",Um eine erhöhte LWS-Belastung zu vermeiden.,1
+254,"Warum ist bei der Ausführung darauf zu achten, nicht in ein ""Hohlkreuz"" zu fallen?",Um die Körperspannung nicht zu verlieren.,0
+254,"Warum ist bei der Ausführung darauf zu achten, nicht in ein ""Hohlkreuz"" zu fallen?",Um eine erhöhte HWS-Belastung zu vermeiden.,0
+254,"Warum ist bei der Ausführung darauf zu achten, nicht in ein ""Hohlkreuz"" zu fallen?",Um eine erhöhte BWS-Belastung zu vermeiden.,1
+255,Durch welche Maßnahme könnte die Schulterbelastung hier reduziert werden?,Diese Übung am Kabelzug durchführen.,1
+255,Durch welche Maßnahme könnte die Schulterbelastung hier reduziert werden?,Die Ellenbogen etwas mehr anwinkeln.,0
