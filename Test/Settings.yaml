@@ -149,14 +149,14 @@ questions:
                 correct: false
                 value: 'sendet Signale über die Blutbahn an bestimmte Zielorgane '
     -
-        text: 'Das parasympathische Nervensystem steht für …,"Hemmung'
+        text: 'Das parasympathische Nervensystem steht für …'
         options:
             -
                 correct: true
-                value: ' Erholung"'
+                value: '"Hemmung'
             -
                 correct: false
-                value: ' Aggressivität"'
+                value: '"Aktivierung'
     -
         text: 'Was wird unter Homöostase verstanden?'
         options:
@@ -169,12 +169,15 @@ questions:
             -
                 correct: false
                 value: 'Steuerung der Muskelaktivität'
+    -
+        text: 'Das sympathische Nervensystem steht für ...'
+        options:
             -
                 correct: false
-                value: '"Hemmung, Drosslung, Erholung "'
+                value: '"Hemmung'
             -
                 correct: true
-                value: '"Aktivierung, Leistung, Aggressivität"'
+                value: '"Aktivierung'
     -
         text: 'In welchen Bereich des Körpers befindet sich das sympathische Nervensystem?'
         options:
@@ -183,7 +186,7 @@ questions:
                 value: 'Rückenmark der Brust- und Lendenwirbelsäule'
             -
                 correct: false
-                value: ' Rückenmark des Sakralbereichs "'
+                value: '"Gehirn'
     -
         text: 'In welchen Bereich des Körpers befindet sich das parasympathische Nervensystem?'
         options:
@@ -192,7 +195,7 @@ questions:
                 value: 'Rückenmark der Brust- und Lendenwirbelsäule'
             -
                 correct: true
-                value: ' Rückenmark des Sakralbereichs "'
+                value: '"Gehirn'
     -
         text: 'Eine Verengung der Blutgefäße und Erweiterung der Pupillen ist bezeichnend für den … '
         options:
@@ -701,11 +704,11 @@ questions:
                 correct: true
                 value: 'M. infraspinatus'
     -
-        text: 'Welche wichtigen Funktionen erfüllt die Wirbelsäule?,"Stützfunktion'
+        text: 'Welche wichtigen Funktionen erfüllt die Wirbelsäule?'
         options:
             -
                 correct: true
-                value: ' als Puffer und Stoßdämpfer "'
+                value: '"Stützfunktion'
             -
                 correct: true
                 value: 'Bewegungsfunktion'
@@ -713,17 +716,17 @@ questions:
                 correct: true
                 value: 'Schutz des Rückenmarks '
     -
-        text: '"Gib die Anzahl der Hals-, Brust und Lendenwirbel in die leeren Felder ein."'
+        text: '"Gib die Anzahl der Hals-'
         options:
             -
                 correct: false
-                value: 'Anzahl Wirbel der Halswirbelsäule:  '
+                value: ' Brust und Lendenwirbel in die leeren Felder ein."'
             -
                 correct: false
-                value: 'Anzahl Wirbel der Brustwirbelsäule: '
+                value: ' Brust und Lendenwirbel in die leeren Felder ein."'
             -
                 correct: false
-                value: 'Anzahl Wirbel der Lendenwirbelsäule: '
+                value: ' Brust und Lendenwirbel in die leeren Felder ein."'
     -
         text: 'Wieviel Muskeln und Knochen hat ein gesunder Mensch?'
         options:
@@ -749,11 +752,11 @@ questions:
                 correct: false
                 value: 'Lateralebene '
     -
-        text: 'Welcher Zusammenhang zwischen Körperachse und Bewegungsrichtung der Wirbelsäule stimmt?,"Transversalachse -> Extension'
+        text: 'Welcher Zusammenhang zwischen Körperachse und Bewegungsrichtung der Wirbelsäule stimmt?'
         options:
             -
                 correct: true
-                value: ' Flexion"'
+                value: '"Transversalachse -> Extension'
             -
                 correct: false
                 value: 'Sagittalachse -> Rotation'
@@ -971,17 +974,17 @@ questions:
                 correct: false
                 value: '„niedriger Druck auf die Gefäße“'
     -
-        text: '"Was sorgt in den Gefäßen dafür, das Blut nur in eine Richtung fließen kann?"'
+        text: '"Was sorgt in den Gefäßen dafür'
         options:
             -
                 correct: false
-                value: 'die Schlagader'
+                value: ' das Blut nur in eine Richtung fließen kann?"'
             -
                 correct: false
-                value: 'die Bindegewebsscheiden'
+                value: ' das Blut nur in eine Richtung fließen kann?"'
             -
                 correct: true
-                value: 'die Venenklappen'
+                value: ' das Blut nur in eine Richtung fließen kann?"'
     -
         text: 'Welche Aussagen stehen bei der Blutdruckmessung für den diasystolischen Wert?'
         options:
@@ -1124,17 +1127,17 @@ questions:
                 correct: false
                 value: '… konstant zueinander.'
     -
-        text: '"Bitte den Satz vervollständigen: Je trainierter der Fettstoffwechsel ist, desto besser lassen sich die …"'
+        text: '"Bitte den Satz vervollständigen: Je trainierter der Fettstoffwechsel ist'
         options:
             -
                 correct: true
-                value: '… Zuckerreserven des Muskels schonen.   '
+                value: ' desto besser lassen sich die …"'
             -
                 correct: false
-                value: '… Eiweißreserven des Muskels schonen.'
+                value: ' desto besser lassen sich die …"'
             -
                 correct: false
-                value: '… Fettreserven des Muskels schonen.  '
+                value: ' desto besser lassen sich die …"'
     -
         text: 'Bitte den Satz vervollständigen: Die Energiebereitstellung hängt ab von … '
         options:
@@ -1295,23 +1298,23 @@ questions:
                 correct: true
                 value: '… bei vielen Sportlern ähnlich.'
     -
-        text: 'Würdest du einem Kraftsportler ein Ausdauertraining empfehlen?,"Ja'
+        text: 'Würdest du einem Kraftsportler ein Ausdauertraining empfehlen?'
         options:
             -
                 correct: true
-                value: ' um die Mitochondrien zu vergrößern"'
+                value: '"Ja'
             -
                 correct: false
-                value: ' weil dadurch Muskulatur abgebaut wird"'
+                value: '"Nein'
     -
-        text: 'Ist ein gezieltes Ausdauertraining auch im Gesundheitssport sinnvoll?,"Ja'
+        text: 'Ist ein gezieltes Ausdauertraining auch im Gesundheitssport sinnvoll?'
         options:
             -
                 correct: true
-                value: ' um das Immunsystem zu stärken"'
+                value: '"Ja'
             -
                 correct: false
-                value: ' weil der Blutdruck zu stark ansteigt"'
+                value: '"Nein'
     -
         text: 'Wovon hängt die „optimale Trainingspulsfrequenz“ ab.'
         options:
@@ -1388,14 +1391,14 @@ questions:
                 correct: true
                 value: 'Kraftausdauer'
     -
-        text: '"Bitte den Satz vervollständigen: Maximalkraft, ist die Fähigkeit des Nerv-Muskelsystems …"'
+        text: '"Bitte den Satz vervollständigen: Maximalkraft'
         options:
             -
                 correct: true
-                value: '… die größtmögliche Kraft gegen einen Widerstand auszuüben. '
+                value: ' ist die Fähigkeit des Nerv-Muskelsystems …"'
             -
                 correct: false
-                value: '… den größtmöglichen Widerstand statisch zu halten.'
+                value: ' ist die Fähigkeit des Nerv-Muskelsystems …"'
     -
         text: 'Wodurch wird eine Steigerung der Reaktivkraft erreicht?'
         options:
@@ -1662,7 +1665,7 @@ questions:
                 value: '30 Sekunden bis 1 Minute'
             -
                 correct: false
-                value: '5 Minuten"'
+                value: '"immer 2'
     -
         text: 'Welche Vorteile hat ein „Mehr-Satz-Training“ gegenüber einem „Ein-Satz-Training“?'
         options:
@@ -1797,13 +1800,13 @@ questions:
         options:
             -
                 correct: false
-                value: '"Analyse, Zielsetzung, Trainingsplanung, Durchführung, Diagnose/Anamnese"'
+                value: '"Analyse'
             -
                 correct: true
-                value: '"Diagnose/Anamnese, Zielsetzung, Trainingsplanung, Durchführung, Analyse"'
+                value: '"Diagnose/Anamnese'
             -
                 correct: false
-                value: '"Diagnose/Anamnese, Trainingsplanung, Zielsetzung, Durchführung, Analyse"'
+                value: '"Diagnose/Anamnese'
     -
         text: 'Was sollte der Trainer im Eingangsgespräch mit dem Kunden in Erfahrung bringen?'
         options:
@@ -2027,23 +2030,23 @@ questions:
                 correct: true
                 value: '… zu einseitiges Training.'
     -
-        text: '"Was sind wichtige Belastungsmerkmale, um eine erwünschte Wirkung zu erzielen?"'
+        text: '"Was sind wichtige Belastungsmerkmale'
         options:
             -
                 correct: true
-                value: 'Belastungsintensität'
+                value: ' um eine erwünschte Wirkung zu erzielen?"'
             -
                 correct: true
-                value: 'Belastungsdauer'
+                value: ' um eine erwünschte Wirkung zu erzielen?"'
             -
                 correct: true
-                value: 'Belastungsumfang'
+                value: ' um eine erwünschte Wirkung zu erzielen?"'
             -
                 correct: true
-                value: 'Belastungsdichte'
+                value: ' um eine erwünschte Wirkung zu erzielen?"'
             -
                 correct: true
-                value: 'Belastungshäufigkeit'
+                value: ' um eine erwünschte Wirkung zu erzielen?"'
     -
         text: 'Du möchtest im Rahmen der Trainingsplanung die Belastung steigern. Was ist dabei zu beachten?'
         options:
@@ -2249,17 +2252,17 @@ questions:
                 correct: false
                 value: 'Belastungs-EKG'
     -
-        text: '"Bitte den Satz vervollständigen: Je höher die Belastung über der IANS liegt, desto … "'
+        text: '"Bitte den Satz vervollständigen: Je höher die Belastung über der IANS liegt'
         options:
             -
                 correct: true
-                value: 'höher ist die Lactatkonzentration im Blut.  '
+                value: ' desto … "'
             -
                 correct: true
-                value: 'desto schneller ermüdet die Muskulatur. '
+                value: ' desto … "'
             -
                 correct: false
-                value: 'desto langsamer ermüdet die Muskulatur.'
+                value: ' desto … "'
     -
         text: 'Wann sollten keine Belastungstests durchgeführt werden?'
         options:
@@ -2663,47 +2666,47 @@ questions:
                 correct: false
                 value: 'bei körperlichen Fehlhaltungen'
     -
-        text: 'Welche Makronährstoffe sind dir bekannt?,"Fette'
+        text: 'Welche Makronährstoffe sind dir bekannt?'
         options:
             -
                 correct: false
-                value: ' Vitamine"'
+                value: '"Fette'
             -
                 correct: false
-                value: ' Fette"'
+                value: '"Eiweiße'
             -
                 correct: true
-                value: ' Fette"'
+                value: '"Kohlenhydrate'
     -
-        text: 'Welche Mikronährstoffe sind dir bekannt?,"Fette'
+        text: 'Welche Mikronährstoffe sind dir bekannt?'
         options:
             -
                 correct: false
-                value: ' Kohlenhydrate"'
+                value: '"Fette'
             -
                 correct: true
-                value: ' Spurenelemente"'
+                value: '"Vitamine'
             -
                 correct: false
-                value: ' Mineralstoffe"'
+                value: '"Spurenelemente'
     -
-        text: 'Welche physikalischen Kalorienangaben stimmen?,"1g Fett = 9'
+        text: 'Welche physikalischen Kalorienangaben stimmen?'
         options:
             -
                 correct: true
-                value: '3 kcal"'
+                value: '"1g Fett = 9'
             -
                 correct: false
-                value: '7 kcal"'
+                value: '"1g Eiweiß = 5'
             -
                 correct: true
-                value: '1 kcal"'
+                value: '"1g Kohlenhydrate = 4'
             -
                 correct: true
-                value: '1 kcal"'
+                value: '"1g Eiweiß = 4'
             -
                 correct: false
-                value: '3 kcal"'
+                value: '"1g Kohlenhydrate = 5'
     -
         text: 'Von welchen Faktoren ist der Energiebedarf abhängig?'
         options:
@@ -2738,17 +2741,17 @@ questions:
                 correct: false
                 value: 'sportliche Aktivität'
     -
-        text: 'Der Weg der Nahrung. Welche Reihenfolge stimmt?,"Mund'
+        text: 'Der Weg der Nahrung. Welche Reihenfolge stimmt?'
         options:
             -
                 correct: false
-                value: ' Dickdarm"'
+                value: '"Mund'
             -
                 correct: true
-                value: ' Mastdarm"'
+                value: '"Mund'
             -
                 correct: false
-                value: ' Dickdarm"'
+                value: '"Mund'
     -
         text: 'Was sind Ursachen für Übergewicht?'
         options:
@@ -2838,7 +2841,7 @@ questions:
                 value: 'Fettspeicherung'
             -
                 correct: true
-                value: ' zu süß und zu fettiges Essen"'
+                value: '"zu viel'
             -
                 correct: true
                 value: 'Insulinresistenz'
@@ -2882,23 +2885,23 @@ questions:
                 correct: false
                 value: 'Fitness- und Freizeitsportler'
     -
-        text: 'Was passiert durch reinen Nahrungsentzug?,"die Muskulatur verringert sich'
+        text: 'Was passiert durch reinen Nahrungsentzug?'
         options:
             -
                 correct: true
-                value: ' der Grundumsatz und die Fettverbrennung gehen zurück"'
+                value: '"die Muskulatur verringert sich'
             -
                 correct: false
                 value: 'das Fett wird weniger und der Leistungsumsatz erhöht sich'
     -
-        text: '"Ist es möglich, durch Training nur an einer bestimmten Stelle die Fettschicht zu verringern?"'
+        text: '"Ist es möglich'
         options:
             -
                 correct: true
-                value: 'nein '
+                value: ' durch Training nur an einer bestimmten Stelle die Fettschicht zu verringern?"'
             -
                 correct: false
-                value: 'ja'
+                value: ' durch Training nur an einer bestimmten Stelle die Fettschicht zu verringern?"'
     -
         text: 'Welche Körperfettanteilreduktion pro Woche ist realistisch?'
         options:
@@ -3077,29 +3080,29 @@ questions:
                 correct: false
                 value: 'Indem man den Körper mit bewegt'
     -
-        text: '"Was unterscheidet Hyperextensionen frei, von einer sitzenden Rückenstreckmaschine?"'
+        text: '"Was unterscheidet Hyperextensionen frei'
         options:
             -
                 correct: true
-                value: 'überall praktizierbar'
+                value: ' von einer sitzenden Rückenstreckmaschine?"'
             -
                 correct: false
-                value: 'Schwierigkeitsgrad ist geringer'
+                value: ' von einer sitzenden Rückenstreckmaschine?"'
             -
                 correct: true
-                value: 'Koordinationsaufwand ist höher'
+                value: ' von einer sitzenden Rückenstreckmaschine?"'
     -
-        text: '"Ist es wichtig, während dieser Übung die Schulterblätter „hinten unter Spannung“ zu halten?"'
+        text: '"Ist es wichtig'
         options:
             -
                 correct: true
-                value: '"Ja,  um eine evtl. Verletzung zu vermeiden"'
+                value: ' während dieser Übung die Schulterblätter „hinten unter Spannung“ zu halten?"'
             -
                 correct: true
-                value: '"Ja,  damit bei großem Gewicht keine Zwangslage entsteht"'
+                value: ' während dieser Übung die Schulterblätter „hinten unter Spannung“ zu halten?"'
             -
                 correct: true
-                value: '"Nein,  wenn gezielt die Scapulamuskulatur trainiert werden möchte"'
+                value: ' während dieser Übung die Schulterblätter „hinten unter Spannung“ zu halten?"'
     -
         text: 'Was ist beim Lat-Ziehen zu beachten?'
         options:
@@ -3158,14 +3161,14 @@ questions:
                 correct: false
                 value: '… ein Schleudertrauma haben.'
     -
-        text: 'Was ist beim Abstand der Griffbreite zu beachten?,"Je breiter der Griff'
+        text: 'Was ist beim Abstand der Griffbreite zu beachten?'
         options:
             -
                 correct: true
-                value: ' desto höher die Belastung der Deltamuskulatur."'
+                value: '"Je breiter der Griff'
             -
                 correct: false
-                value: ' desto geringer die Belastung der Deltamuskulatur."'
+                value: '"Je breiter der Griff'
     -
         text: 'Warum sollte beim freien Kniebeugen die Aufwärtsbewegung mit dem Kopf beginnen?'
         options:
@@ -3198,7 +3201,7 @@ questions:
                 value: 'Je breiter der Stand desto stärker die Gesäßbeanspruchung.'
             -
                 correct: false
-                value: ' desto höher die Kniebelastung."'
+                value: '"Je breiter der Stand'
     -
         text: 'Was ist bei der Einstellung der Sitzhöhe zu beachten?'
         options:
@@ -3248,14 +3251,14 @@ questions:
                 correct: true
                 value: 'Um eine vollständige Bewegungsamplitude zu ermöglichen.'
     -
-        text: '"Was ist zu beachten, um den seitlichen Schulterkopf isoliert zu trainieren?"'
+        text: '"Was ist zu beachten'
         options:
             -
                 correct: false
-                value: 'Die Höhe der Ellenbogen sollte sich nicht über den Händen befinden.'
+                value: ' um den seitlichen Schulterkopf isoliert zu trainieren?"'
             -
                 correct: true
-                value: 'Die Höhe der Ellenbogen sollte sich nicht unter den Händen befinden.'
+                value: ' um den seitlichen Schulterkopf isoliert zu trainieren?"'
     -
         text: 'Warum sollten hier die Achseln einen ständigen Kontakt zur Auflage haben?'
         options:
@@ -3335,20 +3338,20 @@ questions:
                 correct: true
                 value: 'Im letzten Drittel der konzentrischen Phase'
     -
-        text: '"Warum ist bei der Ausführung darauf zu achten, nicht in ein ""Hohlkreuz"" zu fallen?"'
+        text: '"Warum ist bei der Ausführung darauf zu achten'
         options:
             -
                 correct: true
-                value: 'Um eine erhöhte LWS-Belastung zu vermeiden.'
+                value: ' nicht in ein ""Hohlkreuz"" zu fallen?"'
             -
                 correct: false
-                value: 'Um die Körperspannung nicht zu verlieren.'
+                value: ' nicht in ein ""Hohlkreuz"" zu fallen?"'
             -
                 correct: false
-                value: 'Um eine erhöhte HWS-Belastung zu vermeiden.'
+                value: ' nicht in ein ""Hohlkreuz"" zu fallen?"'
             -
                 correct: true
-                value: 'Um eine erhöhte BWS-Belastung zu vermeiden.'
+                value: ' nicht in ein ""Hohlkreuz"" zu fallen?"'
     -
         text: 'Durch welche Maßnahme könnte die Schulterbelastung hier reduziert werden?'
         options:
