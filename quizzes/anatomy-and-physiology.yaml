@@ -1,0 +1,3363 @@
+id: anatomy-and-physiology
+title: 'Anatomy and Physiology'
+questions:
+    -
+        text: 'Welche Bestandteile gehören zur Zelle?'
+        options:
+            -
+                correct: true
+                value: 'Zellleib'
+            -
+                correct: true
+                value: 'Zellkern'
+            -
+                correct: true
+                value: 'Zellmembran'
+            -
+                correct: false
+                value: 'Zellstamm'
+    -
+        text: 'In welchem Bereich der Zelle befindet sich die DNS (Desoxyribonukleinsäure)?'
+        options:
+            -
+                correct: false
+                value: 'Zellleib '
+            -
+                correct: true
+                value: 'Zellkern'
+            -
+                correct: false
+                value: 'Zellmembran'
+            -
+                correct: false
+                value: 'Zellstamm'
+    -
+        text: 'Welche Zelltypen sind dir bekannt?'
+        options:
+            -
+                correct: false
+                value: 'Graue Zellen'
+            -
+                correct: true
+                value: 'Nervenzellen'
+            -
+                correct: true
+                value: 'Hautzellen'
+            -
+                correct: true
+                value: 'Knochenzellen'
+    -
+        text: 'Was ist ein Mitochondrium?'
+        options:
+            -
+                correct: false
+                value: 'Eine Gewebeart'
+            -
+                correct: false
+                value: 'Ein Nervengewebe'
+            -
+                correct: true
+                value: 'Die Brennkammer der Zelle'
+            -
+                correct: true
+                value: 'Eine Zellorganelle'
+    -
+        text: 'Wo kommen Mitochondrien vor?'
+        options:
+            -
+                correct: true
+                value: 'In der Muskulatur'
+            -
+                correct: false
+                value: 'In roten Blutkörperchen'
+    -
+        text: 'Welche Gewebearten sind dir bekannt?'
+        options:
+            -
+                correct: true
+                value: 'Epithelgewebe'
+            -
+                correct: true
+                value: 'Binde- und Stützgewebe'
+            -
+                correct: true
+                value: 'Muskelgewebe '
+            -
+                correct: true
+                value: 'Nervengewebe'
+    -
+        text: 'Was ist charakteristisch für Fasziengewebe?'
+        options:
+            -
+                correct: true
+                value: 'Es ist schmerzempfindlich.'
+            -
+                correct: true
+                value: 'Es verbindet Muskeln und Knochen.'
+            -
+                correct: true
+                value: 'Es sorgt für Stabilität.'
+            -
+                correct: true
+                value: 'Es umhüllt Muskelfasern.'
+    -
+        text: 'Aus welchen funktionellen Einheiten besteht das Nervensystem?'
+        options:
+            -
+                correct: false
+                value: 'Reflektorisches Nervensystem RNS'
+            -
+                correct: true
+                value: 'Vegetatives Nervensystem VNS '
+            -
+                correct: true
+                value: 'Peripheres Nervensystem PNS'
+            -
+                correct: true
+                value: 'Zentrales Nervensystem ZNS'
+    -
+        text: 'Das Vegetative Nervensystem (VNS) unterteilt sich in …'
+        options:
+            -
+                correct: true
+                value: '„Sympathisches“ und „Parasympathisches“ NS'
+            -
+                correct: false
+                value: '„Autonomes“ und „Nicht Autonomes“ NS'
+    -
+        text: 'Welche Aufgabe hat das zentrale Nervensystem?'
+        options:
+            -
+                correct: true
+                value: 'koordiniert sämtliche motorische Aufgaben '
+            -
+                correct: false
+                value: 'reguliert die Körpertemperatur '
+            -
+                correct: false
+                value: 'sendet Signale über die Blutbahn an bestimmte Zielorgane '
+    -
+        text: 'Welche Aufgabe hat das vegetative Nervensystem?'
+        options:
+            -
+                correct: false
+                value: 'reguliert den motorischen Einsatz der Muskeln'
+            -
+                correct: true
+                value: 'steuert lebenswichtige Funktionen der inneren Organe  '
+            -
+                correct: false
+                value: 'sendet Signale über die Blutbahn an bestimmte Zielorgane '
+    -
+        text: 'Das parasympathische Nervensystem steht für …'
+        options:
+            -
+                correct: true
+                value: '"Hemmung'
+            -
+                correct: false
+                value: '"Aktivierung'
+    -
+        text: 'Was wird unter Homöostase verstanden?'
+        options:
+            -
+                correct: true
+                value: 'Aufrechterhaltung des inneren Gleichgewichts'
+            -
+                correct: true
+                value: 'Selbstregulation eines offenen Systems'
+            -
+                correct: false
+                value: 'Steuerung der Muskelaktivität'
+    -
+        text: 'Das sympathische Nervensystem steht für ...'
+        options:
+            -
+                correct: false
+                value: '"Hemmung'
+            -
+                correct: true
+                value: '"Aktivierung'
+    -
+        text: 'In welchen Bereich des Körpers befindet sich das sympathische Nervensystem?'
+        options:
+            -
+                correct: true
+                value: 'Rückenmark der Brust- und Lendenwirbelsäule'
+            -
+                correct: false
+                value: '"Gehirn'
+    -
+        text: 'In welchen Bereich des Körpers befindet sich das parasympathische Nervensystem?'
+        options:
+            -
+                correct: false
+                value: 'Rückenmark der Brust- und Lendenwirbelsäule'
+            -
+                correct: true
+                value: '"Gehirn'
+    -
+        text: 'Eine Verengung der Blutgefäße und Erweiterung der Pupillen ist bezeichnend für den … '
+        options:
+            -
+                correct: true
+                value: 'Sympathikus '
+            -
+                correct: false
+                value: 'Parasympathikus'
+    -
+        text: 'Welcher Ablauf bezüglich des Reflexbogens stimmt?'
+        options:
+            -
+                correct: true
+                value: 'Störgröße -> Rezeptor -> Reflexzentrum -> Effektor -> Reflexhandlung'
+            -
+                correct: false
+                value: 'Störgröße -> Effektor -> Reflexzentrum -> Rezeptor -> Reflexhandlung '
+    -
+        text: 'Was sind Beispiele autonomer (unbewusster) Reflexe?'
+        options:
+            -
+                correct: true
+                value: 'Saugreflex '
+            -
+                correct: true
+                value: 'Würgereflex'
+            -
+                correct: true
+                value: 'Pupillenlichtreflex'
+    -
+        text: 'Was sind Beispiele erworbener Reflexe?'
+        options:
+            -
+                correct: true
+                value: 'Ein Boxer pariert einen Faustschlag. '
+            -
+                correct: true
+                value: 'Ein Torwart hält einen Elfmeter.'
+            -
+                correct: false
+                value: 'Ein Sprinter hört den Startschuss.'
+    -
+        text: 'Was sind Bestandteile des passiven Bewegungsapparats?'
+        options:
+            -
+                correct: false
+                value: 'Schleimbeutel'
+            -
+                correct: true
+                value: 'Knochen'
+            -
+                correct: true
+                value: 'Knorpel'
+            -
+                correct: true
+                value: 'Bänder'
+            -
+                correct: false
+                value: 'Sehnen'
+    -
+        text: 'Was sind Bestandteile des aktiven Bewegungsapparats?'
+        options:
+            -
+                correct: true
+                value: 'Schleimbeutel und Sehnenscheiden'
+            -
+                correct: true
+                value: 'Muskeln'
+            -
+                correct: false
+                value: 'Knorpel'
+            -
+                correct: false
+                value: 'Bänder'
+            -
+                correct: true
+                value: 'Sehnen'
+    -
+        text: 'Welche Arten der Muskulatur sind dir bekannt?'
+        options:
+            -
+                correct: true
+                value: 'quergestreifte Skelettmuskulatur'
+            -
+                correct: true
+                value: 'glatte Muskulatur '
+            -
+                correct: true
+                value: 'quergestreifte Herzmuskulatur'
+            -
+                correct: false
+                value: 'längsgestreifte Muskulatur'
+    -
+        text: 'Der lateinische Name bezeichnet den „Muskulus triceps brachii“ als einen …'
+        options:
+            -
+                correct: false
+                value: '… platten Muskel.'
+            -
+                correct: false
+                value: '… Ringmuskel.'
+            -
+                correct: false
+                value: '… zweiköpfigen Muskel.'
+            -
+                correct: true
+                value: '… dreiköpfigen Muskel.  '
+    -
+        text: 'Welcher Muskel ist dir als ein „eingelenkiger Muskel“ bekannt?'
+        options:
+            -
+                correct: false
+                value: 'der Brustmuskel (Pectoralis)'
+            -
+                correct: false
+                value: 'der Hüftbeuger (Psoas)'
+            -
+                correct: true
+                value: 'der Armbeuger (Brachialis) '
+    -
+        text: 'Welches Muskelgewebe ist fähig zur Dauerkontraktion?'
+        options:
+            -
+                correct: false
+                value: 'das Quergestreifte'
+            -
+                correct: true
+                value: 'das Glatte '
+            -
+                correct: false
+                value: 'das Längsgestreifte'
+    -
+        text: 'Welche Arbeitsweisen der Muskulatur sind dir bekannt?'
+        options:
+            -
+                correct: true
+                value: 'Konzentrisch '
+            -
+                correct: true
+                value: 'Exzentrisch '
+            -
+                correct: true
+                value: 'Statisch '
+            -
+                correct: false
+                value: 'Isometrisch'
+    -
+        text: 'Bestimme die Arbeitsweise der Muskulatur beim Klimmzug.'
+        options:
+            -
+                correct: true
+                value: 'Den Körper nach oben ziehen = Konzentrisch '
+            -
+                correct: false
+                value: 'Den Körper nach oben ziehen = Exzentrisch '
+    -
+        text: 'Bestimme die Arbeitsweise der Muskulatur bei der Kniebeuge.'
+        options:
+            -
+                correct: false
+                value: 'Körper nach unten bewegen = Konzentrisch'
+            -
+                correct: true
+                value: 'Körper nach unten bewegen = Exzentrisch '
+    -
+        text: 'Bestimme einen möglichen Synergisten beim Trizepstraining.'
+        options:
+            -
+                correct: false
+                value: 'Vordere Schulteranteile'
+            -
+                correct: true
+                value: 'Hintere Schulteranteile'
+            -
+                correct: false
+                value: 'Seitliche Schulteranteile'
+    -
+        text: 'Bestimme einen möglichen Antagonisten beim Rudertraining.'
+        options:
+            -
+                correct: false
+                value: 'Latissimus'
+            -
+                correct: true
+                value: 'Brustmuskel'
+            -
+                correct: false
+                value: 'Hintere Schulteranteile'
+            -
+                correct: false
+                value: 'Biceps'
+    -
+        text: 'Bestimme einen möglichen Synergisten beim Bizepstraining.'
+        options:
+            -
+                correct: true
+                value: 'Vordere Schulteranteile'
+            -
+                correct: false
+                value: 'Hintere Schulteranteile'
+            -
+                correct: false
+                value: 'Seitliche Schulteranteile'
+    -
+        text: 'Was ist unter einer Flexion zu verstehen?'
+        options:
+            -
+                correct: true
+                value: 'Die Beugung eines Gelenks'
+            -
+                correct: false
+                value: 'Die Streckung eines Gelenks'
+            -
+                correct: false
+                value: 'Die Drehung eines Gelenks'
+    -
+        text: 'Was ist unter einer Extension zu verstehen?'
+        options:
+            -
+                correct: false
+                value: 'Die Beugung eines Gelenks'
+            -
+                correct: true
+                value: 'Die Streckung eines Gelenks '
+            -
+                correct: false
+                value: 'Die Drehung eines Gelenks'
+            -
+                correct: false
+                value: 'Seitliches Heben der Extremitäten '
+    -
+        text: 'Was ist unter einer Adduktion zu verstehen?'
+        options:
+            -
+                correct: false
+                value: 'Die Beugung eines Gelenks'
+            -
+                correct: false
+                value: 'Vorbeugung des Rumpfes'
+            -
+                correct: true
+                value: 'Heranziehen der Extremitäten'
+            -
+                correct: false
+                value: 'Seitliches Heben der Extremitäten '
+    -
+        text: 'Was ist unter einer Abduktion zu verstehen?'
+        options:
+            -
+                correct: false
+                value: 'Seitbeugung des Rumpfes'
+            -
+                correct: false
+                value: 'Die Streckung eines Gelenks'
+            -
+                correct: false
+                value: 'Heranziehen der Extremitäten'
+            -
+                correct: true
+                value: 'Seitliches Heben der Extremitäten'
+    -
+        text: 'Welche Gelenkaktionen sind dem M. biceps brachii (zweiköpfigen Armbeuger) zuzuordnen?'
+        options:
+            -
+                correct: true
+                value: 'Flexion und Supination im Ellenbogen'
+            -
+                correct: false
+                value: 'Retroversion in der Schulter'
+            -
+                correct: true
+                value: 'Anteversion in der Schulter'
+            -
+                correct: false
+                value: 'Extension im Ellenbogen'
+    -
+        text: 'Welche Gelenkaktionen sind dem M. triceps brachii (Armstrecker) zuzuordnen?'
+        options:
+            -
+                correct: false
+                value: 'Flexion und Supination im Ellenbogen'
+            -
+                correct: true
+                value: 'Retroversion in der Schulter'
+            -
+                correct: false
+                value: 'Anteversion in der Schulter'
+            -
+                correct: true
+                value: 'Extension im Ellenbogen'
+    -
+        text: 'Welche Gelenkaktionen sind dem M. gluteus maximus (großen Gesäßmuskel) zuzuordnen?'
+        options:
+            -
+                correct: false
+                value: 'Innenrotation im Hüftgelenk'
+            -
+                correct: true
+                value: 'Extension im Hüftgelenk '
+            -
+                correct: false
+                value: 'Flexion im Hüftgelenk'
+            -
+                correct: true
+                value: 'Außenrotation im Hüftgelenk'
+    -
+        text: 'Welche Gelenkaktionen sind dem M. biceps femoris (Beinbeuger) zuzuordnen?'
+        options:
+            -
+                correct: false
+                value: 'Flexion in der Hüfte'
+            -
+                correct: true
+                value: 'Extension in der Hüfte'
+            -
+                correct: true
+                value: 'Flexion im Knie'
+            -
+                correct: false
+                value: 'Extension im Knie'
+    -
+        text: 'Welche Gelenkaktionen sind dem M. quadrizeps femoris (Beinstrecker) zuzuordnen?'
+        options:
+            -
+                correct: true
+                value: 'Flexion in der Hüfte'
+            -
+                correct: false
+                value: 'Extension in der Hüfte'
+            -
+                correct: false
+                value: 'Flexion im Knie'
+            -
+                correct: true
+                value: 'Extension im Knie'
+    -
+        text: 'Welche Gelenkaktion ist dem M. iliopsoas (Lendendarmbeinmuskel) zuzuordnen?'
+        options:
+            -
+                correct: true
+                value: 'Flexion in der Hüfte'
+            -
+                correct: false
+                value: 'Extension in der Hüfte'
+            -
+                correct: false
+                value: 'Flexion im Knie'
+            -
+                correct: false
+                value: 'Extension im Knie'
+    -
+        text: 'Welche Gelenkaktionen sind dem M. rectus abdominis (geraden Bauchmuskel) zuzuordnen?'
+        options:
+            -
+                correct: true
+                value: 'Flexion der BWS '
+            -
+                correct: true
+                value: 'Flexion der LWS'
+            -
+                correct: false
+                value: 'Flexion der HWS'
+            -
+                correct: false
+                value: 'Extension von BWS und LWS'
+    -
+        text: 'Welche Gelenkaktionen sind dem M. latissimus dorsi (breiten Rückenmuskel) zuzuordnen?'
+        options:
+            -
+                correct: true
+                value: 'Adduktion in der Schulter'
+            -
+                correct: false
+                value: 'Abduktion in der Schulter'
+            -
+                correct: true
+                value: 'Retroversion in der Schulter'
+            -
+                correct: false
+                value: 'Anteversion in der Schulter'
+    -
+        text: 'Welche Gelenkaktionen sind dem M. pectoralis major (großen Brustmuskel) zuzuordnen?'
+        options:
+            -
+                correct: true
+                value: 'Adduktion des Oberarms im Schultergelenk'
+            -
+                correct: true
+                value: 'Innenrotation des Oberarms im Schultergelenk '
+            -
+                correct: true
+                value: 'Anteversion in der Schulter '
+            -
+                correct: false
+                value: 'Retroversion in der Schulter'
+    -
+        text: 'Welche Funktionen erfüllen Knochen im Körper?'
+        options:
+            -
+                correct: true
+                value: 'Stützfunktion'
+            -
+                correct: true
+                value: 'Gerüstfunktion'
+            -
+                correct: false
+                value: 'Gelenkfunktion'
+            -
+                correct: true
+                value: 'Hebelfunktion'
+    -
+        text: 'Was verstehst du unter dem Begriff Arthrose?'
+        options:
+            -
+                correct: true
+                value: 'Eine Gelenkerkrankung'
+            -
+                correct: false
+                value: 'Eine Knochenerkrankung'
+            -
+                correct: true
+                value: 'Knorpelabrieb der Gelenke'
+            -
+                correct: false
+                value: 'Eine Meniskuserkrankung'
+    -
+        text: 'Was zeichnet ein „echtes Gelenk“ aus?'
+        options:
+            -
+                correct: true
+                value: 'der Gelenkspalt '
+            -
+                correct: true
+                value: 'die Gelenkkapsel'
+            -
+                correct: true
+                value: 'die Gelenkflächen'
+    -
+        text: 'Was sind Bestandteile eines Gelenks?'
+        options:
+            -
+                correct: true
+                value: 'der Gelenkspalt '
+            -
+                correct: true
+                value: 'die Gelenkkapsel'
+            -
+                correct: true
+                value: 'die Gelenkknorpel'
+            -
+                correct: false
+                value: 'Synovia'
+            -
+                correct: false
+                value: 'Schleimbeutel'
+    -
+        text: 'Was ist ein typisches Kugelgelenk?'
+        options:
+            -
+                correct: false
+                value: 'Das Humeroradialgelenk (Ellenbogen)'
+            -
+                correct: false
+                value: 'Das proximale Handgelenk'
+            -
+                correct: false
+                value: 'Das Daumenwurzelgelenk'
+            -
+                correct: true
+                value: 'Das Hüftgelenk '
+            -
+                correct: false
+                value: 'Das obere Radioulnargelenk (Ellenbogen)'
+    -
+        text: 'Was ist ein typisches Scharniergelenk?'
+        options:
+            -
+                correct: true
+                value: 'Das Humeroradialgelenk (Ellenbogen) '
+            -
+                correct: false
+                value: 'Das proximale Handgelenk'
+            -
+                correct: false
+                value: 'Das Daumenwurzelgelenk'
+            -
+                correct: false
+                value: 'Das Hüftgelenk '
+            -
+                correct: false
+                value: 'Das obere Radioulnargelenk (Ellenbogen)'
+    -
+        text: 'Welche Muskeln gehören zur Rotatorenmanschette?'
+        options:
+            -
+                correct: true
+                value: 'M. supraspinatus'
+            -
+                correct: false
+                value: 'M. deltoideus '
+            -
+                correct: false
+                value: 'M. trapezius'
+            -
+                correct: true
+                value: 'M. infraspinatus'
+    -
+        text: 'Welche wichtigen Funktionen erfüllt die Wirbelsäule?'
+        options:
+            -
+                correct: true
+                value: '"Stützfunktion'
+            -
+                correct: true
+                value: 'Bewegungsfunktion'
+            -
+                correct: true
+                value: 'Schutz des Rückenmarks '
+    -
+        text: '"Gib die Anzahl der Hals-'
+        options:
+            -
+                correct: false
+                value: ' Brust und Lendenwirbel in die leeren Felder ein."'
+            -
+                correct: false
+                value: ' Brust und Lendenwirbel in die leeren Felder ein."'
+            -
+                correct: false
+                value: ' Brust und Lendenwirbel in die leeren Felder ein."'
+    -
+        text: 'Wieviel Muskeln und Knochen hat ein gesunder Mensch?'
+        options:
+            -
+                correct: false
+                value: '600 Muskeln und ca. 106 Knochen'
+            -
+                correct: true
+                value: '656 Muskeln und ca. 206 Knochen'
+    -
+        text: 'Welcher Körperebenen sind dir bekannt?'
+        options:
+            -
+                correct: true
+                value: 'Frontalebene'
+            -
+                correct: true
+                value: 'Sagittalebene'
+            -
+                correct: true
+                value: 'Transversalebene'
+            -
+                correct: false
+                value: 'Lateralebene '
+    -
+        text: 'Welcher Zusammenhang zwischen Körperachse und Bewegungsrichtung der Wirbelsäule stimmt?'
+        options:
+            -
+                correct: true
+                value: '"Transversalachse -> Extension'
+            -
+                correct: false
+                value: 'Sagittalachse -> Rotation'
+            -
+                correct: false
+                value: 'Längsachse -> Lateralflexion '
+    -
+        text: 'Was verstehst du unter einer „Lateralflexion“?'
+        options:
+            -
+                correct: true
+                value: 'eine seitliche Beugung'
+            -
+                correct: false
+                value: 'eine Beugung nach vorn'
+            -
+                correct: false
+                value: 'eine Beugung nach hinten'
+            -
+                correct: false
+                value: 'eine Streckung nach außen '
+    -
+        text: 'Was verstehst du unter einer „Dorsalextension“?'
+        options:
+            -
+                correct: false
+                value: 'eine Beugung nach hinten'
+            -
+                correct: false
+                value: 'eine Streckung nach vorn'
+            -
+                correct: false
+                value: 'eine Beugung nach vorn'
+            -
+                correct: true
+                value: 'eine Streckung nach hinten '
+    -
+        text: 'Für was steht der Buchstabe „L“ bei der Wirbelbezeichnung?'
+        options:
+            -
+                correct: false
+                value: 'L steht für Lateral'
+            -
+                correct: false
+                value: 'L steht für Lendenwirbel'
+            -
+                correct: true
+                value: 'L steht für Lumbal '
+    -
+        text: 'Was ist bezeichnend für einen Bandscheibenvorfall (Prolaps)?'
+        options:
+            -
+                correct: true
+                value: 'Erkrankung der Wirbelsäule'
+            -
+                correct: true
+                value: 'eingeklemmte Nerven im Wirbelkanal '
+            -
+                correct: true
+                value: 'häufig ausstrahlende Schmerzen in die Beine'
+            -
+                correct: true
+                value: 'wird durch Überlastung oder Inaktivität hervorgerufen'
+            -
+                correct: true
+                value: 'gerissener Faserknorpelring'
+    -
+        text: 'Welche Körperfehlhaltungen werden unterschieden?'
+        options:
+            -
+                correct: true
+                value: 'flacher Rücken '
+            -
+                correct: true
+                value: 'hohlrunder Rücken '
+            -
+                correct: true
+                value: 'runder Rücken '
+            -
+                correct: false
+                value: 'steifer Rücken'
+            -
+                correct: true
+                value: 'Skoliose '
+    -
+        text: 'Was verstehst du unter einer kyphotischen Körperfehlhaltung?'
+        options:
+            -
+                correct: true
+                value: 'Buckel (Runder Rücken) '
+            -
+                correct: false
+                value: 'steifer Rücken'
+            -
+                correct: false
+                value: 'Skoliose'
+    -
+        text: 'Was verstehst du unter einer lordotischen Körperfehlhaltung?'
+        options:
+            -
+                correct: false
+                value: 'Buckel (Runder Rücken)'
+            -
+                correct: false
+                value: 'Steifer Rücken'
+            -
+                correct: false
+                value: 'Skoliose'
+            -
+                correct: true
+                value: 'Hohlkreuz'
+    -
+        text: 'Welche Muskeln sollten zur Stabilisierung der Wirbelsäule unbedingt trainiert werden?'
+        options:
+            -
+                correct: true
+                value: 'M. erector spinae '
+            -
+                correct: true
+                value: 'M. latissimus dorsi '
+            -
+                correct: true
+                value: 'M. glutaeus maximus '
+            -
+                correct: true
+                value: 'M. transversus abdominis'
+            -
+                correct: true
+                value: 'M. iliopsoas'
+    -
+        text: 'Was ist unter einer Skoliose zu verstehen?'
+        options:
+            -
+                correct: true
+                value: 'mehrdimensionale Verkrümmung der Wirbelsäule'
+            -
+                correct: false
+                value: 'untrainierte Muskulatur im Bereich der Wirbelsäule'
+    -
+        text: 'Vervollständige bitte den nachfolgenden Satz. Menschen mit Osteoporose leider unter … ?'
+        options:
+            -
+                correct: true
+                value: '… einer erhöhten Knochenbruchanfälligkeit. '
+            -
+                correct: false
+                value: '… einer besonders untrainierten Muskulatur. '
+    -
+        text: 'Was sind Bestandteile des Herz-Kreislauf-Systems?'
+        options:
+            -
+                correct: true
+                value: 'Blut'
+            -
+                correct: true
+                value: 'Gefäße'
+            -
+                correct: true
+                value: 'Herz'
+            -
+                correct: false
+                value: 'Nerven '
+    -
+        text: 'Welche Funktionen erfüllt das Blut?'
+        options:
+            -
+                correct: true
+                value: 'Transport von Gasen'
+            -
+                correct: true
+                value: 'Abwehr von Infektionen'
+            -
+                correct: true
+                value: 'Konstanthaltung des pH-Wertes '
+            -
+                correct: true
+                value: 'Transport von Hormonen '
+    -
+        text: 'Was zeichnet ein „Sportlerherz“ aus?'
+        options:
+            -
+                correct: true
+                value: 'Es hat ein übernormales Volumen'
+            -
+                correct: false
+                value: 'Es schlägt schneller'
+            -
+                correct: true
+                value: 'Es ist leistungsfähiger'
+    -
+        text: 'Welche Aussage über Vene und Arterie stimmt?'
+        options:
+            -
+                correct: false
+                value: 'Arterie = Blutgefäß welches das Blut zum Herzen zurückführt. '
+            -
+                correct: true
+                value: 'Vene = Blutgefäß welches Blut zum Herzen zurückführt. '
+            -
+                correct: true
+                value: 'Arterie = Blutgefäß welches das Blut vom Herzen wegführt. '
+    -
+        text: 'Welche Aussagen stehen bei der Blutdruckmessung für den systolischen Wert?'
+        options:
+            -
+                correct: true
+                value: '„maximaler Druck auf die Gefäße“'
+            -
+                correct: true
+                value: '„Zusammenziehen der linken Herzkammer“'
+            -
+                correct: false
+                value: '„das Füllen der linken Herzkammer“'
+            -
+                correct: false
+                value: '„niedriger Druck auf die Gefäße“'
+    -
+        text: '"Was sorgt in den Gefäßen dafür'
+        options:
+            -
+                correct: false
+                value: ' das Blut nur in eine Richtung fließen kann?"'
+            -
+                correct: false
+                value: ' das Blut nur in eine Richtung fließen kann?"'
+            -
+                correct: true
+                value: ' das Blut nur in eine Richtung fließen kann?"'
+    -
+        text: 'Welche Aussagen stehen bei der Blutdruckmessung für den diasystolischen Wert?'
+        options:
+            -
+                correct: false
+                value: '„maximaler Druck auf die Gefäße“ '
+            -
+                correct: false
+                value: '„Zusammenziehen der linken Herzkammer“ '
+            -
+                correct: true
+                value: '„das Füllen der linken Herzkammer“ '
+            -
+                correct: true
+                value: '„niedriger Druck auf die Gefäße“ '
+    -
+        text: 'Welche Funktion hat das Lymphgefäßsystem im Körper?'
+        options:
+            -
+                correct: true
+                value: 'Immunabwehr'
+            -
+                correct: true
+                value: 'Transport von Körperflüssigkeiten'
+            -
+                correct: false
+                value: 'unterstützt den Pumpvorgang des Herzens '
+    -
+        text: 'Welche Arten der Energiebereitstellung sind dir bekannt?'
+        options:
+            -
+                correct: true
+                value: 'Betaoxidation'
+            -
+                correct: true
+                value: 'aerobe Glykolyse'
+            -
+                correct: true
+                value: 'energiereiche Phosphate'
+            -
+                correct: true
+                value: 'anaerobe Glykolyse'
+    -
+        text: 'Wie laufen die Mechanismen der Energiebereitstellung im Körper ab?'
+        options:
+            -
+                correct: false
+                value: 'geordnet und nacheinander'
+            -
+                correct: true
+                value: 'gleichzeitig in fließenden Übergängen'
+    -
+        text: 'Stimmt die Aussage „Fett wird erst nach 20 min Ausdauertraining verbrannt!“?'
+        options:
+            -
+                correct: false
+                value: 'Ja'
+            -
+                correct: true
+                value: 'Nein'
+    -
+        text: 'Bei welcher Belastungsdauer wird ca. zu 80 % Fett verbrannt?'
+        options:
+            -
+                correct: false
+                value: 'Marathonlauf'
+            -
+                correct: false
+                value: 'Doppelmarathon'
+            -
+                correct: true
+                value: '24 Stunden – Lauf'
+            -
+                correct: false
+                value: 'Halbmarathon'
+    -
+        text: 'Bei welcher Belastungsdauer wird ca. zu 20 % Fett verbrannt?'
+        options:
+            -
+                correct: true
+                value: 'Marathonlauf'
+            -
+                correct: false
+                value: 'Doppelmarathon'
+            -
+                correct: false
+                value: '24 Stunden – Lauf'
+            -
+                correct: false
+                value: 'Halbmarathon'
+    -
+        text: 'Bei welcher Belastungsdauer wird ca. zu 70 % Kreatinphosphat verbrannt?'
+        options:
+            -
+                correct: false
+                value: '200 m Lauf'
+            -
+                correct: false
+                value: '400 m Lauf'
+            -
+                correct: true
+                value: '100 m Lauf'
+            -
+                correct: false
+                value: '800 m Lauf'
+    -
+        text: 'Bitte den Satz vervollständigen: Beim Training wird chemische Energie (ATP) in …'
+        options:
+            -
+                correct: false
+                value: '… mechanische Energie und Wasser umgewandelt.'
+            -
+                correct: false
+                value: '… physikalische Kraft umgewandelt.'
+            -
+                correct: true
+                value: '… mechanische Energie und Wärme umgewandelt. '
+    -
+        text: 'Bitte den Satz vervollständigen: Je höher die Energieflussrate (ATP-Bildung/Zeit) desto … '
+        options:
+            -
+                correct: true
+                value: '… höher die Leistung. '
+            -
+                correct: false
+                value: '… höher die Schnelligkeit.'
+            -
+                correct: false
+                value: '… größer die Ausdauer.'
+    -
+        text: 'Bitte den Satz vervollständigen: Dauer und Intensität der möglichen Maximalleistung verhalten sich … '
+        options:
+            -
+                correct: false
+                value: '… proportional zueinander.'
+            -
+                correct: true
+                value: '… gegenläufig. '
+            -
+                correct: false
+                value: '… konstant zueinander.'
+    -
+        text: '"Bitte den Satz vervollständigen: Je trainierter der Fettstoffwechsel ist'
+        options:
+            -
+                correct: true
+                value: ' desto besser lassen sich die …"'
+            -
+                correct: false
+                value: ' desto besser lassen sich die …"'
+            -
+                correct: false
+                value: ' desto besser lassen sich die …"'
+    -
+        text: 'Bitte den Satz vervollständigen: Die Energiebereitstellung hängt ab von … '
+        options:
+            -
+                correct: true
+                value: '… dem Trainingszustand.   '
+            -
+                correct: true
+                value: '… der Ernährung.'
+            -
+                correct: true
+                value: '… dem individuellen Muskelfasertyp.   '
+    -
+        text: 'Welche Komponenten beeinflussen die sportliche Leistungsfähigkeit?'
+        options:
+            -
+                correct: true
+                value: 'konditionelle und koordinative'
+            -
+                correct: true
+                value: 'technisch-taktische'
+            -
+                correct: true
+                value: 'gesundheitliche'
+            -
+                correct: true
+                value: 'psychische '
+            -
+                correct: true
+                value: 'intellektuelle'
+    -
+        text: 'Motorische Fähigkeiten gliedern sich in …  '
+        options:
+            -
+                correct: true
+                value: 'Konditionelle '
+            -
+                correct: true
+                value: 'Koordinative'
+            -
+                correct: false
+                value: 'Sensible'
+    -
+        text: 'Was sind motorische Lernfähigkeiten?'
+        options:
+            -
+                correct: true
+                value: 'Umstellungsfähigkeit'
+            -
+                correct: true
+                value: 'Reaktionsfähigkeit '
+            -
+                correct: true
+                value: 'Kopplungsfähigkeit'
+            -
+                correct: true
+                value: 'Gleichgewichtsfähigkeit'
+            -
+                correct: true
+                value: 'Orientierungsfähigkeit'
+    -
+        text: 'Bitte den Satz vervollständigen: Superkompensation bezeichnet das Prinzip … '
+        options:
+            -
+                correct: false
+                value: '… der ansteigenden Belastung. '
+            -
+                correct: false
+                value: '… des trainingswirksamen Reizes. '
+            -
+                correct: true
+                value: '… der optimalen Relation von Belastung und Erholung.'
+    -
+        text: 'Bitte den Satz vervollständigen: Die Dauer der Regeneration ist abhängig von …'
+        options:
+            -
+                correct: true
+                value: '… der Größe der beanspruchten Muskulatur.'
+            -
+                correct: true
+                value: '… des Alters.'
+            -
+                correct: true
+                value: '… der Intensität.'
+            -
+                correct: true
+                value: '… der Bewegungsamplitude.'
+            -
+                correct: false
+                value: '… des Geschlechts.'
+    -
+        text: 'Welche Muskelgruppen benötigen die längsten Regenerationszeiten?'
+        options:
+            -
+                correct: false
+                value: 'Bauch und Waden'
+            -
+                correct: false
+                value: 'Arme und Schultern'
+            -
+                correct: true
+                value: 'Rücken und Oberschenkel'
+    -
+        text: 'Was sind bekannte Trainingsprinzipien?'
+        options:
+            -
+                correct: true
+                value: 'Prinzip der individualisierten Belastung'
+            -
+                correct: true
+                value: 'Prinzip des trainingswirksamen Reizes '
+            -
+                correct: true
+                value: 'Prinzip der ansteigenden Belastung '
+            -
+                correct: true
+                value: 'Prinzip der variierenden Belastung'
+    -
+        text: 'Was unterscheidet die allgemeine und lokale Ausdauer?'
+        options:
+            -
+                correct: true
+                value: 'Der Anteil der eingesetzten Muskulatur'
+            -
+                correct: false
+                value: 'Die Höhe der Pulsfrequenz'
+    -
+        text: 'Bitte den Satz vervollständigen: Eine Kraft löst stets eine … '
+        options:
+            -
+                correct: true
+                value: '… gleichgroße entgegengerichtete Kraft aus. '
+            -
+                correct: false
+                value: '… hohe Beschleunigung aus.'
+    -
+        text: 'Bitte den Satz vervollständigen: Widerstandskurven sind abhängig von… '
+        options:
+            -
+                correct: true
+                value: '… der Art des Widerstands'
+            -
+                correct: true
+                value: '… der Richtung des Widerstands'
+            -
+                correct: false
+                value: '… der Beschleunigung '
+    -
+        text: 'Bitte den Satz vervollständigen: Kraftkurven sind … '
+        options:
+            -
+                correct: true
+                value: '… abhängig von der Geschwindigkeit.'
+            -
+                correct: true
+                value: '… bewegungsspezifisch.'
+            -
+                correct: true
+                value: '… bei vielen Sportlern ähnlich.'
+    -
+        text: 'Würdest du einem Kraftsportler ein Ausdauertraining empfehlen?'
+        options:
+            -
+                correct: true
+                value: '"Ja'
+            -
+                correct: false
+                value: '"Nein'
+    -
+        text: 'Ist ein gezieltes Ausdauertraining auch im Gesundheitssport sinnvoll?'
+        options:
+            -
+                correct: true
+                value: '"Ja'
+            -
+                correct: false
+                value: '"Nein'
+    -
+        text: 'Wovon hängt die „optimale Trainingspulsfrequenz“ ab.'
+        options:
+            -
+                correct: true
+                value: 'Alter'
+            -
+                correct: true
+                value: 'Geschlecht'
+            -
+                correct: true
+                value: 'Trainingszustand'
+            -
+                correct: true
+                value: 'Medikamenteneinnahme'
+            -
+                correct: true
+                value: 'Vorerkrankungen'
+    -
+        text: 'Welche Formeln zur Berechnung der theoretisch maximalen Herzfrequenz sind bekannt?'
+        options:
+            -
+                correct: true
+                value: 'Die ACSM-Formel'
+            -
+                correct: true
+                value: 'Die Karvonen-Formel'
+            -
+                correct: false
+                value: 'Die VO2max-Formel'
+    -
+        text: 'Was ist bezeichnend für ein Grundlagenausdauertraining?'
+        options:
+            -
+                correct: false
+                value: 'eine intervallartige Belastung'
+            -
+                correct: true
+                value: 'eine konstante Belastung'
+            -
+                correct: true
+                value: 'Hauptwirkung über die Dauer'
+            -
+                correct: false
+                value: 'Hauptwirkung über die Intensität'
+    -
+        text: 'Was ist bezeichnend für ein Intervalltraining?'
+        options:
+            -
+                correct: true
+                value: 'eine nicht konstante Belastung'
+            -
+                correct: false
+                value: 'eine konstante Belastung'
+            -
+                correct: false
+                value: 'Hauptwirkung über die Dauer'
+            -
+                correct: true
+                value: 'Hauptwirkung über die Intensität'
+    -
+        text: 'Welche Kraftfähigkeiten kennst du?'
+        options:
+            -
+                correct: true
+                value: 'Maximalkraft'
+            -
+                correct: false
+                value: 'Minimalkraft'
+            -
+                correct: true
+                value: 'Schnellkraft'
+            -
+                correct: true
+                value: 'Kraftausdauer'
+    -
+        text: '"Bitte den Satz vervollständigen: Maximalkraft'
+        options:
+            -
+                correct: true
+                value: ' ist die Fähigkeit des Nerv-Muskelsystems …"'
+            -
+                correct: false
+                value: ' ist die Fähigkeit des Nerv-Muskelsystems …"'
+    -
+        text: 'Wodurch wird eine Steigerung der Reaktivkraft erreicht?'
+        options:
+            -
+                correct: false
+                value: 'durch Hypertrophie Training '
+            -
+                correct: true
+                value: 'durch plyometrisches Training'
+            -
+                correct: false
+                value: 'durch Kraftausdauer Training'
+    -
+        text: 'Was bedeutet der Begriff „Hypertrophie“?'
+        options:
+            -
+                correct: false
+                value: 'eine Vermehrung von Muskelzellen'
+            -
+                correct: true
+                value: 'eine Verdickung von Muskelzellen'
+    -
+        text: 'Wodurch entsteht Muskelkater?'
+        options:
+            -
+                correct: true
+                value: 'Wasseransammlungen (Ödeme) '
+            -
+                correct: false
+                value: 'Milchsäureansammlung'
+            -
+                correct: false
+                value: 'Laktatüberschuss  '
+    -
+        text: 'Was sind Merkmale von Muskelfasern?'
+        options:
+            -
+                correct: true
+                value: 'können mehrere Zentimeter lang sein '
+            -
+                correct: true
+                value: 'enthalten viele Mitochondrien'
+            -
+                correct: true
+                value: 'Kontraktion durch Nervenimpulse'
+    -
+        text: 'Was hilft gegen „Muskelkater“?'
+        options:
+            -
+                correct: false
+                value: 'kräftige Massagen'
+            -
+                correct: true
+                value: 'Wärmebehandlungen'
+            -
+                correct: true
+                value: 'Saunagänge'
+    -
+        text: 'Worin liegt der Unterschied zwischen einer konzentrischen und exzentrischen Bewegung?'
+        options:
+            -
+                correct: true
+                value: 'Konzentrisch = Überwindend'
+            -
+                correct: false
+                value: 'Konzentrisch = Nachgebend'
+            -
+                correct: false
+                value: 'Exzentrisch = Überwindend'
+            -
+                correct: true
+                value: 'Exzentrisch = Nachgebend'
+    -
+        text: 'Bitte den Satz vervollständigen: Schnellkraft ist die Fähigkeit in kürzester Zeit einen möglichst … '
+        options:
+            -
+                correct: false
+                value: '… großen Widerstand zu überwinden.'
+            -
+                correct: true
+                value: '… hohen Kraftstoß zu realisieren.'
+    -
+        text: 'Bitte den Satz vervollständigen: ST-Fasern sind im Vergleich zu FT-Fasern …'
+        options:
+            -
+                correct: false
+                value: '… in der Kontraktion schneller.'
+            -
+                correct: true
+                value: '… in der Kontraktion langsamer. '
+            -
+                correct: true
+                value: '… im Durchmesser kleiner. '
+            -
+                correct: true
+                value: '… ausdauernder.'
+    -
+        text: 'Was sind mögliche Ziele eines Krafttrainings?'
+        options:
+            -
+                correct: true
+                value: 'Prävention und Rehabilitation'
+            -
+                correct: true
+                value: 'Körperstabilisierung'
+            -
+                correct: true
+                value: 'verbesserte Reaktivkraft'
+            -
+                correct: true
+                value: 'intramuskuläre Koordination'
+    -
+        text: 'Welche Organisationsformen des Krafttrainings sind dir bekannt?'
+        options:
+            -
+                correct: true
+                value: 'Zirkeltraining'
+            -
+                correct: true
+                value: 'Stationstraining'
+            -
+                correct: true
+                value: 'Split-Training'
+            -
+                correct: true
+                value: 'Antagonisten-Training'
+            -
+                correct: true
+                value: 'Sequenztraining'
+    -
+        text: 'Bitte den Satz vervollständigen: Eine Wiederholung entspricht …'
+        options:
+            -
+                correct: false
+                value: '… einem Satz der gleichen Übung.'
+            -
+                correct: true
+                value: '… einer Ausführung innerhalb eines festgelegten Bewegungsablaufs.'
+    -
+        text: 'Bitte den Satz vervollständigen: Eine Station entspricht mehreren … '
+        options:
+            -
+                correct: true
+                value: '… Sätzen/Serien der gleichen Übung. '
+            -
+                correct: false
+                value: '… Sätzen/Serien mit unterschiedlicher Wiederholungszahl. '
+    -
+        text: 'Bitte den Satz vervollständigen: Ein Satz/eine Serie entspricht mehreren …'
+        options:
+            -
+                correct: false
+                value: '... nacheinander ausgeführten Übungen.'
+            -
+                correct: true
+                value: '... nacheinander ausgeführten Wiederholungen.'
+    -
+        text: 'In welchem Wiederholungsbereich trainiert man in der Regel beim Maximalkraft Training?'
+        options:
+            -
+                correct: false
+                value: '3 – 6'
+            -
+                correct: false
+                value: '5 – 8'
+            -
+                correct: true
+                value: '1 – 5'
+    -
+        text: 'In welchem Wiederholungsbereich trainiert man in der Regel beim Hypertrophie Training?'
+        options:
+            -
+                correct: true
+                value: '6 – 12'
+            -
+                correct: false
+                value: '3 – 8'
+            -
+                correct: false
+                value: '8 – 20'
+    -
+        text: 'In welchem Wiederholungsbereich trainiert man in der Regel bei einem Kraftausdauer Training?'
+        options:
+            -
+                correct: false
+                value: '20 – 35'
+            -
+                correct: true
+                value: '13 – 25'
+            -
+                correct: false
+                value: '6 – 12'
+    -
+        text: 'Wann sollte bei der Durchführung einer Wiederholung ausgeatmet werden?'
+        options:
+            -
+                correct: true
+                value: 'in der konzentrischen Phase'
+            -
+                correct: false
+                value: 'in der exzentrischen Phase'
+            -
+                correct: true
+                value: 'in der überwindenden Phase'
+            -
+                correct: false
+                value: 'in der nachgebenden Phase'
+    -
+        text: 'Welche Folgen kann Pressatmung im Krafttraining haben?'
+        options:
+            -
+                correct: true
+                value: 'Verminderte Durchblutung des Herzmuskels'
+            -
+                correct: true
+                value: 'Druckerhöhung im Brustraum'
+            -
+                correct: true
+                value: 'Schädigungen der Blutgefäße'
+    -
+        text: 'Was begünstigt Seitenstechen?'
+        options:
+            -
+                correct: true
+                value: 'eine schlechte Körperhaltung'
+            -
+                correct: true
+                value: 'ein voller Magen'
+            -
+                correct: true
+                value: 'ungenügendes Aufwärmen'
+    -
+        text: 'Was hilft gegen Seitenstechen?'
+        options:
+            -
+                correct: true
+                value: 'kontrolliertes und tiefes Einatmen '
+            -
+                correct: true
+                value: 'die Intensität zurückfahren'
+            -
+                correct: false
+                value: 'die Arme über den Kopf heben '
+    -
+        text: 'Was ist unter Kadenz zu verstehen?'
+        options:
+            -
+                correct: false
+                value: 'Bewegungsdauer der Trainingsphasen'
+            -
+                correct: true
+                value: 'Dauer der Intensität'
+            -
+                correct: false
+                value: 'Geschwindigkeit'
+    -
+        text: 'Wie lang sollte die Pause zwischen zwei Sätzen dauern?'
+        options:
+            -
+                correct: false
+                value: '10-20 Sekunden'
+            -
+                correct: true
+                value: '30 Sekunden bis 1 Minute'
+            -
+                correct: false
+                value: '"immer 2'
+    -
+        text: 'Welche Vorteile hat ein „Mehr-Satz-Training“ gegenüber einem „Ein-Satz-Training“?'
+        options:
+            -
+                correct: false
+                value: 'kürzere Trainingszeit'
+            -
+                correct: true
+                value: 'Steigerung von Kraft und Ausdauer'
+            -
+                correct: true
+                value: 'höhere Muskelquerschnittszunahme'
+            -
+                correct: true
+                value: 'verbesserte Beweglichkeit'
+            -
+                correct: true
+                value: 'verbesserte Koordination'
+    -
+        text: 'Wie wird Kraftausdauer differenziert?'
+        options:
+            -
+                correct: true
+                value: 'in dynamisch und statisch '
+            -
+                correct: false
+                value: 'in positiv und negativ'
+            -
+                correct: false
+                value: 'in konzentrisch und exzentrisch'
+    -
+        text: 'Was verbessert intermuskuläres Koordinationstraining?'
+        options:
+            -
+                correct: true
+                value: 'das Zusammenspiel zwischen Nervensystem und Muskeln '
+            -
+                correct: false
+                value: 'die Erhöhung des Kraftniveaus '
+    -
+        text: 'Was sollte bei einarmigen Kurzhantelübungen (z. B. Schulterdrücken stehend) beachtet werden?'
+        options:
+            -
+                correct: true
+                value: 'ein Gegengewicht als Lastausgleich aufzunehmen'
+            -
+                correct: false
+                value: 'sich dabei hinzusetzen '
+    -
+        text: 'Warum wird ein propriozeptives Training durchgeführt?'
+        options:
+            -
+                correct: true
+                value: 'zur Wiederherstellung koordinativer Fähigkeiten'
+            -
+                correct: false
+                value: 'die Erhöhung des Kraftniveaus'
+            -
+                correct: true
+                value: 'zur Verbesserung der Tiefensensibilität'
+    -
+        text: 'Was verbessert intramuskuläres Koordinationstraining?'
+        options:
+            -
+                correct: false
+                value: 'das Zusammenspiel zwischen Nervensystem und Muskeln'
+            -
+                correct: true
+                value: 'die Erhöhung des Kraftniveaus '
+    -
+        text: 'Welche Nachteile hat ein intramuskuläres Koordinationstraining?'
+        options:
+            -
+                correct: true
+                value: 'hohe psychische Belastung'
+            -
+                correct: true
+                value: 'hohe Verletzungsgefahr'
+            -
+                correct: false
+                value: 'hoher Zeitaufwand'
+    -
+        text: 'Welche Begriffe stehen im Zusammenhang mit Schnelligkeitstraining?'
+        options:
+            -
+                correct: true
+                value: 'Reaktionsschnelligkeit'
+            -
+                correct: true
+                value: 'Bewegungsschnelligkeit '
+            -
+                correct: false
+                value: 'Frequenzschnelligkeit'
+            -
+                correct: false
+                value: 'Intervallschnelligkeit'
+    -
+        text: 'Bitte den Satz vervollständigen: Die Beweglichkeit definiert sich über …'
+        options:
+            -
+                correct: true
+                value: '… die Gelenkigkeit.'
+            -
+                correct: false
+                value: '… das Gleichgewicht.'
+            -
+                correct: true
+                value: '… die Dehnfähigkeit.'
+            -
+                correct: false
+                value: '… die Ausdauer.'
+    -
+        text: 'Unter aktiver Beweglichkeit versteht man die Bewegungsweite die …'
+        options:
+            -
+                correct: true
+                value: '… von selbst erreicht werden kann.'
+            -
+                correct: false
+                value: '… mit Hilfe von außen erreicht werden kann.'
+    -
+        text: 'Unter passiver Beweglichkeit versteht man die Bewegungsweite die …'
+        options:
+            -
+                correct: false
+                value: '… von selbst erreicht werden kann.'
+            -
+                correct: true
+                value: '… mit Hilfe von außen erreicht werden kann.'
+    -
+        text: 'Schritte der Trainingssteuerung. Was ist hier die richtige Reihenfolge?'
+        options:
+            -
+                correct: false
+                value: '"Analyse'
+            -
+                correct: true
+                value: '"Diagnose/Anamnese'
+            -
+                correct: false
+                value: '"Diagnose/Anamnese'
+    -
+        text: 'Was sollte der Trainer im Eingangsgespräch mit dem Kunden in Erfahrung bringen?'
+        options:
+            -
+                correct: true
+                value: 'Bestehen aktuelle Beschwerden oder eine Vorerkrankung?'
+            -
+                correct: true
+                value: 'Erfolgt eine (regelmäßige) Medikamenteneinnahme?'
+            -
+                correct: true
+                value: 'Wird beruflich eine körperlich anstrengende Tätigkeit ausgeübt?'
+            -
+                correct: true
+                value: 'Was sind die persönlichen Trainingsziele?'
+            -
+                correct: true
+                value: 'Werden sonstige sportliche Tätigkeiten ausgeübt?'
+    -
+        text: 'Welche biometrischen Daten können im Rahmen des Eingangsgesprächs aufgenommen werden?'
+        options:
+            -
+                correct: true
+                value: 'Körpergewicht'
+            -
+                correct: true
+                value: 'Körpergröße'
+            -
+                correct: true
+                value: 'Taille-Hüft-Umfang'
+            -
+                correct: true
+                value: 'Ruheherzfrequenz'
+            -
+                correct: true
+                value: 'Blutdruck'
+    -
+        text: 'Was sind bekannte motorische Tests?'
+        options:
+            -
+                correct: true
+                value: 'Ausdauertest'
+            -
+                correct: true
+                value: 'Beweglichkeitstest '
+            -
+                correct: true
+                value: 'Koordinationstest'
+            -
+                correct: true
+                value: 'Krafttest'
+            -
+                correct: false
+                value: 'Stresstest'
+    -
+        text: 'Welche Faktoren sind bei der individuellen Trainingsplanung zu beachten?'
+        options:
+            -
+                correct: true
+                value: 'das Zeitmanagement'
+            -
+                correct: true
+                value: 'die körperliche Konstitution '
+            -
+                correct: false
+                value: 'der Arbeitsweg'
+            -
+                correct: true
+                value: 'die Ernährungssituation'
+            -
+                correct: true
+                value: 'die sportlichen Vorerfahrungen'
+    -
+        text: 'Warum ist eine individuelle Trainingsplanung sinnvoll?'
+        options:
+            -
+                correct: false
+                value: 'um mehr Kunden zu gewinnen'
+            -
+                correct: true
+                value: 'um die Motivation zu erhöhen'
+            -
+                correct: true
+                value: 'um Verletzungen zu reduzieren'
+            -
+                correct: true
+                value: 'um den Trainingserfolg zu optimieren'
+    -
+        text: 'Was muss im Rahmen der Trainingsplanung erfolgen?'
+        options:
+            -
+                correct: true
+                value: 'eine Methodenauswahl'
+            -
+                correct: true
+                value: 'eine Übungsauswahl'
+            -
+                correct: true
+                value: 'eine Festlegung der Periodisierung'
+            -
+                correct: false
+                value: 'eine Zielsetzung'
+            -
+                correct: false
+                value: 'eine Kontrolle'
+    -
+        text: 'Was sind wichtige Parameter eines Trainingsplanes?'
+        options:
+            -
+                correct: true
+                value: 'Trainingsschwerpunkte'
+            -
+                correct: true
+                value: 'Trainingshäufigkeit'
+            -
+                correct: true
+                value: 'Übungsauswahl'
+            -
+                correct: true
+                value: 'Wiederholungszahl'
+            -
+                correct: true
+                value: 'Organisationsform'
+    -
+        text: 'Wie lange dauert ein Mikrozyklus?'
+        options:
+            -
+                correct: false
+                value: 'eine Übung'
+            -
+                correct: false
+                value: 'einen Tag'
+            -
+                correct: true
+                value: 'eine Trainingseinheit'
+    -
+        text: 'Wie lange dauert ein Mesozyklus?'
+        options:
+            -
+                correct: true
+                value: '4-8 Wochen'
+            -
+                correct: false
+                value: '2-3 Monate'
+            -
+                correct: false
+                value: '1 Woche'
+    -
+        text: 'Wie lange dauert ein Makrozyklus?'
+        options:
+            -
+                correct: false
+                value: '4-8 Wochen'
+            -
+                correct: true
+                value: 'ca. 6 Monate'
+            -
+                correct: false
+                value: 'ca. 1 Jahr'
+    -
+        text: 'Kriterien bei der Übungsauswahl. Welche Zuordnung stimmt?'
+        options:
+            -
+                correct: false
+                value: 'von einfach -> zu kompliziert'
+            -
+                correct: false
+                value: 'von einfach -> zu schwer'
+            -
+                correct: true
+                value: 'von einfach -> zu komplex'
+    -
+        text: 'Was ist bei der Trainingsplanung mit älteren Menschen zu beachten?'
+        options:
+            -
+                correct: true
+                value: 'einen medizinischer Check empfehlen'
+            -
+                correct: true
+                value: 'längere Aufwärmphasen berücksichtigen'
+            -
+                correct: false
+                value: 'sofort mit Hanteltraining beginnen'
+            -
+                correct: true
+                value: 'längere Regenerationszeiten planen'
+    -
+        text: 'Was gehört zu einer Trainingsdurchführung?'
+        options:
+            -
+                correct: false
+                value: 'die Übungsauswahl'
+            -
+                correct: true
+                value: 'die Einweisung'
+            -
+                correct: true
+                value: 'die Kontrolle'
+            -
+                correct: true
+                value: 'das Feedback'
+            -
+                correct: false
+                value: 'die Analyse'
+    -
+        text: 'Bitte den Satz vervollständigen: Das muskuläre Gleichgewicht kann gestört werden durch …'
+        options:
+            -
+                correct: true
+                value: '… Fehl- und Überbelastungen.'
+            -
+                correct: true
+                value: '… zu geringe Erholungspausen.'
+            -
+                correct: true
+                value: '… fehlende Ausgleichsgymnastik.'
+            -
+                correct: true
+                value: '… Sauerstoffmangel.'
+            -
+                correct: true
+                value: '… zu einseitiges Training.'
+    -
+        text: '"Was sind wichtige Belastungsmerkmale'
+        options:
+            -
+                correct: true
+                value: ' um eine erwünschte Wirkung zu erzielen?"'
+            -
+                correct: true
+                value: ' um eine erwünschte Wirkung zu erzielen?"'
+            -
+                correct: true
+                value: ' um eine erwünschte Wirkung zu erzielen?"'
+            -
+                correct: true
+                value: ' um eine erwünschte Wirkung zu erzielen?"'
+            -
+                correct: true
+                value: ' um eine erwünschte Wirkung zu erzielen?"'
+    -
+        text: 'Du möchtest im Rahmen der Trainingsplanung die Belastung steigern. Was ist dabei zu beachten?'
+        options:
+            -
+                correct: true
+                value: 'zuerst den Trainingsumfang erhöhen'
+            -
+                correct: false
+                value: 'zuerst die Trainingsintensität erhöhen'
+    -
+        text: 'Für welche Zielgruppe ist ein Training im submaximalen Intensitätsbereich sinnvoll?'
+        options:
+            -
+                correct: false
+                value: 'Gesundheitsorientierte'
+            -
+                correct: true
+                value: 'Fitnessorientierte'
+            -
+                correct: true
+                value: 'Leistungssportler'
+    -
+        text: 'Für welche Zielgruppe ist ein Training im mittleren Intensitätsbereich sinnvoll?'
+        options:
+            -
+                correct: true
+                value: 'Gesundheitsorientierte'
+            -
+                correct: true
+                value: 'Fitnessorientierte'
+            -
+                correct: false
+                value: 'Leistungssportler'
+    -
+        text: 'Wie sieht der allgemeine Ablauf einer Trainingseinheit aus?'
+        options:
+            -
+                correct: true
+                value: 'Aufwärmen->Hauptteil->Abwärmen'
+            -
+                correct: false
+                value: 'Aufwärmen->Training->Dehnung'
+            -
+                correct: false
+                value: 'Vorermüdung->Hauptteil->Abwärmen'
+    -
+        text: 'Warum sollte ein Aufwärmen vor jedem Training erfolgen?'
+        options:
+            -
+                correct: true
+                value: 'Verringerung der Verletzungsgefahr'
+            -
+                correct: true
+                value: 'Steigerung der Koordination'
+            -
+                correct: false
+                value: 'um soziale Kontakte zu pflegen'
+            -
+                correct: true
+                value: 'Verbesserung der Gelenkbeweglichkeit'
+    -
+        text: 'Was ist eine Besonderheit der ILB-Methode?'
+        options:
+            -
+                correct: false
+                value: 'Die Belastungsintensität wird spätestens alle vier Wochen gesteigert.'
+            -
+                correct: true
+                value: 'Die Wiederholungszahl wird für jede einzelne Übung im Rahmen des Trainingsziels festgelegt. '
+    -
+        text: 'Warum ist im Gesundheitssport ein ILB-Test sinnvoller als ein Maximalkraft-Test?'
+        options:
+            -
+                correct: true
+                value: 'er ist gelenkschonender'
+            -
+                correct: false
+                value: 'er ist genauer'
+            -
+                correct: true
+                value: 'es besteht eine geringere Gefahr der Überforderung'
+    -
+        text: 'Wie wird beim ILB-Test die Belastungsintensität bestimmt?'
+        options:
+            -
+                correct: true
+                value: 'mit Hilfe der jeweiligen Leistungsstufe'
+            -
+                correct: true
+                value: 'mit Hilfe des ILB-Grobrasters'
+            -
+                correct: false
+                value: 'mit Hilfe eines Maximalkraft-Tests'
+    -
+        text: 'Welche Maßnahmen des Abwärmens sind dir bekannt?'
+        options:
+            -
+                correct: false
+                value: 'Statische'
+            -
+                correct: true
+                value: 'Aktive'
+            -
+                correct: true
+                value: 'Passive'
+    -
+        text: 'Womit wird die Trainingssteuerung abgeschlossen?'
+        options:
+            -
+                correct: true
+                value: 'durch einen Re-Test'
+            -
+                correct: true
+                value: 'durch eine Analyse'
+            -
+                correct: true
+                value: 'durch eine Dokumentation'
+            -
+                correct: true
+                value: 'durch eine Evaluierung'
+    -
+        text: 'Welche Varianten eines Ausdauertests sind dir bekannt?'
+        options:
+            -
+                correct: true
+                value: 'Stufentest'
+            -
+                correct: false
+                value: 'Dauerlauftest'
+            -
+                correct: true
+                value: 'Dauertest'
+            -
+                correct: false
+                value: 'Intervalltest'
+    -
+        text: 'Welche Möglichkeiten der Leistungsdiagnostik sind dir bekannt?'
+        options:
+            -
+                correct: true
+                value: 'Spiroergometrie'
+            -
+                correct: true
+                value: 'Lactatleistungstest'
+            -
+                correct: false
+                value: 'Nervenbelastungstest'
+            -
+                correct: false
+                value: 'Schmerzrezeptorentest'
+    -
+        text: 'Wodurch kann die Effektivität eines Trainingsmodells geprüft werden?'
+        options:
+            -
+                correct: false
+                value: 'durch einen ILB-Test'
+            -
+                correct: true
+                value: 'durch eine Leistungsdiagnostik'
+            -
+                correct: false
+                value: 'durch einen max. Krafttest'
+            -
+                correct: false
+                value: 'durch einen max. Ausdauertest'
+    -
+        text: 'Was sagt die Bezeichnung „VO2max“ aus?'
+        options:
+            -
+                correct: true
+                value: 'Wert der maximalen Sauerstoffaufnahme'
+            -
+                correct: true
+                value: 'Indikator des Trainingszustands'
+            -
+                correct: false
+                value: 'Wert der maximalen Sauerstoffsättigung'
+            -
+                correct: false
+                value: 'Angabe des maximalen Sauerstoffverbrauchs'
+    -
+        text: 'Woher stammt der Ausdruck „Übersäuert“?'
+        options:
+            -
+                correct: true
+                value: 'durch die Milchsäure'
+            -
+                correct: false
+                value: 'durch die Harnsäure '
+            -
+                correct: false
+                value: 'durch die Magensäure'
+    -
+        text: 'Durch welches Testverfahren wird die individuelle anaerobe Schwelle (IANS) bestimmt?'
+        options:
+            -
+                correct: false
+                value: 'Spiroergometrie'
+            -
+                correct: true
+                value: 'Lactatstufentest '
+            -
+                correct: false
+                value: 'Belastungs-EKG'
+    -
+        text: '"Bitte den Satz vervollständigen: Je höher die Belastung über der IANS liegt'
+        options:
+            -
+                correct: true
+                value: ' desto … "'
+            -
+                correct: true
+                value: ' desto … "'
+            -
+                correct: false
+                value: ' desto … "'
+    -
+        text: 'Wann sollten keine Belastungstests durchgeführt werden?'
+        options:
+            -
+                correct: true
+                value: 'bei Entzündungen'
+            -
+                correct: true
+                value: 'bei Infektionen '
+            -
+                correct: true
+                value: 'bei Herzrhythmusstörungen'
+            -
+                correct: true
+                value: 'bei fieberhaften Erkrankungen'
+    -
+        text: 'Wann sollte ein Belastungstest unbedingt abgebrochen werden?'
+        options:
+            -
+                correct: true
+                value: 'bei starkem Hustenreiz '
+            -
+                correct: true
+                value: 'bei Schmerzen'
+            -
+                correct: true
+                value: 'bei Schwindel'
+            -
+                correct: true
+                value: 'bei Blässe und Schweißausbrüchen'
+    -
+        text: 'Was bedeutet die Abkürzung „TUT“ im Kraftsport?'
+        options:
+            -
+                correct: false
+                value: 'Zeit der Anpassung'
+            -
+                correct: false
+                value: 'Zeit der Erholung'
+            -
+                correct: true
+                value: 'Zeit unter Anspannung'
+    -
+        text: 'Auf was sollte ein Trainer im Umgang mit Kunden achten?'
+        options:
+            -
+                correct: true
+                value: 'respektvolles Verhalten'
+            -
+                correct: true
+                value: 'Glaubwürdigkeit'
+            -
+                correct: true
+                value: 'Freundlichkeit'
+            -
+                correct: false
+                value: 'übertriebene Distanz'
+            -
+                correct: true
+                value: 'gepflegtes Erscheinungsbild'
+    -
+        text: 'Nach welchem Schema sollte eine Übungsunterweisung erfolgen?'
+        options:
+            -
+                correct: true
+                value: 'didaktisch - methodisch'
+            -
+                correct: false
+                value: 'theoretisch'
+            -
+                correct: false
+                value: 'praktisch'
+            -
+                correct: false
+                value: 'genau'
+    -
+        text: 'Sollte man bei einer Übungsdemonstration auch zeigen wie man es nicht macht?'
+        options:
+            -
+                correct: true
+                value: 'Nein'
+            -
+                correct: false
+                value: 'Ja'
+            -
+                correct: false
+                value: 'Manchmal'
+    -
+        text: 'Welche Sicherheitsaspekte müssen bei einer Trainingseinweisung beachtet werden?'
+        options:
+            -
+                correct: true
+                value: 'Sind Seil- und Gummizüge evtl. eingerissen?  '
+            -
+                correct: true
+                value: 'Sind Steckstifte bis zum Anschlag eingesteckt? '
+            -
+                correct: true
+                value: 'Sind Karabinerhaken geschlossen? '
+            -
+                correct: true
+                value: 'Ist das Gewicht (freien Hanteln) gleichmäßig verteilt? '
+            -
+                correct: true
+                value: 'Sind die Hantelscheiben auf jeder Seite gesichert? '
+    -
+        text: 'Was ist bei der Fehlerkorrektur eines Kunden zu beachten?'
+        options:
+            -
+                correct: true
+                value: 'respektvoll und ruhig auf den Fehler hinweisen'
+            -
+                correct: false
+                value: 'den Kunden ohne ihn zu fragen anzufassen'
+            -
+                correct: false
+                value: 'den Kunden während seiner Übung unterbrechen'
+            -
+                correct: false
+                value: 'den Kunden hörbar auf seine Fehler hinweisen'
+            -
+                correct: true
+                value: 'evtl. eine „noch effektivere Variante“ empfehlen'
+    -
+        text: 'Was ist ein wichtiger Hinweis beim Training mit der Beinpresse?'
+        options:
+            -
+                correct: false
+                value: 'Stabilen Stand einnehmen!'
+            -
+                correct: true
+                value: 'Die Knie in der Endposition nicht durchstrecken!'
+            -
+                correct: false
+                value: 'Gesäßmuskulatur anspannen (zur ISG-Stabilisierung)!'
+            -
+                correct: false
+                value: 'Aufrechte symmetrische Haltung einnehmen!'
+            -
+                correct: false
+                value: 'Den Kopf an das Poster anlegen!'
+    -
+        text: 'Welche Stabilisierungshinweise sind bei aufrecht stehenden Krafttrainingsübungen sinnvoll?'
+        options:
+            -
+                correct: true
+                value: 'Stabilen Stand einnehmen! '
+            -
+                correct: true
+                value: 'Die Knie leicht gebeugt halten! '
+            -
+                correct: true
+                value: 'Gesäßmuskulatur anspannen (zur ISG-Stabilisierung)! '
+            -
+                correct: true
+                value: 'Aufrechte symmetrische Haltung einnehmen! '
+            -
+                correct: false
+                value: 'Den Kopf nicht bewegen!'
+    -
+        text: 'Wie könntest du einen Kunden im Studio langfristig motivieren?'
+        options:
+            -
+                correct: false
+                value: 'Animation'
+            -
+                correct: false
+                value: 'Small Talk'
+            -
+                correct: true
+                value: 'echtes Interesse '
+            -
+                correct: true
+                value: 'Anerkennung der Kundenleistung'
+    -
+        text: 'Wofür benötigt ein Trainer biomechanische Kenntnisse?'
+        options:
+            -
+                correct: true
+                value: 'Um Bewegungsabläufe richtig zu analysieren.'
+            -
+                correct: true
+                value: 'Um evtl. Zwangslagen zu erkennen.'
+            -
+                correct: true
+                value: 'Um die optimale Sitzposition einzustellen.'
+            -
+                correct: true
+                value: 'Um Maschinendrehachsen richtig einzustellen.'
+            -
+                correct: false
+                value: 'Um biometrische Daten auswerten zu können.'
+    -
+        text: 'In „vollständigem ROM“ zu trainieren bedeutet?'
+        options:
+            -
+                correct: false
+                value: 'unter maximaler Belastung'
+            -
+                correct: false
+                value: 'unter maximaler Konzentration'
+            -
+                correct: true
+                value: 'mit der maximalen Bewegungsamplitude '
+    -
+        text: 'Welche Vorteile hat ROM-Training?'
+        options:
+            -
+                correct: true
+                value: 'verbesserte Koordination '
+            -
+                correct: true
+                value: 'verbesserte Beweglichkeit '
+            -
+                correct: false
+                value: 'verbesserte Schnellkraft'
+            -
+                correct: true
+                value: 'verbesserter Gelenkschutz '
+    -
+        text: 'Welchen Aussagen bzgl. „Ristgriff“ und „Kammgriff“ stimmst du zu?'
+        options:
+            -
+                correct: true
+                value: 'beim Ristgriff zeigen die Daumen nach innen'
+            -
+                correct: false
+                value: 'beim Kammgriff zeigen die Daumen nach innen'
+            -
+                correct: false
+                value: 'beim Ristgriff wird „supiniert“ gegriffen'
+            -
+                correct: true
+                value: 'bei Kammgriff zeigen die Daumen nach außen'
+    -
+        text: 'Welcher Buchstabe gehört zum passenden Trainingsequipment? Bitte in das jeweilige Feld eingeben!'
+        options:
+            -
+                correct: true
+                value: 'Latzug-Griffe: '
+            -
+                correct: false
+                value: 'SZ-Stange: '
+            -
+                correct: false
+                value: 'Tube: '
+            -
+                correct: false
+                value: 'Kopfmanschette: '
+    -
+        text: 'Was sind gängige Übungsformen?'
+        options:
+            -
+                correct: true
+                value: 'freie Seilzugmaschinen'
+            -
+                correct: true
+                value: 'Maschinen mit Einzelaufhängungen'
+            -
+                correct: true
+                value: 'maschinenunabhängige Übungen '
+            -
+                correct: false
+                value: 'Stationstraining'
+            -
+                correct: false
+                value: 'Zirkeltraining'
+    -
+        text: 'Was zählt zu einer zwangsgekoppelten Maschine?'
+        options:
+            -
+                correct: false
+                value: 'Hüftpendel'
+            -
+                correct: false
+                value: 'Butterfly Maschine'
+            -
+                correct: true
+                value: 'Beinpresse'
+            -
+                correct: true
+                value: 'Beinstrecker'
+            -
+                correct: true
+                value: 'sitzende Wadenmaschine'
+    -
+        text: 'Zu welcher Übungsform gehören das Hüftpendel und die Butterflymaschine?'
+        options:
+            -
+                correct: false
+                value: 'zwangsgekoppelte Maschinen'
+            -
+                correct: true
+                value: 'Maschinen mit Einzelaufhängungen '
+            -
+                correct: false
+                value: 'zwangsgekoppelte freie Seilzugmaschinen'
+    -
+        text: 'Welches der Beispiele bezeichnet eine Isolationsübung?'
+        options:
+            -
+                correct: true
+                value: 'Bizepscurls an der Maschine'
+            -
+                correct: false
+                value: 'Beinpresse'
+            -
+                correct: true
+                value: 'Beinstrecker'
+            -
+                correct: true
+                value: 'Beinbeuger sitzend'
+    -
+        text: 'Welches Beispiel ist eine komplexe (mehrgelenkige) Übung?'
+        options:
+            -
+                correct: false
+                value: 'Beinbeugen sitzend'
+            -
+                correct: true
+                value: 'Klimmzüge'
+            -
+                correct: true
+                value: 'Kniebeugen'
+            -
+                correct: true
+                value: 'Kreuzheben'
+            -
+                correct: true
+                value: 'Beinheben hängend'
+    -
+        text: 'Welche Vorteile haben „Übungen an Maschinen“ gegenüber „freien Übungen“?'
+        options:
+            -
+                correct: true
+                value: 'geringere Verletzungsgefahr'
+            -
+                correct: true
+                value: 'schneller erlernbar'
+            -
+                correct: false
+                value: 'alltagsnahe Bewegungen möglich'
+            -
+                correct: false
+                value: 'zur Verbesserung der intermuskulären Koordination'
+    -
+        text: 'Welche Vorteile haben „freie Übungen“ gegenüber „Übungen an Maschinen“?'
+        options:
+            -
+                correct: true
+                value: 'mehrdimensionale Bewegungen möglich'
+            -
+                correct: false
+                value: 'keine Begrenzung von Bewegungsradien möglich '
+            -
+                correct: true
+                value: 'Verbesserung der Eigenstabilisierung'
+            -
+                correct: false
+                value: 'großer Betreuungsaufwand '
+    -
+        text: 'Welche Vorteile haben „Isolationsübungen“ im Vergleich zu „Mehrgelenkigen Übungen“?'
+        options:
+            -
+                correct: true
+                value: 'geringere Belastung für das Herz-Kreislauf-System'
+            -
+                correct: false
+                value: 'Muskelketten/-schlingen können besser aktiviert werden'
+            -
+                correct: true
+                value: 'intensivere Muskelbelastung'
+    -
+        text: 'Wann können Dehnungsübungen hilfreich sein?'
+        options:
+            -
+                correct: true
+                value: 'bei eingeschränkter muskulärer Flexibilität '
+            -
+                correct: true
+                value: 'bei körperlichen Dysbalancen'
+            -
+                correct: true
+                value: 'als Warm-up für z. B. Tanzsportarten'
+            -
+                correct: false
+                value: 'vor Kraftübungen wie z. B. Kniebeugen '
+    -
+        text: 'Wann ist von Dehnungsübungen abzuraten?'
+        options:
+            -
+                correct: true
+                value: 'vor Kraftübungen wie z. B. Kniebeugen'
+            -
+                correct: true
+                value: 'vor Schnelligkeitsübungen wie z. B. Tempoläufen'
+            -
+                correct: true
+                value: 'bei muskulären Entzündungen'
+            -
+                correct: false
+                value: 'bei körperlichen Fehlhaltungen'
+    -
+        text: 'Welche Makronährstoffe sind dir bekannt?'
+        options:
+            -
+                correct: false
+                value: '"Fette'
+            -
+                correct: false
+                value: '"Eiweiße'
+            -
+                correct: true
+                value: '"Kohlenhydrate'
+    -
+        text: 'Welche Mikronährstoffe sind dir bekannt?'
+        options:
+            -
+                correct: false
+                value: '"Fette'
+            -
+                correct: true
+                value: '"Vitamine'
+            -
+                correct: false
+                value: '"Spurenelemente'
+    -
+        text: 'Welche physikalischen Kalorienangaben stimmen?'
+        options:
+            -
+                correct: true
+                value: '"1g Fett = 9'
+            -
+                correct: false
+                value: '"1g Eiweiß = 5'
+            -
+                correct: true
+                value: '"1g Kohlenhydrate = 4'
+            -
+                correct: true
+                value: '"1g Eiweiß = 4'
+            -
+                correct: false
+                value: '"1g Kohlenhydrate = 5'
+    -
+        text: 'Von welchen Faktoren ist der Energiebedarf abhängig?'
+        options:
+            -
+                correct: true
+                value: 'vom Grundumsatz'
+            -
+                correct: true
+                value: 'vom Arbeitsumsatz'
+            -
+                correct: true
+                value: 'vom Freizeitumsatz'
+            -
+                correct: false
+                value: 'vom Haushaltsumsatz'
+    -
+        text: 'Von welchen Faktoren ist der Grundumsatz abhängig?'
+        options:
+            -
+                correct: true
+                value: 'Alter'
+            -
+                correct: true
+                value: 'Körpergröße'
+            -
+                correct: true
+                value: 'Körpergewicht'
+            -
+                correct: true
+                value: 'Anteil der Muskelmasse'
+            -
+                correct: false
+                value: 'sportliche Aktivität'
+    -
+        text: 'Der Weg der Nahrung. Welche Reihenfolge stimmt?'
+        options:
+            -
+                correct: false
+                value: '"Mund'
+            -
+                correct: true
+                value: '"Mund'
+            -
+                correct: false
+                value: '"Mund'
+    -
+        text: 'Was sind Ursachen für Übergewicht?'
+        options:
+            -
+                correct: true
+                value: 'Fehl- und Überernährung'
+            -
+                correct: true
+                value: 'körperliche Inaktivität'
+            -
+                correct: true
+                value: 'regelmäßiger Nikotin- und Alkoholkonsum '
+            -
+                correct: true
+                value: 'Vererbung'
+            -
+                correct: true
+                value: 'Hormonelle Faktoren'
+    -
+        text: 'Was sind Symptome des Metabolischen Syndroms?'
+        options:
+            -
+                correct: true
+                value: 'starkes Übergewicht'
+            -
+                correct: true
+                value: 'Bluthochdruck'
+            -
+                correct: true
+                value: 'erhöhter Blutzuckerspiegel'
+            -
+                correct: false
+                value: 'erhöhte Reizbarkeit'
+    -
+        text: 'Hier bitte die richtigen Werte für den Body-Mass-Index (BMI) eingeben!'
+        options:
+            -
+                correct: false
+                value: 'Übergewicht ist definiert als > BMI '
+            -
+                correct: false
+                value: 'Adipositas ist definiert als > BMI '
+    -
+        text: 'Mit Hilfe welcher Methode kann das Ausmaß des viszeralen Fetts beurteilt werden?'
+        options:
+            -
+                correct: true
+                value: 'Taille-Hüft-Quotient'
+            -
+                correct: false
+                value: 'Body-Mass-Index'
+    -
+        text: 'Durch welche Empfehlungen kann einer Insulinresistenz vorgebeugt werden?'
+        options:
+            -
+                correct: true
+                value: 'Lebensmittel mit niedriger glykämischer Last wählen'
+            -
+                correct: true
+                value: 'weniger Weißmehlprodukte'
+            -
+                correct: true
+                value: 'weniger gesättigte Fette und Transfette'
+    -
+        text: 'Welche Lebensmittel haben eine „niedrige glykämische Last“?'
+        options:
+            -
+                correct: false
+                value: 'Müsli und Cornflakes'
+            -
+                correct: true
+                value: 'Eier und Milchprodukte'
+            -
+                correct: true
+                value: 'Obst und Gemüse'
+            -
+                correct: true
+                value: 'Fleisch und Fisch'
+            -
+                correct: false
+                value: 'Reiswaffeln'
+    -
+        text: 'Was kann „dauerhaft zu viel Insulin im Blut“ bewirken?'
+        options:
+            -
+                correct: true
+                value: 'Fettspeicherung'
+            -
+                correct: true
+                value: '"zu viel'
+            -
+                correct: true
+                value: 'Insulinresistenz'
+            -
+                correct: false
+                value: 'Zuckerschock'
+    -
+        text: 'Was gehört zu den 10 Regeln einer ausgewogenen Ernährung?'
+        options:
+            -
+                correct: true
+                value: 'zweimal in der Woche Fisch '
+            -
+                correct: true
+                value: 'sich zum Essen Zeit nehmen'
+            -
+                correct: true
+                value: 'fünf Mal am Tag Obst und Gemüse'
+            -
+                correct: true
+                value: 'sich nach einem deftigen Essen bewegen '
+            -
+                correct: false
+                value: 'viel Fleisch und Wurst'
+    -
+        text: 'Für welche Personengruppen können Nahrungsergänzungen sinnvoll sein?'
+        options:
+            -
+                correct: true
+                value: 'Hochleistungssportler '
+            -
+                correct: true
+                value: 'Senioren '
+            -
+                correct: true
+                value: 'Schwangere und Stillende '
+            -
+                correct: true
+                value: 'Veganer '
+            -
+                correct: false
+                value: 'Fitness- und Freizeitsportler'
+    -
+        text: 'Was passiert durch reinen Nahrungsentzug?'
+        options:
+            -
+                correct: true
+                value: '"die Muskulatur verringert sich'
+            -
+                correct: false
+                value: 'das Fett wird weniger und der Leistungsumsatz erhöht sich'
+    -
+        text: '"Ist es möglich'
+        options:
+            -
+                correct: true
+                value: ' durch Training nur an einer bestimmten Stelle die Fettschicht zu verringern?"'
+            -
+                correct: false
+                value: ' durch Training nur an einer bestimmten Stelle die Fettschicht zu verringern?"'
+    -
+        text: 'Welche Körperfettanteilreduktion pro Woche ist realistisch?'
+        options:
+            -
+                correct: true
+                value: '250 - 550g'
+            -
+                correct: false
+                value: '800 - 1000g'
+            -
+                correct: false
+                value: '1000 - 1200g'
+    -
+        text: 'Wofür benötigt der Körper Eiweiß?'
+        options:
+            -
+                correct: false
+                value: 'für das Krafttraining'
+            -
+                correct: true
+                value: 'für die Zellregeneration'
+            -
+                correct: true
+                value: 'für das Immunsystem'
+    -
+        text: 'Welche Eiweiße sind für eine gesunde Ernährung wichtig?'
+        options:
+            -
+                correct: false
+                value: 'Tierische'
+            -
+                correct: false
+                value: 'Pflanzliche'
+            -
+                correct: true
+                value: 'Tierische und pflanzliche'
+    -
+        text: 'Welche Fette sind für eine gesunde Ernährung wichtig?'
+        options:
+            -
+                correct: true
+                value: 'Hochungesättigte Fettsäuren'
+            -
+                correct: false
+                value: 'gesättigte Fette'
+            -
+                correct: false
+                value: 'Transfette'
+            -
+                correct: false
+                value: 'keine Fette'
+    -
+        text: 'Warum ist Fett für den Körper lebensnotwendig?'
+        options:
+            -
+                correct: true
+                value: 'Isolier- und Schutzschicht'
+            -
+                correct: true
+                value: 'Strukturfett im Gehirn'
+            -
+                correct: true
+                value: 'Aufnahmebeschleuniger für bestimmte Vitamine'
+            -
+                correct: false
+                value: 'Geschmacksträger'
+    -
+        text: 'Was sind Lieferanten hochungesättigter Fette?'
+        options:
+            -
+                correct: false
+                value: 'Milchprodukte'
+            -
+                correct: true
+                value: 'Tiefseefische'
+            -
+                correct: true
+                value: 'Wallnüsse'
+            -
+                correct: false
+                value: 'Reis'
+            -
+                correct: true
+                value: 'Leinsamen'
+    -
+        text: 'In welcher Phase sollte der Kunde hier ausatmen?'
+        options:
+            -
+                correct: false
+                value: 'beim nach unten gehen'
+            -
+                correct: true
+                value: 'beim nach oben drücken'
+            -
+                correct: false
+                value: 'ist egal'
+    -
+        text: 'Warum sollten die Fußspitzen höher als die Knie sein?'
+        options:
+            -
+                correct: true
+                value: 'um eine Überbelastung in den Knien zu vermeiden '
+            -
+                correct: false
+                value: 'damit die Beine nicht zu sehr auf den Oberkörper drücken'
+    -
+        text: '"Für welche Zielgruppe ist ""Abduktion stehend"" besonders zu empfehlen?"'
+        options:
+            -
+                correct: true
+                value: 'für Kunden mit leichten Kniebeschwerden'
+            -
+                correct: false
+                value: 'für Kunden mit schweren Hüftbeschwerden'
+    -
+        text: 'Worauf ist bei dieser Übung zu achten?'
+        options:
+            -
+                correct: true
+                value: 'die Knie- und die Maschinendrehachse stimmt überein'
+            -
+                correct: true
+                value: 'das Becken hebt sich nicht vom Polster ab'
+            -
+                correct: false
+                value: 'Die Kniegelenke werden komplett gestreckt'
+    -
+        text: 'Durch welche Möglichkeiten kann die Knieachse ausgerichtet werden?'
+        options:
+            -
+                correct: true
+                value: 'Mit der Einstellung des Rückenpolsters'
+            -
+                correct: false
+                value: 'Mit der Einstellung der Beinfixierung'
+            -
+                correct: true
+                value: 'Mit der Einstellung der Sitzhöhe'
+    -
+        text: 'Warum sollte die seitliche Bauchmuskulatur gezielt trainiert werden?'
+        options:
+            -
+                correct: true
+                value: 'um die Wirbelsäule muskulär zu sichern'
+            -
+                correct: false
+                value: 'um den Bauch besser zu definieren '
+    -
+        text: 'Eignet sich die dargestellte Übung zur Stabilisierung der LWS?'
+        options:
+            -
+                correct: false
+                value: 'nein'
+            -
+                correct: true
+                value: 'ja'
+    -
+        text: 'Worauf ist bei der Beinstreckmaschine zu achten?'
+        options:
+            -
+                correct: true
+                value: 'Knie- und Maschinendrehachse stimmen überein'
+            -
+                correct: true
+                value: 'Eine maximale Beugung ist bei Kniebeschwerden zu begrenzen'
+            -
+                correct: false
+                value: 'Keine maximale Streckung durchführen'
+    -
+        text: 'Wie können hier unterschiedliche Wirbelsäulensegmente trainiert werden?'
+        options:
+            -
+                correct: true
+                value: 'Indem man die Sitzhöhe variiert'
+            -
+                correct: false
+                value: 'Indem man den Körper mit bewegt'
+    -
+        text: '"Was unterscheidet Hyperextensionen frei'
+        options:
+            -
+                correct: true
+                value: ' von einer sitzenden Rückenstreckmaschine?"'
+            -
+                correct: false
+                value: ' von einer sitzenden Rückenstreckmaschine?"'
+            -
+                correct: true
+                value: ' von einer sitzenden Rückenstreckmaschine?"'
+    -
+        text: '"Ist es wichtig'
+        options:
+            -
+                correct: true
+                value: ' während dieser Übung die Schulterblätter „hinten unter Spannung“ zu halten?"'
+            -
+                correct: true
+                value: ' während dieser Übung die Schulterblätter „hinten unter Spannung“ zu halten?"'
+            -
+                correct: true
+                value: ' während dieser Übung die Schulterblätter „hinten unter Spannung“ zu halten?"'
+    -
+        text: 'Was ist beim Lat-Ziehen zu beachten?'
+        options:
+            -
+                correct: true
+                value: 'die Handgelenke in der vollständigen Zugbewegung nicht abknicken'
+            -
+                correct: true
+                value: 'die Schulterblätter in der rückführenden Bewegung nicht aushängen'
+            -
+                correct: false
+                value: 'den Körper mit Schwung bewegen'
+    -
+        text: '"Warum sollte die Brust bei der Übung ""Butterfly reverse"" am Brustpolster bleiben?"'
+        options:
+            -
+                correct: true
+                value: 'Um ein Abfälschen bei dieser Übung zu vermeiden'
+            -
+                correct: true
+                value: 'Um evtl. Rückenverletzungen vorzubeugen'
+            -
+                correct: false
+                value: 'Um den Bauch zu stabilisieren'
+    -
+        text: 'Warum ist Langhantel-Rudern für einen Anfänger eher ungeeignet?'
+        options:
+            -
+                correct: true
+                value: 'hohe Fehleranfälligkeit'
+            -
+                correct: true
+                value: 'hoher Schwierigkeitsgrad '
+            -
+                correct: false
+                value: 'geringer Koordinationsaufwand '
+    -
+        text: 'Pull Over Maschine: Was ist bei der Einstellung der Sitzhöhe zu beachten?'
+        options:
+            -
+                correct: true
+                value: 'Die Schultergelenke und die Maschinendrehachse müssen übereinstimmen.'
+            -
+                correct: false
+                value: 'Der Hüftwinkel muss 45 Grad betragen.'
+    -
+        text: 'Für welche Zielgruppe ist die Übung HWS-Extension besonders geeignet? Für Personen die …'
+        options:
+            -
+                correct: true
+                value: '… mehrere Stunden täglich am Computer sitzen. '
+            -
+                correct: true
+                value: '… mehrere Stunden täglich im Auto sitzen. '
+            -
+                correct: false
+                value: '… ein Schleudertrauma haben.'
+    -
+        text: 'Was ist beim Abstand der Griffbreite zu beachten?'
+        options:
+            -
+                correct: true
+                value: '"Je breiter der Griff'
+            -
+                correct: false
+                value: '"Je breiter der Griff'
+    -
+        text: 'Warum sollte beim freien Kniebeugen die Aufwärtsbewegung mit dem Kopf beginnen?'
+        options:
+            -
+                correct: false
+                value: 'Um den Rücken zu entlasten'
+            -
+                correct: true
+                value: 'Um „Bogenspannung“ des Körpers zu erhalten'
+            -
+                correct: false
+                value: 'Um nicht ins „Hohlkreuz“ zu gelangen'
+    -
+        text: 'Wann ist es sinnvoll die Langhantel beim Kreuzheben versetzt zu greifen?'
+        options:
+            -
+                correct: false
+                value: 'Bei vielen Wiederholungen'
+            -
+                correct: false
+                value: 'Bei vielen Sätzen '
+            -
+                correct: true
+                value: 'Bei hohem Gewicht'
+    -
+        text: 'Welcher Aussage stimmst du zu?'
+        options:
+            -
+                correct: true
+                value: 'Je breiter der Stand desto stärker die Gesäßbeanspruchung.'
+            -
+                correct: false
+                value: '"Je breiter der Stand'
+    -
+        text: 'Was ist bei der Einstellung der Sitzhöhe zu beachten?'
+        options:
+            -
+                correct: true
+                value: 'Die Griffe befinden sich auf Brusthöhe. '
+            -
+                correct: true
+                value: 'Der Körper liegt am Rückenpolster an. '
+            -
+                correct: false
+                value: 'Die Beine können ausgestreckt werden.'
+    -
+        text: 'Warum sollte sich die Griffposition nicht über der Brusthöhe befinden?'
+        options:
+            -
+                correct: true
+                value: 'Damit die Ellenbogen über der Hand positioniert werden können. '
+            -
+                correct: true
+                value: 'Geringere Gelenkbelastung von Ellenbogen und Schulter. '
+            -
+                correct: false
+                value: 'Weil dann der Brustmuskel nicht mehr trainiert wird.'
+    -
+        text: 'Warum sollte die Langhantel bei der Übungsausführung die Brust berühren?'
+        options:
+            -
+                correct: true
+                value: 'Um eine größtmögliche Bewegungsamplitude auszunutzen.'
+            -
+                correct: true
+                value: 'Um die größtmögliche Muskelkontraktion zu erreichen. '
+            -
+                correct: false
+                value: 'Um eine Verletzung auszuschließen.'
+    -
+        text: 'Warum sollten die Schultergelenke mit den Maschinendrehachsen übereinstimmen?'
+        options:
+            -
+                correct: true
+                value: 'Um ungünstige Gelenkbelastungen zu vermeiden.'
+            -
+                correct: false
+                value: 'Um ein „Körperschwingen“ zu vermeiden.'
+            -
+                correct: true
+                value: 'Um eine vollständige Bewegungsamplitude zu ermöglichen.'
+    -
+        text: '"Was ist zu beachten'
+        options:
+            -
+                correct: false
+                value: ' um den seitlichen Schulterkopf isoliert zu trainieren?"'
+            -
+                correct: true
+                value: ' um den seitlichen Schulterkopf isoliert zu trainieren?"'
+    -
+        text: 'Warum sollten hier die Achseln einen ständigen Kontakt zur Auflage haben?'
+        options:
+            -
+                correct: true
+                value: 'Um ein Mitschwingen des Schultergürtels zu vermeiden. '
+            -
+                correct: false
+                value: 'Um die komplette Amplitude auszunutzen.'
+    -
+        text: 'Warum sollte der Ellenbogen während der Bewegung frei fixiert bleiben?'
+        options:
+            -
+                correct: true
+                value: 'Um ein Mithelfen der Schultermuskeln zu reduzieren.'
+            -
+                correct: false
+                value: 'Um eine gleichmäßige Muskelbelastung zu erreichen.'
+    -
+        text: 'Durch welche Maßnahme könnte ein Abfälschen des Oberkörpers vermieden werden?'
+        options:
+            -
+                correct: true
+                value: 'Durch eine Brust- oder Rücken-Fixierung.'
+            -
+                correct: false
+                value: 'Durch eine Fixierung an Schulter oder Ellenbogen.'
+    -
+        text: 'Warum sollten bei der Ausführung die Ellenbogen am Körper fixiert bleiben?'
+        options:
+            -
+                correct: true
+                value: 'Um ein Mitschwingen der Oberarme zu vermeiden.'
+            -
+                correct: false
+                value: 'Um die Körperspannung aufrecht zu erhalten.'
+    -
+        text: 'Aus welchem Grund ist es sinnvoller die Stange hinter den Kopf und nicht zur Stirn zu führen?'
+        options:
+            -
+                correct: false
+                value: 'Weil sonst der Muskel an Spannung verliert.'
+            -
+                correct: true
+                value: 'Um mit einer größeren Bewegungsamplitude trainieren zu können. '
+    -
+        text: 'Was unterscheidet diese Übung von der Ausführung mit einer Kurzhantel?'
+        options:
+            -
+                correct: true
+                value: 'Kein Spannungsverlust in der exzentrischen Phase möglich'
+            -
+                correct: false
+                value: 'Ein höherer körperlicher und koordinativer Aufwand'
+            -
+                correct: true
+                value: 'Unterschiedliche Kraft- und Widerstandskurven'
+    -
+        text: 'Warum sollten bei der Ausführung die Schultern nicht komplett abgelegt werden?'
+        options:
+            -
+                correct: true
+                value: 'Um die Körperspannung besser zu halten. '
+            -
+                correct: true
+                value: 'Um intensiver zu trainieren.'
+            -
+                correct: true
+                value: 'Um den Muskel schneller zu ermüden.'
+    -
+        text: 'In welcher Bewegungsphase werden hier die unteren Bauchmuskeln dynamisch aktiviert?'
+        options:
+            -
+                correct: false
+                value: 'Im ersten Drittel der konzentrischen Phase'
+            -
+                correct: true
+                value: 'Im letzten Drittel der konzentrischen Phase'
+    -
+        text: '"Warum ist bei der Ausführung darauf zu achten'
+        options:
+            -
+                correct: true
+                value: ' nicht in ein ""Hohlkreuz"" zu fallen?"'
+            -
+                correct: false
+                value: ' nicht in ein ""Hohlkreuz"" zu fallen?"'
+            -
+                correct: false
+                value: ' nicht in ein ""Hohlkreuz"" zu fallen?"'
+            -
+                correct: true
+                value: ' nicht in ein ""Hohlkreuz"" zu fallen?"'
+    -
+        text: 'Durch welche Maßnahme könnte die Schulterbelastung hier reduziert werden?'
+        options:
+            -
+                correct: true
+                value: 'Diese Übung am Kabelzug durchführen.'
+            -
+                correct: false
+                value: 'Die Ellenbogen etwas mehr anwinkeln.'
