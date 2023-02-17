@@ -1,65 +1,324 @@
 id: training-instruction
-title: 'Anatomy and Physiology'
+title: 'Training Instruction'
 questions:
     -
-        text: 'Which of the following are parts of a cell?'
+        text: 'Welche Makronährstoffe sind dir bekannt?'
         options:
             -
-                correct: true
-                value: 'cell body'
-            -
-                correct: true
-                value: 'cell nucleus'
-            -
-                correct: true
-                value: 'cell membrane'
+                correct: false
+                value: '"Fette'
             -
                 correct: false
-                value: 'cell stem'
-
+                value: '"Eiweiße'
+            -
+                correct: true
+                value: '"Kohlenhydrate'
     -
-        text: 'In which part of the cell can you find the DNA (deoxyribonucleic acid)?'
+        text: 'Welche Mikronährstoffe sind dir bekannt?'
         options:
             -
                 correct: false
-                value: 'cell body'
+                value: '"Fette'
             -
                 correct: true
-                value: 'cell nucleus'
+                value: '"Vitamine'
             -
                 correct: false
-                value: 'cell membrane'
-            -
-                correct: false
-                value: 'cell stem'
+                value: '"Spurenelemente'
     -
-        text: 'Which of the following are parts of a cell?'
+        text: 'Welche physikalischen Kalorienangaben stimmen?'
         options:
             -
                 correct: true
-                value: 'cell body'
-            -
-                correct: true
-                value: 'cell nucleus'
-            -
-                correct: true
-                value: 'cell membrane'
+                value: '"1g Fett = 9'
             -
                 correct: false
-                value: 'cell stem'
-
+                value: '"1g Eiweiß = 5'
+            -
+                correct: true
+                value: '"1g Kohlenhydrate = 4'
+            -
+                correct: true
+                value: '"1g Eiweiß = 4'
+            -
+                correct: false
+                value: '"1g Kohlenhydrate = 5'
     -
-        text: 'In which part of the cell can you find the DNA (deoxyribonucleic acid)?'
+        text: 'Von welchen Faktoren ist der Energiebedarf abhängig?'
+        options:
+            -
+                correct: true
+                value: 'vom Grundumsatz'
+            -
+                correct: true
+                value: 'vom Arbeitsumsatz'
+            -
+                correct: true
+                value: 'vom Freizeitumsatz'
+            -
+                correct: false
+                value: 'vom Haushaltsumsatz'
+    -
+        text: 'Von welchen Faktoren ist der Grundumsatz abhängig?'
+        options:
+            -
+                correct: true
+                value: 'Alter'
+            -
+                correct: true
+                value: 'Körpergröße'
+            -
+                correct: true
+                value: 'Körpergewicht'
+            -
+                correct: true
+                value: 'Anteil der Muskelmasse'
+            -
+                correct: false
+                value: 'sportliche Aktivität'
+    -
+        text: 'Der Weg der Nahrung. Welche Reihenfolge stimmt?'
         options:
             -
                 correct: false
-                value: 'cell body'
+                value: '"Mund'
             -
                 correct: true
-                value: 'cell nucleus'
+                value: '"Mund'
             -
                 correct: false
-                value: 'cell membrane'
+                value: '"Mund'
+    -
+        text: 'Was sind Ursachen für Übergewicht?'
+        options:
+            -
+                correct: true
+                value: 'Fehl- und Überernährung'
+            -
+                correct: true
+                value: 'körperliche Inaktivität'
+            -
+                correct: true
+                value: 'regelmäßiger Nikotin- und Alkoholkonsum '
+            -
+                correct: true
+                value: 'Vererbung'
+            -
+                correct: true
+                value: 'Hormonelle Faktoren'
+    -
+        text: 'Was sind Symptome des Metabolischen Syndroms?'
+        options:
+            -
+                correct: true
+                value: 'starkes Übergewicht'
+            -
+                correct: true
+                value: 'Bluthochdruck'
+            -
+                correct: true
+                value: 'erhöhter Blutzuckerspiegel'
             -
                 correct: false
-                value: 'cell stem'
+                value: 'erhöhte Reizbarkeit'
+    -
+        text: 'Hier bitte die richtigen Werte für den Body-Mass-Index (BMI) eingeben!'
+        options:
+            -
+                correct: false
+                value: 'Übergewicht ist definiert als > BMI '
+            -
+                correct: false
+                value: 'Adipositas ist definiert als > BMI '
+    -
+        text: 'Mit Hilfe welcher Methode kann das Ausmaß des viszeralen Fetts beurteilt werden?'
+        options:
+            -
+                correct: true
+                value: 'Taille-Hüft-Quotient'
+            -
+                correct: false
+                value: 'Body-Mass-Index'
+    -
+        text: 'Durch welche Empfehlungen kann einer Insulinresistenz vorgebeugt werden?'
+        options:
+            -
+                correct: true
+                value: 'Lebensmittel mit niedriger glykämischer Last wählen'
+            -
+                correct: true
+                value: 'weniger Weißmehlprodukte'
+            -
+                correct: true
+                value: 'weniger gesättigte Fette und Transfette'
+    -
+        text: 'Welche Lebensmittel haben eine „niedrige glykämische Last“?'
+        options:
+            -
+                correct: false
+                value: 'Müsli und Cornflakes'
+            -
+                correct: true
+                value: 'Eier und Milchprodukte'
+            -
+                correct: true
+                value: 'Obst und Gemüse'
+            -
+                correct: true
+                value: 'Fleisch und Fisch'
+            -
+                correct: false
+                value: 'Reiswaffeln'
+    -
+        text: 'Was kann „dauerhaft zu viel Insulin im Blut“ bewirken?'
+        options:
+            -
+                correct: true
+                value: 'Fettspeicherung'
+            -
+                correct: true
+                value: '"zu viel'
+            -
+                correct: true
+                value: 'Insulinresistenz'
+            -
+                correct: false
+                value: 'Zuckerschock'
+    -
+        text: 'Was gehört zu den 10 Regeln einer ausgewogenen Ernährung?'
+        options:
+            -
+                correct: true
+                value: 'zweimal in der Woche Fisch '
+            -
+                correct: true
+                value: 'sich zum Essen Zeit nehmen'
+            -
+                correct: true
+                value: 'fünf Mal am Tag Obst und Gemüse'
+            -
+                correct: true
+                value: 'sich nach einem deftigen Essen bewegen '
+            -
+                correct: false
+                value: 'viel Fleisch und Wurst'
+    -
+        text: 'Für welche Personengruppen können Nahrungsergänzungen sinnvoll sein?'
+        options:
+            -
+                correct: true
+                value: 'Hochleistungssportler '
+            -
+                correct: true
+                value: 'Senioren '
+            -
+                correct: true
+                value: 'Schwangere und Stillende '
+            -
+                correct: true
+                value: 'Veganer '
+            -
+                correct: false
+                value: 'Fitness- und Freizeitsportler'
+    -
+        text: 'Was passiert durch reinen Nahrungsentzug?'
+        options:
+            -
+                correct: true
+                value: '"die Muskulatur verringert sich'
+            -
+                correct: false
+                value: 'das Fett wird weniger und der Leistungsumsatz erhöht sich'
+    -
+        text: '"Ist es möglich'
+        options:
+            -
+                correct: true
+                value: ' durch Training nur an einer bestimmten Stelle die Fettschicht zu verringern?"'
+            -
+                correct: false
+                value: ' durch Training nur an einer bestimmten Stelle die Fettschicht zu verringern?"'
+    -
+        text: 'Welche Körperfettanteilreduktion pro Woche ist realistisch?'
+        options:
+            -
+                correct: true
+                value: '250 - 550g'
+            -
+                correct: false
+                value: '800 - 1000g'
+            -
+                correct: false
+                value: '1000 - 1200g'
+    -
+        text: 'Wofür benötigt der Körper Eiweiß?'
+        options:
+            -
+                correct: false
+                value: 'für das Krafttraining'
+            -
+                correct: true
+                value: 'für die Zellregeneration'
+            -
+                correct: true
+                value: 'für das Immunsystem'
+    -
+        text: 'Welche Eiweiße sind für eine gesunde Ernährung wichtig?'
+        options:
+            -
+                correct: false
+                value: 'Tierische'
+            -
+                correct: false
+                value: 'Pflanzliche'
+            -
+                correct: true
+                value: 'Tierische und pflanzliche'
+    -
+        text: 'Welche Fette sind für eine gesunde Ernährung wichtig?'
+        options:
+            -
+                correct: true
+                value: 'Hochungesättigte Fettsäuren'
+            -
+                correct: false
+                value: 'gesättigte Fette'
+            -
+                correct: false
+                value: 'Transfette'
+            -
+                correct: false
+                value: 'keine Fette'
+    -
+        text: 'Warum ist Fett für den Körper lebensnotwendig?'
+        options:
+            -
+                correct: true
+                value: 'Isolier- und Schutzschicht'
+            -
+                correct: true
+                value: 'Strukturfett im Gehirn'
+            -
+                correct: true
+                value: 'Aufnahmebeschleuniger für bestimmte Vitamine'
+            -
+                correct: false
+                value: 'Geschmacksträger'
+    -
+        text: 'Was sind Lieferanten hochungesättigter Fette?'
+        options:
+            -
+                correct: false
+                value: 'Milchprodukte'
+            -
+                correct: true
+                value: 'Tiefseefische'
+            -
+                correct: true
+                value: 'Wallnüsse'
+            -
+                correct: false
+                value: 'Reis'
+            -
+                correct: true
+                value: 'Leinsamen'

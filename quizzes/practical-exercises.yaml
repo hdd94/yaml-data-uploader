@@ -1,65 +1,513 @@
 id: practical-exercises
-title: 'Anatomy and Physiology'
+title: 'Practical Exercises'
 questions:
     -
-        text: 'Which of the following are parts of a cell?'
+        text: 'Schritte der Trainingssteuerung. Was ist hier die richtige Reihenfolge?'
         options:
             -
-                correct: true
-                value: 'cell body'
+                correct: false
+                value: '"Analyse'
             -
                 correct: true
-                value: 'cell nucleus'
-            -
-                correct: true
-                value: 'cell membrane'
+                value: '"Diagnose/Anamnese'
             -
                 correct: false
-                value: 'cell stem'
-
+                value: '"Diagnose/Anamnese'
     -
-        text: 'In which part of the cell can you find the DNA (deoxyribonucleic acid)?'
+        text: 'Was sollte der Trainer im Eingangsgespräch mit dem Kunden in Erfahrung bringen?'
         options:
             -
-                correct: false
-                value: 'cell body'
+                correct: true
+                value: 'Bestehen aktuelle Beschwerden oder eine Vorerkrankung?'
             -
                 correct: true
-                value: 'cell nucleus'
+                value: 'Erfolgt eine (regelmäßige) Medikamenteneinnahme?'
             -
-                correct: false
-                value: 'cell membrane'
+                correct: true
+                value: 'Wird beruflich eine körperlich anstrengende Tätigkeit ausgeübt?'
             -
-                correct: false
-                value: 'cell stem'
+                correct: true
+                value: 'Was sind die persönlichen Trainingsziele?'
+            -
+                correct: true
+                value: 'Werden sonstige sportliche Tätigkeiten ausgeübt?'
     -
-        text: 'Which of the following are parts of a cell?'
+        text: 'Welche biometrischen Daten können im Rahmen des Eingangsgesprächs aufgenommen werden?'
         options:
             -
                 correct: true
-                value: 'cell body'
+                value: 'Körpergewicht'
             -
                 correct: true
-                value: 'cell nucleus'
+                value: 'Körpergröße'
             -
                 correct: true
-                value: 'cell membrane'
+                value: 'Taille-Hüft-Umfang'
             -
-                correct: false
-                value: 'cell stem'
-
+                correct: true
+                value: 'Ruheherzfrequenz'
+            -
+                correct: true
+                value: 'Blutdruck'
     -
-        text: 'In which part of the cell can you find the DNA (deoxyribonucleic acid)?'
+        text: 'Was sind bekannte motorische Tests?'
+        options:
+            -
+                correct: true
+                value: 'Ausdauertest'
+            -
+                correct: true
+                value: 'Beweglichkeitstest '
+            -
+                correct: true
+                value: 'Koordinationstest'
+            -
+                correct: true
+                value: 'Krafttest'
+            -
+                correct: false
+                value: 'Stresstest'
+    -
+        text: 'Welche Faktoren sind bei der individuellen Trainingsplanung zu beachten?'
+        options:
+            -
+                correct: true
+                value: 'das Zeitmanagement'
+            -
+                correct: true
+                value: 'die körperliche Konstitution '
+            -
+                correct: false
+                value: 'der Arbeitsweg'
+            -
+                correct: true
+                value: 'die Ernährungssituation'
+            -
+                correct: true
+                value: 'die sportlichen Vorerfahrungen'
+    -
+        text: 'Warum ist eine individuelle Trainingsplanung sinnvoll?'
         options:
             -
                 correct: false
-                value: 'cell body'
+                value: 'um mehr Kunden zu gewinnen'
             -
                 correct: true
-                value: 'cell nucleus'
+                value: 'um die Motivation zu erhöhen'
+            -
+                correct: true
+                value: 'um Verletzungen zu reduzieren'
+            -
+                correct: true
+                value: 'um den Trainingserfolg zu optimieren'
+    -
+        text: 'Was muss im Rahmen der Trainingsplanung erfolgen?'
+        options:
+            -
+                correct: true
+                value: 'eine Methodenauswahl'
+            -
+                correct: true
+                value: 'eine Übungsauswahl'
+            -
+                correct: true
+                value: 'eine Festlegung der Periodisierung'
             -
                 correct: false
-                value: 'cell membrane'
+                value: 'eine Zielsetzung'
             -
                 correct: false
-                value: 'cell stem'
+                value: 'eine Kontrolle'
+    -
+        text: 'Was sind wichtige Parameter eines Trainingsplanes?'
+        options:
+            -
+                correct: true
+                value: 'Trainingsschwerpunkte'
+            -
+                correct: true
+                value: 'Trainingshäufigkeit'
+            -
+                correct: true
+                value: 'Übungsauswahl'
+            -
+                correct: true
+                value: 'Wiederholungszahl'
+            -
+                correct: true
+                value: 'Organisationsform'
+    -
+        text: 'Wie lange dauert ein Mikrozyklus?'
+        options:
+            -
+                correct: false
+                value: 'eine Übung'
+            -
+                correct: false
+                value: 'einen Tag'
+            -
+                correct: true
+                value: 'eine Trainingseinheit'
+    -
+        text: 'Wie lange dauert ein Mesozyklus?'
+        options:
+            -
+                correct: true
+                value: '4-8 Wochen'
+            -
+                correct: false
+                value: '2-3 Monate'
+            -
+                correct: false
+                value: '1 Woche'
+    -
+        text: 'Wie lange dauert ein Makrozyklus?'
+        options:
+            -
+                correct: false
+                value: '4-8 Wochen'
+            -
+                correct: true
+                value: 'ca. 6 Monate'
+            -
+                correct: false
+                value: 'ca. 1 Jahr'
+    -
+        text: 'Kriterien bei der Übungsauswahl. Welche Zuordnung stimmt?'
+        options:
+            -
+                correct: false
+                value: 'von einfach -> zu kompliziert'
+            -
+                correct: false
+                value: 'von einfach -> zu schwer'
+            -
+                correct: true
+                value: 'von einfach -> zu komplex'
+    -
+        text: 'Was ist bei der Trainingsplanung mit älteren Menschen zu beachten?'
+        options:
+            -
+                correct: true
+                value: 'einen medizinischer Check empfehlen'
+            -
+                correct: true
+                value: 'längere Aufwärmphasen berücksichtigen'
+            -
+                correct: false
+                value: 'sofort mit Hanteltraining beginnen'
+            -
+                correct: true
+                value: 'längere Regenerationszeiten planen'
+    -
+        text: 'Was gehört zu einer Trainingsdurchführung?'
+        options:
+            -
+                correct: false
+                value: 'die Übungsauswahl'
+            -
+                correct: true
+                value: 'die Einweisung'
+            -
+                correct: true
+                value: 'die Kontrolle'
+            -
+                correct: true
+                value: 'das Feedback'
+            -
+                correct: false
+                value: 'die Analyse'
+    -
+        text: 'Bitte den Satz vervollständigen: Das muskuläre Gleichgewicht kann gestört werden durch …'
+        options:
+            -
+                correct: true
+                value: '… Fehl- und Überbelastungen.'
+            -
+                correct: true
+                value: '… zu geringe Erholungspausen.'
+            -
+                correct: true
+                value: '… fehlende Ausgleichsgymnastik.'
+            -
+                correct: true
+                value: '… Sauerstoffmangel.'
+            -
+                correct: true
+                value: '… zu einseitiges Training.'
+    -
+        text: '"Was sind wichtige Belastungsmerkmale'
+        options:
+            -
+                correct: true
+                value: ' um eine erwünschte Wirkung zu erzielen?"'
+            -
+                correct: true
+                value: ' um eine erwünschte Wirkung zu erzielen?"'
+            -
+                correct: true
+                value: ' um eine erwünschte Wirkung zu erzielen?"'
+            -
+                correct: true
+                value: ' um eine erwünschte Wirkung zu erzielen?"'
+            -
+                correct: true
+                value: ' um eine erwünschte Wirkung zu erzielen?"'
+    -
+        text: 'Du möchtest im Rahmen der Trainingsplanung die Belastung steigern. Was ist dabei zu beachten?'
+        options:
+            -
+                correct: true
+                value: 'zuerst den Trainingsumfang erhöhen'
+            -
+                correct: false
+                value: 'zuerst die Trainingsintensität erhöhen'
+    -
+        text: 'Für welche Zielgruppe ist ein Training im submaximalen Intensitätsbereich sinnvoll?'
+        options:
+            -
+                correct: false
+                value: 'Gesundheitsorientierte'
+            -
+                correct: true
+                value: 'Fitnessorientierte'
+            -
+                correct: true
+                value: 'Leistungssportler'
+    -
+        text: 'Für welche Zielgruppe ist ein Training im mittleren Intensitätsbereich sinnvoll?'
+        options:
+            -
+                correct: true
+                value: 'Gesundheitsorientierte'
+            -
+                correct: true
+                value: 'Fitnessorientierte'
+            -
+                correct: false
+                value: 'Leistungssportler'
+    -
+        text: 'Wie sieht der allgemeine Ablauf einer Trainingseinheit aus?'
+        options:
+            -
+                correct: true
+                value: 'Aufwärmen->Hauptteil->Abwärmen'
+            -
+                correct: false
+                value: 'Aufwärmen->Training->Dehnung'
+            -
+                correct: false
+                value: 'Vorermüdung->Hauptteil->Abwärmen'
+    -
+        text: 'Warum sollte ein Aufwärmen vor jedem Training erfolgen?'
+        options:
+            -
+                correct: true
+                value: 'Verringerung der Verletzungsgefahr'
+            -
+                correct: true
+                value: 'Steigerung der Koordination'
+            -
+                correct: false
+                value: 'um soziale Kontakte zu pflegen'
+            -
+                correct: true
+                value: 'Verbesserung der Gelenkbeweglichkeit'
+    -
+        text: 'Was ist eine Besonderheit der ILB-Methode?'
+        options:
+            -
+                correct: false
+                value: 'Die Belastungsintensität wird spätestens alle vier Wochen gesteigert.'
+            -
+                correct: true
+                value: 'Die Wiederholungszahl wird für jede einzelne Übung im Rahmen des Trainingsziels festgelegt. '
+    -
+        text: 'Warum ist im Gesundheitssport ein ILB-Test sinnvoller als ein Maximalkraft-Test?'
+        options:
+            -
+                correct: true
+                value: 'er ist gelenkschonender'
+            -
+                correct: false
+                value: 'er ist genauer'
+            -
+                correct: true
+                value: 'es besteht eine geringere Gefahr der Überforderung'
+    -
+        text: 'Wie wird beim ILB-Test die Belastungsintensität bestimmt?'
+        options:
+            -
+                correct: true
+                value: 'mit Hilfe der jeweiligen Leistungsstufe'
+            -
+                correct: true
+                value: 'mit Hilfe des ILB-Grobrasters'
+            -
+                correct: false
+                value: 'mit Hilfe eines Maximalkraft-Tests'
+    -
+        text: 'Welche Maßnahmen des Abwärmens sind dir bekannt?'
+        options:
+            -
+                correct: false
+                value: 'Statische'
+            -
+                correct: true
+                value: 'Aktive'
+            -
+                correct: true
+                value: 'Passive'
+    -
+        text: 'Womit wird die Trainingssteuerung abgeschlossen?'
+        options:
+            -
+                correct: true
+                value: 'durch einen Re-Test'
+            -
+                correct: true
+                value: 'durch eine Analyse'
+            -
+                correct: true
+                value: 'durch eine Dokumentation'
+            -
+                correct: true
+                value: 'durch eine Evaluierung'
+    -
+        text: 'Welche Varianten eines Ausdauertests sind dir bekannt?'
+        options:
+            -
+                correct: true
+                value: 'Stufentest'
+            -
+                correct: false
+                value: 'Dauerlauftest'
+            -
+                correct: true
+                value: 'Dauertest'
+            -
+                correct: false
+                value: 'Intervalltest'
+    -
+        text: 'Welche Möglichkeiten der Leistungsdiagnostik sind dir bekannt?'
+        options:
+            -
+                correct: true
+                value: 'Spiroergometrie'
+            -
+                correct: true
+                value: 'Lactatleistungstest'
+            -
+                correct: false
+                value: 'Nervenbelastungstest'
+            -
+                correct: false
+                value: 'Schmerzrezeptorentest'
+    -
+        text: 'Wodurch kann die Effektivität eines Trainingsmodells geprüft werden?'
+        options:
+            -
+                correct: false
+                value: 'durch einen ILB-Test'
+            -
+                correct: true
+                value: 'durch eine Leistungsdiagnostik'
+            -
+                correct: false
+                value: 'durch einen max. Krafttest'
+            -
+                correct: false
+                value: 'durch einen max. Ausdauertest'
+    -
+        text: 'Was sagt die Bezeichnung „VO2max“ aus?'
+        options:
+            -
+                correct: true
+                value: 'Wert der maximalen Sauerstoffaufnahme'
+            -
+                correct: true
+                value: 'Indikator des Trainingszustands'
+            -
+                correct: false
+                value: 'Wert der maximalen Sauerstoffsättigung'
+            -
+                correct: false
+                value: 'Angabe des maximalen Sauerstoffverbrauchs'
+    -
+        text: 'Woher stammt der Ausdruck „Übersäuert“?'
+        options:
+            -
+                correct: true
+                value: 'durch die Milchsäure'
+            -
+                correct: false
+                value: 'durch die Harnsäure '
+            -
+                correct: false
+                value: 'durch die Magensäure'
+    -
+        text: 'Durch welches Testverfahren wird die individuelle anaerobe Schwelle (IANS) bestimmt?'
+        options:
+            -
+                correct: false
+                value: 'Spiroergometrie'
+            -
+                correct: true
+                value: 'Lactatstufentest '
+            -
+                correct: false
+                value: 'Belastungs-EKG'
+    -
+        text: '"Bitte den Satz vervollständigen: Je höher die Belastung über der IANS liegt'
+        options:
+            -
+                correct: true
+                value: ' desto … "'
+            -
+                correct: true
+                value: ' desto … "'
+            -
+                correct: false
+                value: ' desto … "'
+    -
+        text: 'Wann sollten keine Belastungstests durchgeführt werden?'
+        options:
+            -
+                correct: true
+                value: 'bei Entzündungen'
+            -
+                correct: true
+                value: 'bei Infektionen '
+            -
+                correct: true
+                value: 'bei Herzrhythmusstörungen'
+            -
+                correct: true
+                value: 'bei fieberhaften Erkrankungen'
+    -
+        text: 'Wann sollte ein Belastungstest unbedingt abgebrochen werden?'
+        options:
+            -
+                correct: true
+                value: 'bei starkem Hustenreiz '
+            -
+                correct: true
+                value: 'bei Schmerzen'
+            -
+                correct: true
+                value: 'bei Schwindel'
+            -
+                correct: true
+                value: 'bei Blässe und Schweißausbrüchen'
+    -
+        text: 'Was bedeutet die Abkürzung „TUT“ im Kraftsport?'
+        options:
+            -
+                correct: false
+                value: 'Zeit der Anpassung'
+            -
+                correct: false
+                value: 'Zeit der Erholung'
+            -
+                correct: true
+                value: 'Zeit unter Anspannung'

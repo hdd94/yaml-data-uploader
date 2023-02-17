@@ -1,63 +1,648 @@
 id: nutrition-in-sport
-title: 'Anatomy and Physiology'
+title: 'Nutrition in Sport'
 questions:
     -
-        text: 'Which of the following are parts of a cell?'
+        text: 'Welche Komponenten beeinflussen die sportliche Leistungsfähigkeit?'
         options:
             -
                 correct: true
-                value: 'cell body'
+                value: 'konditionelle und koordinative'
             -
                 correct: true
-                value: 'cell nucleus'
+                value: 'technisch-taktische'
             -
                 correct: true
-                value: 'cell membrane'
+                value: 'gesundheitliche'
             -
-                correct: false
-                value: 'cell stem'
+                correct: true
+                value: 'psychische '
+            -
+                correct: true
+                value: 'intellektuelle'
     -
-        text: 'In which part of the cell can you find the DNA (deoxyribonucleic acid)?'
+        text: 'Motorische Fähigkeiten gliedern sich in …  '
         options:
             -
-                correct: false
-                value: 'cell body'
+                correct: true
+                value: 'Konditionelle '
             -
                 correct: true
-                value: 'cell nucleus'
+                value: 'Koordinative'
             -
                 correct: false
-                value: 'cell membrane'
-            -
-                correct: false
-                value: 'cell stem'
+                value: 'Sensible'
     -
-        text: 'Which of the following are parts of a cell?'
+        text: 'Was sind motorische Lernfähigkeiten?'
         options:
             -
                 correct: true
-                value: 'cell body'
+                value: 'Umstellungsfähigkeit'
             -
                 correct: true
-                value: 'cell nucleus'
+                value: 'Reaktionsfähigkeit '
             -
                 correct: true
-                value: 'cell membrane'
+                value: 'Kopplungsfähigkeit'
             -
-                correct: false
-                value: 'cell stem'
+                correct: true
+                value: 'Gleichgewichtsfähigkeit'
+            -
+                correct: true
+                value: 'Orientierungsfähigkeit'
     -
-        text: 'In which part of the cell can you find the DNA (deoxyribonucleic acid)?'
+        text: 'Bitte den Satz vervollständigen: Superkompensation bezeichnet das Prinzip … '
         options:
             -
                 correct: false
-                value: 'cell body'
+                value: '… der ansteigenden Belastung. '
+            -
+                correct: false
+                value: '… des trainingswirksamen Reizes. '
             -
                 correct: true
-                value: 'cell nucleus'
+                value: '… der optimalen Relation von Belastung und Erholung.'
+    -
+        text: 'Bitte den Satz vervollständigen: Die Dauer der Regeneration ist abhängig von …'
+        options:
+            -
+                correct: true
+                value: '… der Größe der beanspruchten Muskulatur.'
+            -
+                correct: true
+                value: '… des Alters.'
+            -
+                correct: true
+                value: '… der Intensität.'
+            -
+                correct: true
+                value: '… der Bewegungsamplitude.'
             -
                 correct: false
-                value: 'cell membrane'
+                value: '… des Geschlechts.'
+    -
+        text: 'Welche Muskelgruppen benötigen die längsten Regenerationszeiten?'
+        options:
             -
                 correct: false
-                value: 'cell stem'
+                value: 'Bauch und Waden'
+            -
+                correct: false
+                value: 'Arme und Schultern'
+            -
+                correct: true
+                value: 'Rücken und Oberschenkel'
+    -
+        text: 'Was sind bekannte Trainingsprinzipien?'
+        options:
+            -
+                correct: true
+                value: 'Prinzip der individualisierten Belastung'
+            -
+                correct: true
+                value: 'Prinzip des trainingswirksamen Reizes '
+            -
+                correct: true
+                value: 'Prinzip der ansteigenden Belastung '
+            -
+                correct: true
+                value: 'Prinzip der variierenden Belastung'
+    -
+        text: 'Was unterscheidet die allgemeine und lokale Ausdauer?'
+        options:
+            -
+                correct: true
+                value: 'Der Anteil der eingesetzten Muskulatur'
+            -
+                correct: false
+                value: 'Die Höhe der Pulsfrequenz'
+    -
+        text: 'Bitte den Satz vervollständigen: Eine Kraft löst stets eine … '
+        options:
+            -
+                correct: true
+                value: '… gleichgroße entgegengerichtete Kraft aus. '
+            -
+                correct: false
+                value: '… hohe Beschleunigung aus.'
+    -
+        text: 'Bitte den Satz vervollständigen: Widerstandskurven sind abhängig von… '
+        options:
+            -
+                correct: true
+                value: '… der Art des Widerstands'
+            -
+                correct: true
+                value: '… der Richtung des Widerstands'
+            -
+                correct: false
+                value: '… der Beschleunigung '
+    -
+        text: 'Bitte den Satz vervollständigen: Kraftkurven sind … '
+        options:
+            -
+                correct: true
+                value: '… abhängig von der Geschwindigkeit.'
+            -
+                correct: true
+                value: '… bewegungsspezifisch.'
+            -
+                correct: true
+                value: '… bei vielen Sportlern ähnlich.'
+    -
+        text: 'Würdest du einem Kraftsportler ein Ausdauertraining empfehlen?'
+        options:
+            -
+                correct: true
+                value: '"Ja'
+            -
+                correct: false
+                value: '"Nein'
+    -
+        text: 'Ist ein gezieltes Ausdauertraining auch im Gesundheitssport sinnvoll?'
+        options:
+            -
+                correct: true
+                value: '"Ja'
+            -
+                correct: false
+                value: '"Nein'
+    -
+        text: 'Wovon hängt die „optimale Trainingspulsfrequenz“ ab.'
+        options:
+            -
+                correct: true
+                value: 'Alter'
+            -
+                correct: true
+                value: 'Geschlecht'
+            -
+                correct: true
+                value: 'Trainingszustand'
+            -
+                correct: true
+                value: 'Medikamenteneinnahme'
+            -
+                correct: true
+                value: 'Vorerkrankungen'
+    -
+        text: 'Welche Formeln zur Berechnung der theoretisch maximalen Herzfrequenz sind bekannt?'
+        options:
+            -
+                correct: true
+                value: 'Die ACSM-Formel'
+            -
+                correct: true
+                value: 'Die Karvonen-Formel'
+            -
+                correct: false
+                value: 'Die VO2max-Formel'
+    -
+        text: 'Was ist bezeichnend für ein Grundlagenausdauertraining?'
+        options:
+            -
+                correct: false
+                value: 'eine intervallartige Belastung'
+            -
+                correct: true
+                value: 'eine konstante Belastung'
+            -
+                correct: true
+                value: 'Hauptwirkung über die Dauer'
+            -
+                correct: false
+                value: 'Hauptwirkung über die Intensität'
+    -
+        text: 'Was ist bezeichnend für ein Intervalltraining?'
+        options:
+            -
+                correct: true
+                value: 'eine nicht konstante Belastung'
+            -
+                correct: false
+                value: 'eine konstante Belastung'
+            -
+                correct: false
+                value: 'Hauptwirkung über die Dauer'
+            -
+                correct: true
+                value: 'Hauptwirkung über die Intensität'
+    -
+        text: 'Welche Kraftfähigkeiten kennst du?'
+        options:
+            -
+                correct: true
+                value: 'Maximalkraft'
+            -
+                correct: false
+                value: 'Minimalkraft'
+            -
+                correct: true
+                value: 'Schnellkraft'
+            -
+                correct: true
+                value: 'Kraftausdauer'
+    -
+        text: '"Bitte den Satz vervollständigen: Maximalkraft'
+        options:
+            -
+                correct: true
+                value: ' ist die Fähigkeit des Nerv-Muskelsystems …"'
+            -
+                correct: false
+                value: ' ist die Fähigkeit des Nerv-Muskelsystems …"'
+    -
+        text: 'Wodurch wird eine Steigerung der Reaktivkraft erreicht?'
+        options:
+            -
+                correct: false
+                value: 'durch Hypertrophie Training '
+            -
+                correct: true
+                value: 'durch plyometrisches Training'
+            -
+                correct: false
+                value: 'durch Kraftausdauer Training'
+    -
+        text: 'Was bedeutet der Begriff „Hypertrophie“?'
+        options:
+            -
+                correct: false
+                value: 'eine Vermehrung von Muskelzellen'
+            -
+                correct: true
+                value: 'eine Verdickung von Muskelzellen'
+    -
+        text: 'Wodurch entsteht Muskelkater?'
+        options:
+            -
+                correct: true
+                value: 'Wasseransammlungen (Ödeme) '
+            -
+                correct: false
+                value: 'Milchsäureansammlung'
+            -
+                correct: false
+                value: 'Laktatüberschuss  '
+    -
+        text: 'Was sind Merkmale von Muskelfasern?'
+        options:
+            -
+                correct: true
+                value: 'können mehrere Zentimeter lang sein '
+            -
+                correct: true
+                value: 'enthalten viele Mitochondrien'
+            -
+                correct: true
+                value: 'Kontraktion durch Nervenimpulse'
+    -
+        text: 'Was hilft gegen „Muskelkater“?'
+        options:
+            -
+                correct: false
+                value: 'kräftige Massagen'
+            -
+                correct: true
+                value: 'Wärmebehandlungen'
+            -
+                correct: true
+                value: 'Saunagänge'
+    -
+        text: 'Worin liegt der Unterschied zwischen einer konzentrischen und exzentrischen Bewegung?'
+        options:
+            -
+                correct: true
+                value: 'Konzentrisch = Überwindend'
+            -
+                correct: false
+                value: 'Konzentrisch = Nachgebend'
+            -
+                correct: false
+                value: 'Exzentrisch = Überwindend'
+            -
+                correct: true
+                value: 'Exzentrisch = Nachgebend'
+    -
+        text: 'Bitte den Satz vervollständigen: Schnellkraft ist die Fähigkeit in kürzester Zeit einen möglichst … '
+        options:
+            -
+                correct: false
+                value: '… großen Widerstand zu überwinden.'
+            -
+                correct: true
+                value: '… hohen Kraftstoß zu realisieren.'
+    -
+        text: 'Bitte den Satz vervollständigen: ST-Fasern sind im Vergleich zu FT-Fasern …'
+        options:
+            -
+                correct: false
+                value: '… in der Kontraktion schneller.'
+            -
+                correct: true
+                value: '… in der Kontraktion langsamer. '
+            -
+                correct: true
+                value: '… im Durchmesser kleiner. '
+            -
+                correct: true
+                value: '… ausdauernder.'
+    -
+        text: 'Was sind mögliche Ziele eines Krafttrainings?'
+        options:
+            -
+                correct: true
+                value: 'Prävention und Rehabilitation'
+            -
+                correct: true
+                value: 'Körperstabilisierung'
+            -
+                correct: true
+                value: 'verbesserte Reaktivkraft'
+            -
+                correct: true
+                value: 'intramuskuläre Koordination'
+    -
+        text: 'Welche Organisationsformen des Krafttrainings sind dir bekannt?'
+        options:
+            -
+                correct: true
+                value: 'Zirkeltraining'
+            -
+                correct: true
+                value: 'Stationstraining'
+            -
+                correct: true
+                value: 'Split-Training'
+            -
+                correct: true
+                value: 'Antagonisten-Training'
+            -
+                correct: true
+                value: 'Sequenztraining'
+    -
+        text: 'Bitte den Satz vervollständigen: Eine Wiederholung entspricht …'
+        options:
+            -
+                correct: false
+                value: '… einem Satz der gleichen Übung.'
+            -
+                correct: true
+                value: '… einer Ausführung innerhalb eines festgelegten Bewegungsablaufs.'
+    -
+        text: 'Bitte den Satz vervollständigen: Eine Station entspricht mehreren … '
+        options:
+            -
+                correct: true
+                value: '… Sätzen/Serien der gleichen Übung. '
+            -
+                correct: false
+                value: '… Sätzen/Serien mit unterschiedlicher Wiederholungszahl. '
+    -
+        text: 'Bitte den Satz vervollständigen: Ein Satz/eine Serie entspricht mehreren …'
+        options:
+            -
+                correct: false
+                value: '... nacheinander ausgeführten Übungen.'
+            -
+                correct: true
+                value: '... nacheinander ausgeführten Wiederholungen.'
+    -
+        text: 'In welchem Wiederholungsbereich trainiert man in der Regel beim Maximalkraft Training?'
+        options:
+            -
+                correct: false
+                value: '3 – 6'
+            -
+                correct: false
+                value: '5 – 8'
+            -
+                correct: true
+                value: '1 – 5'
+    -
+        text: 'In welchem Wiederholungsbereich trainiert man in der Regel beim Hypertrophie Training?'
+        options:
+            -
+                correct: true
+                value: '6 – 12'
+            -
+                correct: false
+                value: '3 – 8'
+            -
+                correct: false
+                value: '8 – 20'
+    -
+        text: 'In welchem Wiederholungsbereich trainiert man in der Regel bei einem Kraftausdauer Training?'
+        options:
+            -
+                correct: false
+                value: '20 – 35'
+            -
+                correct: true
+                value: '13 – 25'
+            -
+                correct: false
+                value: '6 – 12'
+    -
+        text: 'Wann sollte bei der Durchführung einer Wiederholung ausgeatmet werden?'
+        options:
+            -
+                correct: true
+                value: 'in der konzentrischen Phase'
+            -
+                correct: false
+                value: 'in der exzentrischen Phase'
+            -
+                correct: true
+                value: 'in der überwindenden Phase'
+            -
+                correct: false
+                value: 'in der nachgebenden Phase'
+    -
+        text: 'Welche Folgen kann Pressatmung im Krafttraining haben?'
+        options:
+            -
+                correct: true
+                value: 'Verminderte Durchblutung des Herzmuskels'
+            -
+                correct: true
+                value: 'Druckerhöhung im Brustraum'
+            -
+                correct: true
+                value: 'Schädigungen der Blutgefäße'
+    -
+        text: 'Was begünstigt Seitenstechen?'
+        options:
+            -
+                correct: true
+                value: 'eine schlechte Körperhaltung'
+            -
+                correct: true
+                value: 'ein voller Magen'
+            -
+                correct: true
+                value: 'ungenügendes Aufwärmen'
+    -
+        text: 'Was hilft gegen Seitenstechen?'
+        options:
+            -
+                correct: true
+                value: 'kontrolliertes und tiefes Einatmen '
+            -
+                correct: true
+                value: 'die Intensität zurückfahren'
+            -
+                correct: false
+                value: 'die Arme über den Kopf heben '
+    -
+        text: 'Was ist unter Kadenz zu verstehen?'
+        options:
+            -
+                correct: false
+                value: 'Bewegungsdauer der Trainingsphasen'
+            -
+                correct: true
+                value: 'Dauer der Intensität'
+            -
+                correct: false
+                value: 'Geschwindigkeit'
+    -
+        text: 'Wie lang sollte die Pause zwischen zwei Sätzen dauern?'
+        options:
+            -
+                correct: false
+                value: '10-20 Sekunden'
+            -
+                correct: true
+                value: '30 Sekunden bis 1 Minute'
+            -
+                correct: false
+                value: '"immer 2'
+    -
+        text: 'Welche Vorteile hat ein „Mehr-Satz-Training“ gegenüber einem „Ein-Satz-Training“?'
+        options:
+            -
+                correct: false
+                value: 'kürzere Trainingszeit'
+            -
+                correct: true
+                value: 'Steigerung von Kraft und Ausdauer'
+            -
+                correct: true
+                value: 'höhere Muskelquerschnittszunahme'
+            -
+                correct: true
+                value: 'verbesserte Beweglichkeit'
+            -
+                correct: true
+                value: 'verbesserte Koordination'
+    -
+        text: 'Wie wird Kraftausdauer differenziert?'
+        options:
+            -
+                correct: true
+                value: 'in dynamisch und statisch '
+            -
+                correct: false
+                value: 'in positiv und negativ'
+            -
+                correct: false
+                value: 'in konzentrisch und exzentrisch'
+    -
+        text: 'Was verbessert intermuskuläres Koordinationstraining?'
+        options:
+            -
+                correct: true
+                value: 'das Zusammenspiel zwischen Nervensystem und Muskeln '
+            -
+                correct: false
+                value: 'die Erhöhung des Kraftniveaus '
+    -
+        text: 'Was sollte bei einarmigen Kurzhantelübungen (z. B. Schulterdrücken stehend) beachtet werden?'
+        options:
+            -
+                correct: true
+                value: 'ein Gegengewicht als Lastausgleich aufzunehmen'
+            -
+                correct: false
+                value: 'sich dabei hinzusetzen '
+    -
+        text: 'Warum wird ein propriozeptives Training durchgeführt?'
+        options:
+            -
+                correct: true
+                value: 'zur Wiederherstellung koordinativer Fähigkeiten'
+            -
+                correct: false
+                value: 'die Erhöhung des Kraftniveaus'
+            -
+                correct: true
+                value: 'zur Verbesserung der Tiefensensibilität'
+    -
+        text: 'Was verbessert intramuskuläres Koordinationstraining?'
+        options:
+            -
+                correct: false
+                value: 'das Zusammenspiel zwischen Nervensystem und Muskeln'
+            -
+                correct: true
+                value: 'die Erhöhung des Kraftniveaus '
+    -
+        text: 'Welche Nachteile hat ein intramuskuläres Koordinationstraining?'
+        options:
+            -
+                correct: true
+                value: 'hohe psychische Belastung'
+            -
+                correct: true
+                value: 'hohe Verletzungsgefahr'
+            -
+                correct: false
+                value: 'hoher Zeitaufwand'
+    -
+        text: 'Welche Begriffe stehen im Zusammenhang mit Schnelligkeitstraining?'
+        options:
+            -
+                correct: true
+                value: 'Reaktionsschnelligkeit'
+            -
+                correct: true
+                value: 'Bewegungsschnelligkeit '
+            -
+                correct: false
+                value: 'Frequenzschnelligkeit'
+            -
+                correct: false
+                value: 'Intervallschnelligkeit'
+    -
+        text: 'Bitte den Satz vervollständigen: Die Beweglichkeit definiert sich über …'
+        options:
+            -
+                correct: true
+                value: '… die Gelenkigkeit.'
+            -
+                correct: false
+                value: '… das Gleichgewicht.'
+            -
+                correct: true
+                value: '… die Dehnfähigkeit.'
+            -
+                correct: false
+                value: '… die Ausdauer.'
+    -
+        text: 'Unter aktiver Beweglichkeit versteht man die Bewegungsweite die …'
+        options:
+            -
+                correct: true
+                value: '… von selbst erreicht werden kann.'
+            -
+                correct: false
+                value: '… mit Hilfe von außen erreicht werden kann.'
+    -
+        text: 'Unter passiver Beweglichkeit versteht man die Bewegungsweite die …'
+        options:
+            -
+                correct: false
+                value: '… von selbst erreicht werden kann.'
+            -
+                correct: true
+                value: '… mit Hilfe von außen erreicht werden kann.'

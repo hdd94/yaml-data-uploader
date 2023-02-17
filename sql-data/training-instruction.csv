@@ -1,0 +1,84 @@
+198,Welche Makronährstoffe sind dir bekannt?,"Fette, Kohlenhydrate, Vitamine",0
+198,Welche Makronährstoffe sind dir bekannt?,"Eiweiße, Mineralstoffe, Fette",0
+198,Welche Makronährstoffe sind dir bekannt?,"Kohlenhydrate, Eiweiße, Fette",1
+199,Welche Mikronährstoffe sind dir bekannt?,"Fette, Mineralstoffe, Kohlenhydrate",0
+199,Welche Mikronährstoffe sind dir bekannt?,"Vitamine, Mineralstoffe, Spurenelemente",1
+199,Welche Mikronährstoffe sind dir bekannt?,"Spurenelemente, Eiweiße, Mineralstoffe",0
+200,Welche physikalischen Kalorienangaben stimmen?,"1g Fett = 9,3 kcal",1
+200,Welche physikalischen Kalorienangaben stimmen?,"1g Eiweiß = 5,7 kcal",0
+200,Welche physikalischen Kalorienangaben stimmen?,"1g Kohlenhydrate = 4,1 kcal",1
+200,Welche physikalischen Kalorienangaben stimmen?,"1g Eiweiß = 4,1 kcal",1
+200,Welche physikalischen Kalorienangaben stimmen?,"1g Kohlenhydrate = 5,3 kcal",0
+201,Von welchen Faktoren ist der Energiebedarf abhängig?,vom Grundumsatz,1
+201,Von welchen Faktoren ist der Energiebedarf abhängig?,vom Arbeitsumsatz,1
+201,Von welchen Faktoren ist der Energiebedarf abhängig?,vom Freizeitumsatz,1
+201,Von welchen Faktoren ist der Energiebedarf abhängig?,vom Haushaltsumsatz,0
+202,Von welchen Faktoren ist der Grundumsatz abhängig?,Alter,1
+202,Von welchen Faktoren ist der Grundumsatz abhängig?,Körpergröße,1
+202,Von welchen Faktoren ist der Grundumsatz abhängig?,Körpergewicht,1
+202,Von welchen Faktoren ist der Grundumsatz abhängig?,Anteil der Muskelmasse,1
+202,Von welchen Faktoren ist der Grundumsatz abhängig?,sportliche Aktivität,0
+203,Der Weg der Nahrung. Welche Reihenfolge stimmt?,"Mund, Speiseröhre, Magen, Dünndarm, Mastdarm, Dickdarm",0
+203,Der Weg der Nahrung. Welche Reihenfolge stimmt?,"Mund, Speiseröhre, Magen, Dünndarm, Dickdarm, Mastdarm",1
+203,Der Weg der Nahrung. Welche Reihenfolge stimmt?,"Mund, Speiseröhre, Magen, Mastdarm, Dünndarm, Dickdarm",0
+204,Was sind Ursachen für Übergewicht?,Fehl- und Überernährung,1
+204,Was sind Ursachen für Übergewicht?,körperliche Inaktivität,1
+204,Was sind Ursachen für Übergewicht?,regelmäßiger Nikotin- und Alkoholkonsum ,1
+204,Was sind Ursachen für Übergewicht?,Vererbung,1
+204,Was sind Ursachen für Übergewicht?,Hormonelle Faktoren,1
+205,Was sind Symptome des Metabolischen Syndroms?,starkes Übergewicht,1
+205,Was sind Symptome des Metabolischen Syndroms?,Bluthochdruck,1
+205,Was sind Symptome des Metabolischen Syndroms?,erhöhter Blutzuckerspiegel,1
+205,Was sind Symptome des Metabolischen Syndroms?,erhöhte Reizbarkeit,0
+206,Hier bitte die richtigen Werte für den Body-Mass-Index (BMI) eingeben!,Übergewicht ist definiert als > BMI ,
+206,Hier bitte die richtigen Werte für den Body-Mass-Index (BMI) eingeben!,Adipositas ist definiert als > BMI ,
+207,Mit Hilfe welcher Methode kann das Ausmaß des viszeralen Fetts beurteilt werden?,Taille-Hüft-Quotient,1
+207,Mit Hilfe welcher Methode kann das Ausmaß des viszeralen Fetts beurteilt werden?,Body-Mass-Index,0
+208,Durch welche Empfehlungen kann einer Insulinresistenz vorgebeugt werden?,Lebensmittel mit niedriger glykämischer Last wählen,1
+208,Durch welche Empfehlungen kann einer Insulinresistenz vorgebeugt werden?,weniger Weißmehlprodukte,1
+208,Durch welche Empfehlungen kann einer Insulinresistenz vorgebeugt werden?,weniger gesättigte Fette und Transfette,1
+209,Welche Lebensmittel haben eine „niedrige glykämische Last“?,Müsli und Cornflakes,0
+209,Welche Lebensmittel haben eine „niedrige glykämische Last“?,Eier und Milchprodukte,1
+209,Welche Lebensmittel haben eine „niedrige glykämische Last“?,Obst und Gemüse,1
+209,Welche Lebensmittel haben eine „niedrige glykämische Last“?,Fleisch und Fisch,1
+209,Welche Lebensmittel haben eine „niedrige glykämische Last“?,Reiswaffeln,0
+210,Was kann „dauerhaft zu viel Insulin im Blut“ bewirken?,Fettspeicherung,1
+210,Was kann „dauerhaft zu viel Insulin im Blut“ bewirken?,"zu viel, zu süß und zu fettiges Essen",1
+210,Was kann „dauerhaft zu viel Insulin im Blut“ bewirken?,Insulinresistenz,1
+210,Was kann „dauerhaft zu viel Insulin im Blut“ bewirken?,Zuckerschock,0
+211,Was gehört zu den 10 Regeln einer ausgewogenen Ernährung?,zweimal in der Woche Fisch ,1
+211,Was gehört zu den 10 Regeln einer ausgewogenen Ernährung?,sich zum Essen Zeit nehmen,1
+211,Was gehört zu den 10 Regeln einer ausgewogenen Ernährung?,fünf Mal am Tag Obst und Gemüse,1
+211,Was gehört zu den 10 Regeln einer ausgewogenen Ernährung?,sich nach einem deftigen Essen bewegen ,1
+211,Was gehört zu den 10 Regeln einer ausgewogenen Ernährung?,viel Fleisch und Wurst,0
+212,Für welche Personengruppen können Nahrungsergänzungen sinnvoll sein?,Hochleistungssportler ,1
+212,Für welche Personengruppen können Nahrungsergänzungen sinnvoll sein?,Senioren ,1
+212,Für welche Personengruppen können Nahrungsergänzungen sinnvoll sein?,Schwangere und Stillende ,1
+212,Für welche Personengruppen können Nahrungsergänzungen sinnvoll sein?,Veganer ,1
+212,Für welche Personengruppen können Nahrungsergänzungen sinnvoll sein?,Fitness- und Freizeitsportler,0
+213,Was passiert durch reinen Nahrungsentzug?,"die Muskulatur verringert sich, der Grundumsatz und die Fettverbrennung gehen zurück",1
+213,Was passiert durch reinen Nahrungsentzug?,das Fett wird weniger und der Leistungsumsatz erhöht sich,0
+214,"Ist es möglich, durch Training nur an einer bestimmten Stelle die Fettschicht zu verringern?",nein ,1
+214,"Ist es möglich, durch Training nur an einer bestimmten Stelle die Fettschicht zu verringern?",ja,0
+215,Welche Körperfettanteilreduktion pro Woche ist realistisch?,250 - 550g,1
+215,Welche Körperfettanteilreduktion pro Woche ist realistisch?,800 - 1000g,0
+215,Welche Körperfettanteilreduktion pro Woche ist realistisch?,1000 - 1200g,0
+216,Wofür benötigt der Körper Eiweiß?,für das Krafttraining,0
+216,Wofür benötigt der Körper Eiweiß?,für die Zellregeneration,1
+216,Wofür benötigt der Körper Eiweiß?,für das Immunsystem,1
+217,Welche Eiweiße sind für eine gesunde Ernährung wichtig?,Tierische,0
+217,Welche Eiweiße sind für eine gesunde Ernährung wichtig?,Pflanzliche,0
+217,Welche Eiweiße sind für eine gesunde Ernährung wichtig?,Tierische und pflanzliche,1
+218,Welche Fette sind für eine gesunde Ernährung wichtig?,Hochungesättigte Fettsäuren,1
+218,Welche Fette sind für eine gesunde Ernährung wichtig?,gesättigte Fette,0
+218,Welche Fette sind für eine gesunde Ernährung wichtig?,Transfette,0
+218,Welche Fette sind für eine gesunde Ernährung wichtig?,keine Fette,0
+219,Warum ist Fett für den Körper lebensnotwendig?,Isolier- und Schutzschicht,1
+219,Warum ist Fett für den Körper lebensnotwendig?,Strukturfett im Gehirn,1
+219,Warum ist Fett für den Körper lebensnotwendig?,Aufnahmebeschleuniger für bestimmte Vitamine,1
+219,Warum ist Fett für den Körper lebensnotwendig?,Geschmacksträger,0
+220,Was sind Lieferanten hochungesättigter Fette?,Milchprodukte,0
+220,Was sind Lieferanten hochungesättigter Fette?,Tiefseefische,1
+220,Was sind Lieferanten hochungesättigter Fette?,Wallnüsse,1
+220,Was sind Lieferanten hochungesättigter Fette?,Reis,0
+220,Was sind Lieferanten hochungesättigter Fette?,Leinsamen,1

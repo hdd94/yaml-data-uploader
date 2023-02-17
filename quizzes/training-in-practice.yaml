@@ -1,65 +1,363 @@
 id: training-in-practice
-title: 'Anatomy and Physiology'
+title: 'Training in Practice'
 questions:
     -
-        text: 'Which of the following are parts of a cell?'
+        text: 'Auf was sollte ein Trainer im Umgang mit Kunden achten?'
         options:
             -
                 correct: true
-                value: 'cell body'
+                value: 'respektvolles Verhalten'
             -
                 correct: true
-                value: 'cell nucleus'
+                value: 'Glaubwürdigkeit'
             -
                 correct: true
-                value: 'cell membrane'
+                value: 'Freundlichkeit'
             -
                 correct: false
-                value: 'cell stem'
-
+                value: 'übertriebene Distanz'
+            -
+                correct: true
+                value: 'gepflegtes Erscheinungsbild'
     -
-        text: 'In which part of the cell can you find the DNA (deoxyribonucleic acid)?'
+        text: 'Nach welchem Schema sollte eine Übungsunterweisung erfolgen?'
         options:
             -
-                correct: false
-                value: 'cell body'
-            -
                 correct: true
-                value: 'cell nucleus'
+                value: 'didaktisch - methodisch'
             -
                 correct: false
-                value: 'cell membrane'
+                value: 'theoretisch'
             -
                 correct: false
-                value: 'cell stem'
+                value: 'praktisch'
+            -
+                correct: false
+                value: 'genau'
     -
-        text: 'Which of the following are parts of a cell?'
+        text: 'Sollte man bei einer Übungsdemonstration auch zeigen wie man es nicht macht?'
         options:
             -
                 correct: true
-                value: 'cell body'
-            -
-                correct: true
-                value: 'cell nucleus'
-            -
-                correct: true
-                value: 'cell membrane'
+                value: 'Nein'
             -
                 correct: false
-                value: 'cell stem'
-
+                value: 'Ja'
+            -
+                correct: false
+                value: 'Manchmal'
     -
-        text: 'In which part of the cell can you find the DNA (deoxyribonucleic acid)?'
+        text: 'Welche Sicherheitsaspekte müssen bei einer Trainingseinweisung beachtet werden?'
+        options:
+            -
+                correct: true
+                value: 'Sind Seil- und Gummizüge evtl. eingerissen?  '
+            -
+                correct: true
+                value: 'Sind Steckstifte bis zum Anschlag eingesteckt? '
+            -
+                correct: true
+                value: 'Sind Karabinerhaken geschlossen? '
+            -
+                correct: true
+                value: 'Ist das Gewicht (freien Hanteln) gleichmäßig verteilt? '
+            -
+                correct: true
+                value: 'Sind die Hantelscheiben auf jeder Seite gesichert? '
+    -
+        text: 'Was ist bei der Fehlerkorrektur eines Kunden zu beachten?'
+        options:
+            -
+                correct: true
+                value: 'respektvoll und ruhig auf den Fehler hinweisen'
+            -
+                correct: false
+                value: 'den Kunden ohne ihn zu fragen anzufassen'
+            -
+                correct: false
+                value: 'den Kunden während seiner Übung unterbrechen'
+            -
+                correct: false
+                value: 'den Kunden hörbar auf seine Fehler hinweisen'
+            -
+                correct: true
+                value: 'evtl. eine „noch effektivere Variante“ empfehlen'
+    -
+        text: 'Was ist ein wichtiger Hinweis beim Training mit der Beinpresse?'
         options:
             -
                 correct: false
-                value: 'cell body'
+                value: 'Stabilen Stand einnehmen!'
             -
                 correct: true
-                value: 'cell nucleus'
+                value: 'Die Knie in der Endposition nicht durchstrecken!'
             -
                 correct: false
-                value: 'cell membrane'
+                value: 'Gesäßmuskulatur anspannen (zur ISG-Stabilisierung)!'
             -
                 correct: false
-                value: 'cell stem'
+                value: 'Aufrechte symmetrische Haltung einnehmen!'
+            -
+                correct: false
+                value: 'Den Kopf an das Poster anlegen!'
+    -
+        text: 'Welche Stabilisierungshinweise sind bei aufrecht stehenden Krafttrainingsübungen sinnvoll?'
+        options:
+            -
+                correct: true
+                value: 'Stabilen Stand einnehmen! '
+            -
+                correct: true
+                value: 'Die Knie leicht gebeugt halten! '
+            -
+                correct: true
+                value: 'Gesäßmuskulatur anspannen (zur ISG-Stabilisierung)! '
+            -
+                correct: true
+                value: 'Aufrechte symmetrische Haltung einnehmen! '
+            -
+                correct: false
+                value: 'Den Kopf nicht bewegen!'
+    -
+        text: 'Wie könntest du einen Kunden im Studio langfristig motivieren?'
+        options:
+            -
+                correct: false
+                value: 'Animation'
+            -
+                correct: false
+                value: 'Small Talk'
+            -
+                correct: true
+                value: 'echtes Interesse '
+            -
+                correct: true
+                value: 'Anerkennung der Kundenleistung'
+    -
+        text: 'Wofür benötigt ein Trainer biomechanische Kenntnisse?'
+        options:
+            -
+                correct: true
+                value: 'Um Bewegungsabläufe richtig zu analysieren.'
+            -
+                correct: true
+                value: 'Um evtl. Zwangslagen zu erkennen.'
+            -
+                correct: true
+                value: 'Um die optimale Sitzposition einzustellen.'
+            -
+                correct: true
+                value: 'Um Maschinendrehachsen richtig einzustellen.'
+            -
+                correct: false
+                value: 'Um biometrische Daten auswerten zu können.'
+    -
+        text: 'In „vollständigem ROM“ zu trainieren bedeutet?'
+        options:
+            -
+                correct: false
+                value: 'unter maximaler Belastung'
+            -
+                correct: false
+                value: 'unter maximaler Konzentration'
+            -
+                correct: true
+                value: 'mit der maximalen Bewegungsamplitude '
+    -
+        text: 'Welche Vorteile hat ROM-Training?'
+        options:
+            -
+                correct: true
+                value: 'verbesserte Koordination '
+            -
+                correct: true
+                value: 'verbesserte Beweglichkeit '
+            -
+                correct: false
+                value: 'verbesserte Schnellkraft'
+            -
+                correct: true
+                value: 'verbesserter Gelenkschutz '
+    -
+        text: 'Welchen Aussagen bzgl. „Ristgriff“ und „Kammgriff“ stimmst du zu?'
+        options:
+            -
+                correct: true
+                value: 'beim Ristgriff zeigen die Daumen nach innen'
+            -
+                correct: false
+                value: 'beim Kammgriff zeigen die Daumen nach innen'
+            -
+                correct: false
+                value: 'beim Ristgriff wird „supiniert“ gegriffen'
+            -
+                correct: true
+                value: 'bei Kammgriff zeigen die Daumen nach außen'
+    -
+        text: 'Welcher Buchstabe gehört zum passenden Trainingsequipment? Bitte in das jeweilige Feld eingeben!'
+        options:
+            -
+                correct: true
+                value: 'Latzug-Griffe: '
+            -
+                correct: false
+                value: 'SZ-Stange: '
+            -
+                correct: false
+                value: 'Tube: '
+            -
+                correct: false
+                value: 'Kopfmanschette: '
+    -
+        text: 'Was sind gängige Übungsformen?'
+        options:
+            -
+                correct: true
+                value: 'freie Seilzugmaschinen'
+            -
+                correct: true
+                value: 'Maschinen mit Einzelaufhängungen'
+            -
+                correct: true
+                value: 'maschinenunabhängige Übungen '
+            -
+                correct: false
+                value: 'Stationstraining'
+            -
+                correct: false
+                value: 'Zirkeltraining'
+    -
+        text: 'Was zählt zu einer zwangsgekoppelten Maschine?'
+        options:
+            -
+                correct: false
+                value: 'Hüftpendel'
+            -
+                correct: false
+                value: 'Butterfly Maschine'
+            -
+                correct: true
+                value: 'Beinpresse'
+            -
+                correct: true
+                value: 'Beinstrecker'
+            -
+                correct: true
+                value: 'sitzende Wadenmaschine'
+    -
+        text: 'Zu welcher Übungsform gehören das Hüftpendel und die Butterflymaschine?'
+        options:
+            -
+                correct: false
+                value: 'zwangsgekoppelte Maschinen'
+            -
+                correct: true
+                value: 'Maschinen mit Einzelaufhängungen '
+            -
+                correct: false
+                value: 'zwangsgekoppelte freie Seilzugmaschinen'
+    -
+        text: 'Welches der Beispiele bezeichnet eine Isolationsübung?'
+        options:
+            -
+                correct: true
+                value: 'Bizepscurls an der Maschine'
+            -
+                correct: false
+                value: 'Beinpresse'
+            -
+                correct: true
+                value: 'Beinstrecker'
+            -
+                correct: true
+                value: 'Beinbeuger sitzend'
+    -
+        text: 'Welches Beispiel ist eine komplexe (mehrgelenkige) Übung?'
+        options:
+            -
+                correct: false
+                value: 'Beinbeugen sitzend'
+            -
+                correct: true
+                value: 'Klimmzüge'
+            -
+                correct: true
+                value: 'Kniebeugen'
+            -
+                correct: true
+                value: 'Kreuzheben'
+            -
+                correct: true
+                value: 'Beinheben hängend'
+    -
+        text: 'Welche Vorteile haben „Übungen an Maschinen“ gegenüber „freien Übungen“?'
+        options:
+            -
+                correct: true
+                value: 'geringere Verletzungsgefahr'
+            -
+                correct: true
+                value: 'schneller erlernbar'
+            -
+                correct: false
+                value: 'alltagsnahe Bewegungen möglich'
+            -
+                correct: false
+                value: 'zur Verbesserung der intermuskulären Koordination'
+    -
+        text: 'Welche Vorteile haben „freie Übungen“ gegenüber „Übungen an Maschinen“?'
+        options:
+            -
+                correct: true
+                value: 'mehrdimensionale Bewegungen möglich'
+            -
+                correct: false
+                value: 'keine Begrenzung von Bewegungsradien möglich '
+            -
+                correct: true
+                value: 'Verbesserung der Eigenstabilisierung'
+            -
+                correct: false
+                value: 'großer Betreuungsaufwand '
+    -
+        text: 'Welche Vorteile haben „Isolationsübungen“ im Vergleich zu „Mehrgelenkigen Übungen“?'
+        options:
+            -
+                correct: true
+                value: 'geringere Belastung für das Herz-Kreislauf-System'
+            -
+                correct: false
+                value: 'Muskelketten/-schlingen können besser aktiviert werden'
+            -
+                correct: true
+                value: 'intensivere Muskelbelastung'
+    -
+        text: 'Wann können Dehnungsübungen hilfreich sein?'
+        options:
+            -
+                correct: true
+                value: 'bei eingeschränkter muskulärer Flexibilität '
+            -
+                correct: true
+                value: 'bei körperlichen Dysbalancen'
+            -
+                correct: true
+                value: 'als Warm-up für z. B. Tanzsportarten'
+            -
+                correct: false
+                value: 'vor Kraftübungen wie z. B. Kniebeugen '
+    -
+        text: 'Wann ist von Dehnungsübungen abzuraten?'
+        options:
+            -
+                correct: true
+                value: 'vor Kraftübungen wie z. B. Kniebeugen'
+            -
+                correct: true
+                value: 'vor Schnelligkeitsübungen wie z. B. Tempoläufen'
+            -
+                correct: true
+                value: 'bei muskulären Entzündungen'
+            -
+                correct: false
+                value: 'bei körperlichen Fehlhaltungen'

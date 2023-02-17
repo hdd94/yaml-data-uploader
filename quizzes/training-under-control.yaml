@@ -1,65 +1,378 @@
 id: training-under-control
-title: 'Anatomy and Physiology'
+title: 'Training under Control'
 questions:
     -
-        text: 'Which of the following are parts of a cell?'
+        text: 'In welcher Phase sollte der Kunde hier ausatmen?'
         options:
             -
-                correct: true
-                value: 'cell body'
+                correct: false
+                value: 'beim nach unten gehen'
             -
                 correct: true
-                value: 'cell nucleus'
-            -
-                correct: true
-                value: 'cell membrane'
+                value: 'beim nach oben drücken'
             -
                 correct: false
-                value: 'cell stem'
-
+                value: 'ist egal'
     -
-        text: 'In which part of the cell can you find the DNA (deoxyribonucleic acid)?'
+        text: 'Warum sollten die Fußspitzen höher als die Knie sein?'
         options:
             -
-                correct: false
-                value: 'cell body'
-            -
                 correct: true
-                value: 'cell nucleus'
+                value: 'um eine Überbelastung in den Knien zu vermeiden '
             -
                 correct: false
-                value: 'cell membrane'
-            -
-                correct: false
-                value: 'cell stem'
+                value: 'damit die Beine nicht zu sehr auf den Oberkörper drücken'
     -
-        text: 'Which of the following are parts of a cell?'
+        text: '"Für welche Zielgruppe ist ""Abduktion stehend"" besonders zu empfehlen?"'
         options:
             -
                 correct: true
-                value: 'cell body'
-            -
-                correct: true
-                value: 'cell nucleus'
-            -
-                correct: true
-                value: 'cell membrane'
+                value: 'für Kunden mit leichten Kniebeschwerden'
             -
                 correct: false
-                value: 'cell stem'
-
+                value: 'für Kunden mit schweren Hüftbeschwerden'
     -
-        text: 'In which part of the cell can you find the DNA (deoxyribonucleic acid)?'
+        text: 'Worauf ist bei dieser Übung zu achten?'
+        options:
+            -
+                correct: true
+                value: 'die Knie- und die Maschinendrehachse stimmt überein'
+            -
+                correct: true
+                value: 'das Becken hebt sich nicht vom Polster ab'
+            -
+                correct: false
+                value: 'Die Kniegelenke werden komplett gestreckt'
+    -
+        text: 'Durch welche Möglichkeiten kann die Knieachse ausgerichtet werden?'
+        options:
+            -
+                correct: true
+                value: 'Mit der Einstellung des Rückenpolsters'
+            -
+                correct: false
+                value: 'Mit der Einstellung der Beinfixierung'
+            -
+                correct: true
+                value: 'Mit der Einstellung der Sitzhöhe'
+    -
+        text: 'Warum sollte die seitliche Bauchmuskulatur gezielt trainiert werden?'
+        options:
+            -
+                correct: true
+                value: 'um die Wirbelsäule muskulär zu sichern'
+            -
+                correct: false
+                value: 'um den Bauch besser zu definieren '
+    -
+        text: 'Eignet sich die dargestellte Übung zur Stabilisierung der LWS?'
         options:
             -
                 correct: false
-                value: 'cell body'
+                value: 'nein'
             -
                 correct: true
-                value: 'cell nucleus'
+                value: 'ja'
+    -
+        text: 'Worauf ist bei der Beinstreckmaschine zu achten?'
+        options:
+            -
+                correct: true
+                value: 'Knie- und Maschinendrehachse stimmen überein'
+            -
+                correct: true
+                value: 'Eine maximale Beugung ist bei Kniebeschwerden zu begrenzen'
             -
                 correct: false
-                value: 'cell membrane'
+                value: 'Keine maximale Streckung durchführen'
+    -
+        text: 'Wie können hier unterschiedliche Wirbelsäulensegmente trainiert werden?'
+        options:
+            -
+                correct: true
+                value: 'Indem man die Sitzhöhe variiert'
             -
                 correct: false
-                value: 'cell stem'
+                value: 'Indem man den Körper mit bewegt'
+    -
+        text: '"Was unterscheidet Hyperextensionen frei'
+        options:
+            -
+                correct: true
+                value: ' von einer sitzenden Rückenstreckmaschine?"'
+            -
+                correct: false
+                value: ' von einer sitzenden Rückenstreckmaschine?"'
+            -
+                correct: true
+                value: ' von einer sitzenden Rückenstreckmaschine?"'
+    -
+        text: '"Ist es wichtig'
+        options:
+            -
+                correct: true
+                value: ' während dieser Übung die Schulterblätter „hinten unter Spannung“ zu halten?"'
+            -
+                correct: true
+                value: ' während dieser Übung die Schulterblätter „hinten unter Spannung“ zu halten?"'
+            -
+                correct: true
+                value: ' während dieser Übung die Schulterblätter „hinten unter Spannung“ zu halten?"'
+    -
+        text: 'Was ist beim Lat-Ziehen zu beachten?'
+        options:
+            -
+                correct: true
+                value: 'die Handgelenke in der vollständigen Zugbewegung nicht abknicken'
+            -
+                correct: true
+                value: 'die Schulterblätter in der rückführenden Bewegung nicht aushängen'
+            -
+                correct: false
+                value: 'den Körper mit Schwung bewegen'
+    -
+        text: '"Warum sollte die Brust bei der Übung ""Butterfly reverse"" am Brustpolster bleiben?"'
+        options:
+            -
+                correct: true
+                value: 'Um ein Abfälschen bei dieser Übung zu vermeiden'
+            -
+                correct: true
+                value: 'Um evtl. Rückenverletzungen vorzubeugen'
+            -
+                correct: false
+                value: 'Um den Bauch zu stabilisieren'
+    -
+        text: 'Warum ist Langhantel-Rudern für einen Anfänger eher ungeeignet?'
+        options:
+            -
+                correct: true
+                value: 'hohe Fehleranfälligkeit'
+            -
+                correct: true
+                value: 'hoher Schwierigkeitsgrad '
+            -
+                correct: false
+                value: 'geringer Koordinationsaufwand '
+    -
+        text: 'Pull Over Maschine: Was ist bei der Einstellung der Sitzhöhe zu beachten?'
+        options:
+            -
+                correct: true
+                value: 'Die Schultergelenke und die Maschinendrehachse müssen übereinstimmen.'
+            -
+                correct: false
+                value: 'Der Hüftwinkel muss 45 Grad betragen.'
+    -
+        text: 'Für welche Zielgruppe ist die Übung HWS-Extension besonders geeignet? Für Personen die …'
+        options:
+            -
+                correct: true
+                value: '… mehrere Stunden täglich am Computer sitzen. '
+            -
+                correct: true
+                value: '… mehrere Stunden täglich im Auto sitzen. '
+            -
+                correct: false
+                value: '… ein Schleudertrauma haben.'
+    -
+        text: 'Was ist beim Abstand der Griffbreite zu beachten?'
+        options:
+            -
+                correct: true
+                value: '"Je breiter der Griff'
+            -
+                correct: false
+                value: '"Je breiter der Griff'
+    -
+        text: 'Warum sollte beim freien Kniebeugen die Aufwärtsbewegung mit dem Kopf beginnen?'
+        options:
+            -
+                correct: false
+                value: 'Um den Rücken zu entlasten'
+            -
+                correct: true
+                value: 'Um „Bogenspannung“ des Körpers zu erhalten'
+            -
+                correct: false
+                value: 'Um nicht ins „Hohlkreuz“ zu gelangen'
+    -
+        text: 'Wann ist es sinnvoll die Langhantel beim Kreuzheben versetzt zu greifen?'
+        options:
+            -
+                correct: false
+                value: 'Bei vielen Wiederholungen'
+            -
+                correct: false
+                value: 'Bei vielen Sätzen '
+            -
+                correct: true
+                value: 'Bei hohem Gewicht'
+    -
+        text: 'Welcher Aussage stimmst du zu?'
+        options:
+            -
+                correct: true
+                value: 'Je breiter der Stand desto stärker die Gesäßbeanspruchung.'
+            -
+                correct: false
+                value: '"Je breiter der Stand'
+    -
+        text: 'Was ist bei der Einstellung der Sitzhöhe zu beachten?'
+        options:
+            -
+                correct: true
+                value: 'Die Griffe befinden sich auf Brusthöhe. '
+            -
+                correct: true
+                value: 'Der Körper liegt am Rückenpolster an. '
+            -
+                correct: false
+                value: 'Die Beine können ausgestreckt werden.'
+    -
+        text: 'Warum sollte sich die Griffposition nicht über der Brusthöhe befinden?'
+        options:
+            -
+                correct: true
+                value: 'Damit die Ellenbogen über der Hand positioniert werden können. '
+            -
+                correct: true
+                value: 'Geringere Gelenkbelastung von Ellenbogen und Schulter. '
+            -
+                correct: false
+                value: 'Weil dann der Brustmuskel nicht mehr trainiert wird.'
+    -
+        text: 'Warum sollte die Langhantel bei der Übungsausführung die Brust berühren?'
+        options:
+            -
+                correct: true
+                value: 'Um eine größtmögliche Bewegungsamplitude auszunutzen.'
+            -
+                correct: true
+                value: 'Um die größtmögliche Muskelkontraktion zu erreichen. '
+            -
+                correct: false
+                value: 'Um eine Verletzung auszuschließen.'
+    -
+        text: 'Warum sollten die Schultergelenke mit den Maschinendrehachsen übereinstimmen?'
+        options:
+            -
+                correct: true
+                value: 'Um ungünstige Gelenkbelastungen zu vermeiden.'
+            -
+                correct: false
+                value: 'Um ein „Körperschwingen“ zu vermeiden.'
+            -
+                correct: true
+                value: 'Um eine vollständige Bewegungsamplitude zu ermöglichen.'
+    -
+        text: '"Was ist zu beachten'
+        options:
+            -
+                correct: false
+                value: ' um den seitlichen Schulterkopf isoliert zu trainieren?"'
+            -
+                correct: true
+                value: ' um den seitlichen Schulterkopf isoliert zu trainieren?"'
+    -
+        text: 'Warum sollten hier die Achseln einen ständigen Kontakt zur Auflage haben?'
+        options:
+            -
+                correct: true
+                value: 'Um ein Mitschwingen des Schultergürtels zu vermeiden. '
+            -
+                correct: false
+                value: 'Um die komplette Amplitude auszunutzen.'
+    -
+        text: 'Warum sollte der Ellenbogen während der Bewegung frei fixiert bleiben?'
+        options:
+            -
+                correct: true
+                value: 'Um ein Mithelfen der Schultermuskeln zu reduzieren.'
+            -
+                correct: false
+                value: 'Um eine gleichmäßige Muskelbelastung zu erreichen.'
+    -
+        text: 'Durch welche Maßnahme könnte ein Abfälschen des Oberkörpers vermieden werden?'
+        options:
+            -
+                correct: true
+                value: 'Durch eine Brust- oder Rücken-Fixierung.'
+            -
+                correct: false
+                value: 'Durch eine Fixierung an Schulter oder Ellenbogen.'
+    -
+        text: 'Warum sollten bei der Ausführung die Ellenbogen am Körper fixiert bleiben?'
+        options:
+            -
+                correct: true
+                value: 'Um ein Mitschwingen der Oberarme zu vermeiden.'
+            -
+                correct: false
+                value: 'Um die Körperspannung aufrecht zu erhalten.'
+    -
+        text: 'Aus welchem Grund ist es sinnvoller die Stange hinter den Kopf und nicht zur Stirn zu führen?'
+        options:
+            -
+                correct: false
+                value: 'Weil sonst der Muskel an Spannung verliert.'
+            -
+                correct: true
+                value: 'Um mit einer größeren Bewegungsamplitude trainieren zu können. '
+    -
+        text: 'Was unterscheidet diese Übung von der Ausführung mit einer Kurzhantel?'
+        options:
+            -
+                correct: true
+                value: 'Kein Spannungsverlust in der exzentrischen Phase möglich'
+            -
+                correct: false
+                value: 'Ein höherer körperlicher und koordinativer Aufwand'
+            -
+                correct: true
+                value: 'Unterschiedliche Kraft- und Widerstandskurven'
+    -
+        text: 'Warum sollten bei der Ausführung die Schultern nicht komplett abgelegt werden?'
+        options:
+            -
+                correct: true
+                value: 'Um die Körperspannung besser zu halten. '
+            -
+                correct: true
+                value: 'Um intensiver zu trainieren.'
+            -
+                correct: true
+                value: 'Um den Muskel schneller zu ermüden.'
+    -
+        text: 'In welcher Bewegungsphase werden hier die unteren Bauchmuskeln dynamisch aktiviert?'
+        options:
+            -
+                correct: false
+                value: 'Im ersten Drittel der konzentrischen Phase'
+            -
+                correct: true
+                value: 'Im letzten Drittel der konzentrischen Phase'
+    -
+        text: '"Warum ist bei der Ausführung darauf zu achten'
+        options:
+            -
+                correct: true
+                value: ' nicht in ein ""Hohlkreuz"" zu fallen?"'
+            -
+                correct: false
+                value: ' nicht in ein ""Hohlkreuz"" zu fallen?"'
+            -
+                correct: false
+                value: ' nicht in ein ""Hohlkreuz"" zu fallen?"'
+            -
+                correct: true
+                value: ' nicht in ein ""Hohlkreuz"" zu fallen?"'
+    -
+        text: 'Durch welche Maßnahme könnte die Schulterbelastung hier reduziert werden?'
+        options:
+            -
+                correct: true
+                value: 'Diese Übung am Kabelzug durchführen.'
+            -
+                correct: false
+                value: 'Die Ellenbogen etwas mehr anwinkeln.'
